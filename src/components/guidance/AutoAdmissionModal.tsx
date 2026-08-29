@@ -31,24 +31,34 @@ export function AutoAdmissionModal() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    // Check if already shown or dismissed in this session
-    if (typeof window !== "undefined") {
-      const dismissed = sessionStorage.getItem("cg_auto_modal_dismissed");
-      if (!dismissed) {
-        const timer = setTimeout(() => {
-          setIsOpen(true);
-        }, 2800); // 2.8 second natural entry delay
+    if (typeof window === "undefined") return;
 
-        return () => clearTimeout(timer);
-      }
-    }
+    // If user has already completed and submitted the form, do not show again
+    const alreadySubmitted = localStorage.getItem("cg_lead_submitted");
+    if (alreadySubmitted) return;
+
+    // Initial gentle popup after 5 seconds
+    const initialTimer = setTimeout(() => {
+      setIsOpen(true);
+    }, 5000);
+
+    return () => clearTimeout(initialTimer);
   }, []);
 
   const handleClose = () => {
     setIsOpen(false);
-    if (typeof window !== "undefined") {
-      sessionStorage.setItem("cg_auto_modal_dismissed", "true");
-    }
+    
+    if (typeof window === "undefined") return;
+    const alreadySubmitted = localStorage.getItem("cg_lead_submitted");
+    if (alreadySubmitted) return;
+
+    // Smart Re-engagement: Re-display modal after 45 seconds if user didn't submit
+    setTimeout(() => {
+      const stillNotSubmitted = !localStorage.getItem("cg_lead_submitted");
+      if (stillNotSubmitted) {
+        setIsOpen(true);
+      }
+    }, 45000); // 45 seconds natural browsing interval
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -80,6 +90,9 @@ export function AutoAdmissionModal() {
 
       if (res.success) {
         setSuccessRef(res.leadReference);
+        if (typeof window !== "undefined") {
+          localStorage.setItem("cg_lead_submitted", "true");
+        }
       }
     } catch (err: any) {
       setError(err?.message || "Failed to submit. Please try again.");

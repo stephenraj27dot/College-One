@@ -203,8 +203,12 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
 
               {college.website_url && (
                 <a href={college.website_url} target="_blank" rel="noopener noreferrer" className="flex-1 sm:flex-none">
-                  <Button variant="outline" size="lg" className="w-full text-white border-slate-600 hover:bg-slate-800 gap-1.5">
-                    <Globe className="h-4 w-4" />
+                  <Button
+                    variant="outline"
+                    size="lg"
+                    className="w-full text-white bg-white/10 hover:bg-white/20 border-2 border-white/30 hover:border-amber-400 font-bold rounded-2xl gap-1.5 shadow-md transition-all"
+                  >
+                    <Globe className="h-4 w-4 text-blue-400" />
                     <span>Official Portal</span>
                     <ExternalLink className="h-3.5 w-3.5 opacity-70" />
                   </Button>
@@ -467,7 +471,11 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
                 </a>
 
                 <Link href={`/compare`} className="block w-full">
-                  <Button variant="outline" size="md" className="w-full text-white border-white/30 hover:bg-white/10 text-xs">
+                  <Button
+                    variant="outline"
+                    size="md"
+                    className="w-full text-white bg-white/10 hover:bg-white/20 border-2 border-white/30 hover:border-amber-400 font-bold rounded-2xl text-xs shadow-md transition-all"
+                  >
                     Compare with Other TN Colleges
                   </Button>
                 </Link>

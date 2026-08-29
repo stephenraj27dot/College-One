@@ -118,8 +118,8 @@ export function AutoAdmissionModal() {
             <X className="h-4 w-4" />
           </button>
 
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-400/20 text-amber-300 border border-amber-400/30 text-[10px] font-extrabold uppercase tracking-wider mb-2">
-            <Sparkles className="h-3 w-3" /> Free Admission Guidance 2026
+          <div className="inline-flex items-center px-3 py-1 rounded-full bg-amber-400/20 text-amber-300 border border-amber-400/30 text-[10px] font-extrabold uppercase tracking-wider mb-2">
+            Free Admission Guidance 2026
           </div>
 
           <h2 className="text-xl sm:text-2xl font-black tracking-tight">

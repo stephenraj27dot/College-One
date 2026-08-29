@@ -342,7 +342,7 @@ export default function AdminDashboardPage() {
     try {
       const slug = `${newCollege.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}-${newCollege.tnea_code || Math.floor(1000 + Math.random() * 9000)}`;
 
-      const { data, error } = await supabase.from("colleges").upsert([
+      const { data, error } = await (supabase.from as any)("colleges").upsert([
         {
           slug,
           name: newCollege.name,
@@ -442,12 +442,16 @@ export default function AdminDashboardPage() {
         <div className="absolute bottom-10 left-10 w-72 h-72 bg-blue-500/10 blur-[100px] pointer-events-none rounded-full" />
 
         <Container size="sm" className="relative z-10 w-full max-w-lg space-y-6">
-          {/* Header Badge & Title */}
+          {/* Header Badge & Title with Logo */}
           <div className="text-center space-y-3">
             <div className="relative inline-flex items-center justify-center">
-              <div className="absolute -inset-1.5 rounded-3xl bg-gradient-to-r from-amber-500 via-amber-300 to-orange-500 opacity-60 blur-lg animate-pulse" />
-              <div className="relative h-20 w-20 rounded-3xl bg-gradient-to-tr from-[#161a2e] to-[#252b48] border-2 border-amber-400/50 flex items-center justify-center text-amber-400 shadow-2xl">
-                <Lock className="h-9 w-9 text-[#f29a38] drop-shadow-[0_0_12px_rgba(242,154,56,0.8)]" />
+              <div className="absolute -inset-2 rounded-full bg-gradient-to-r from-amber-500 via-amber-300 to-orange-500 opacity-70 blur-xl animate-pulse" />
+              <div className="relative h-24 w-24 rounded-full bg-[#161a2e] border-2 border-amber-400 p-1.5 shadow-2xl overflow-hidden flex items-center justify-center">
+                <img
+                  src="/logo.jpg"
+                  alt="College Guide"
+                  className="h-full w-full object-cover rounded-full shadow-inner"
+                />
               </div>
             </div>
 
@@ -457,10 +461,10 @@ export default function AdminDashboardPage() {
             </div>
 
             <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
-              Admission Desk Console
+              Staff & Counsellor Gateway
             </h1>
             <p className="text-xs sm:text-sm text-slate-300 max-w-sm mx-auto leading-relaxed">
-              Protected workspace for College Guide counsellors, lead followups, live cutoff updates & manual college registration.
+              This area contains confidential student admission inquiries and is protected for College Guide staff only.
             </p>
           </div>
 
@@ -479,18 +483,18 @@ export default function AdminDashboardPage() {
 
               <div className="space-y-2">
                 <div className="flex items-center justify-between text-xs">
-                  <label className="font-bold text-slate-200">Enter Staff Master Passcode *</label>
-                  <span className="text-[11px] text-amber-400 font-bold">PIN: 96296</span>
+                  <label className="font-bold text-slate-200">Enter Staff Access Passcode</label>
+                  <span className="text-[11px] text-amber-400 font-bold">Master PIN: 96296</span>
                 </div>
 
                 <div className="relative">
                   <Input
                     type={showPassword ? "text" : "password"}
                     required
-                    placeholder="Enter security key..."
+                    placeholder="••••••••  (Enter 5-digit PIN)"
                     value={passcode}
                     onChange={(e) => setPasscode(e.target.value)}
-                    className="h-13 rounded-2xl bg-[#0c1021]/90 border-slate-700 text-white font-mono tracking-widest text-center text-lg pl-4 pr-12 focus:border-[#f29a38] focus:ring-2 focus:ring-[#f29a38]/20 shadow-inner"
+                    className="h-14 rounded-2xl bg-[#0b0e1b] border-slate-700 text-white font-mono text-center text-xl placeholder:text-slate-500 placeholder:text-sm placeholder:font-sans tracking-widest pl-4 pr-12 focus:border-amber-400 focus:ring-4 focus:ring-amber-500/20 shadow-inner transition-all"
                   />
                   <button
                     type="button"

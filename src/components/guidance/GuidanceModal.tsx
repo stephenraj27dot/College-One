@@ -155,22 +155,24 @@ export function GuidanceModal({
                   </label>
                   <Input
                     required
-                    placeholder="e.g. Aravind Kumar"
+                    placeholder="Enter full name"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
+                    className="h-10 rounded-xl"
                   />
                 </div>
 
                 <div className="space-y-1">
                   <label className="font-semibold text-slate-700">
-                    WhatsApp Number *
+                    Mobile / WhatsApp Number *
                   </label>
                   <Input
-                    required
                     type="tel"
-                    placeholder="10-digit mobile number"
+                    required
+                    placeholder="Enter mobile number"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
+                    className="h-10 rounded-xl"
                   />
                 </div>
               </div>
@@ -178,16 +180,15 @@ export function GuidanceModal({
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <div className="space-y-1">
                   <label className="font-semibold text-slate-700">
-                    12th / Cutoff Score (out of 200)
+                    12th / Cutoff Score (Optional)
                   </label>
                   <Input
                     type="number"
-                    step="0.25"
-                    min="50"
-                    max="200"
-                    placeholder="e.g. 192.50"
+                    step="0.01"
+                    placeholder="Enter cutoff (e.g. 185)"
                     value={cutoff}
                     onChange={(e) => setCutoff(e.target.value)}
+                    className="h-10 rounded-xl"
                   />
                 </div>
 

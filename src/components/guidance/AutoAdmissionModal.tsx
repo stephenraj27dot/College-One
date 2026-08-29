@@ -173,7 +173,7 @@ export function AutoAdmissionModal() {
                 <Input
                   type="text"
                   required
-                  placeholder="e.g. Anbarasan M"
+                  placeholder="Enter full name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   className="h-10 rounded-xl"
@@ -186,7 +186,7 @@ export function AutoAdmissionModal() {
                   <Input
                     type="tel"
                     required
-                    placeholder="e.g. 9876543210"
+                    placeholder="Enter mobile number"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
                     className="h-10 rounded-xl"
@@ -198,7 +198,7 @@ export function AutoAdmissionModal() {
                   <Input
                     type="number"
                     step="0.01"
-                    placeholder="e.g. 187.5"
+                    placeholder="Enter cutoff (e.g. 185)"
                     value={cutoff}
                     onChange={(e) => setCutoff(e.target.value)}
                     className="h-10 rounded-xl font-bold"

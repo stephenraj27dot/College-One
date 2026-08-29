@@ -190,7 +190,7 @@ export default function StudentRegisterPage() {
                     <Input
                       type="text"
                       required
-                      placeholder="e.g. Vigneshwaran K"
+                      placeholder="Enter your full name"
                       value={formData.student_name}
                       onChange={(e) => setFormData({ ...formData, student_name: e.target.value })}
                       className="h-11 rounded-xl bg-white text-slate-900 border-slate-300 focus:border-[#f29a38]"
@@ -202,7 +202,7 @@ export default function StudentRegisterPage() {
                     <Input
                       type="tel"
                       required
-                      placeholder="e.g. 9876543210"
+                      placeholder="Enter your mobile number"
                       value={formData.phone_number}
                       onChange={(e) => setFormData({ ...formData, phone_number: e.target.value })}
                       className="h-11 rounded-xl bg-white text-slate-900 border-slate-300 focus:border-[#f29a38]"
@@ -213,7 +213,7 @@ export default function StudentRegisterPage() {
                     <label className="text-xs font-bold text-slate-800">Email Address (Optional)</label>
                     <Input
                       type="email"
-                      placeholder="e.g. student@gmail.com"
+                      placeholder="Enter your email address"
                       value={formData.email}
                       onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                       className="h-11 rounded-xl bg-white text-slate-900 border-slate-300 focus:border-[#f29a38]"
@@ -224,7 +224,7 @@ export default function StudentRegisterPage() {
                     <label className="text-xs font-bold text-slate-800">Native City / Town *</label>
                     <Input
                       type="text"
-                      placeholder="e.g. Coimbatore / Madurai"
+                      placeholder="Enter your native city / town"
                       value={formData.city}
                       onChange={(e) => setFormData({ ...formData, city: e.target.value })}
                       className="h-11 rounded-xl bg-white text-slate-900 border-slate-300 focus:border-[#f29a38]"
@@ -277,7 +277,7 @@ export default function StudentRegisterPage() {
                       step="0.01"
                       min="0"
                       max="200"
-                      placeholder="e.g. 186.50"
+                      placeholder="Enter 12th cutoff mark"
                       value={formData.cutoff_score}
                       onChange={(e) => setFormData({ ...formData, cutoff_score: e.target.value })}
                       className="h-11 rounded-xl font-bold bg-white text-slate-900 border-slate-300 focus:border-[#f29a38]"

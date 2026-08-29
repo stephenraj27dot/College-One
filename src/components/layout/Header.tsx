@@ -430,13 +430,13 @@ export function Header() {
                 </div>
               </div>
 
-              <Link href="/college-predictor" className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
+              <Link href="/college-predictor" prefetch={false} className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
                 TNEA Predictor
               </Link>
-              <Link href="/compare" className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
+              <Link href="/compare" prefetch={false} className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
                 Compare
               </Link>
-              <Link href="/course-finder" className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
+              <Link href="/course-finder" prefetch={false} className="text-slate-300 hover:text-[#f29a38] transition-colors py-3">
                 Course Finder
               </Link>
               <Link href="/register" className="text-[#f29a38] font-bold hover:underline py-3">

@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "College Guide",
   description:
     "Official Tamil Nadu College Discovery, Cutoff Predictor, Academic Exploration and Admission Guidance Platform. Discover verified engineering, medical, arts, law, and agricultural colleges across all 38 districts of Tamil Nadu.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
+  url: "https://collegesguide.in",
   ogImage: "/logo.jpg",
   state: "Tamil Nadu",
   whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "919629653312",

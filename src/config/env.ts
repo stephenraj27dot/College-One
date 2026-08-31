@@ -4,7 +4,7 @@ const envSchema = z.object({
   NEXT_PUBLIC_SUPABASE_URL: z.string().url().optional(),
   NEXT_PUBLIC_SUPABASE_ANON_KEY: z.string().min(1).optional(),
   SUPABASE_SERVICE_ROLE_KEY: z.string().min(1).optional(),
-  NEXT_PUBLIC_SITE_URL: z.string().url().default("http://localhost:3000"),
+  NEXT_PUBLIC_SITE_URL: z.string().url().default("https://collegesguide.in"),
   NEXT_PUBLIC_APP_NAME: z.string().default("College Guide"),
   NEXT_PUBLIC_WHATSAPP_NUMBER: z.string().default("919629653312"),
   NEXT_PUBLIC_WHATSAPP_DEFAULT_MESSAGE: z

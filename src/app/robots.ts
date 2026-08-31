@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/admin/", "/api/admin/"],
     },
-    sitemap: `${siteConfig.url}/sitemap.xml`,
+    sitemap: `${(siteConfig.url || "https://collegesguide.in").replace(/\/$/, "")}/sitemap.xml`,
   };
 }

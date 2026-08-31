@@ -3,7 +3,7 @@ import { siteConfig } from "@/config/site";
 import { verifiedColleges } from "@/lib/data/verifiedTamilNaduData";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = siteConfig.url;
+  const baseUrl = (siteConfig.url || "https://collegesguide.in").replace(/\/$/, "");
 
   // Static routes
   const routes: MetadataRoute.Sitemap = [

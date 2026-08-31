@@ -506,7 +506,9 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
 
                 <div className="flex items-center gap-2.5">
                   <Mail className="h-4 w-4 text-blue-600 shrink-0" />
-                  <span>support@collegeguide.in</span>
+                  <a href={`mailto:${siteConfig.email}?subject=Admission%20Inquiry%20-%20${encodeURIComponent(college.name)}`} className="hover:text-blue-600 font-medium text-slate-900 transition-colors">
+                    {siteConfig.email}
+                  </a>
                 </div>
               </div>
 

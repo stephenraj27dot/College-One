@@ -165,7 +165,9 @@ export function Footer() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="h-4 w-4 text-blue-400 shrink-0" />
-                  <span>support@collegeguide.in</span>
+                  <a href={`mailto:${siteConfig.email}`} className="hover:text-blue-400 transition-colors">
+                    {siteConfig.email}
+                  </a>
                 </div>
                 <div className="pt-2 flex items-center gap-2">
                   <a

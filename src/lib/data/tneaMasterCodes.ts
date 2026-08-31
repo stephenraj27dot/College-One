@@ -1039,7 +1039,7 @@ export function findCollegeByTneaCode(query: string): DetailedCollege | null {
     description: `${entry.name} (TNEA Counselling Code: ${entry.code}) is a premier engineering institution located in ${entry.city}, ${entry.district} District, Tamil Nadu. Affiliated with ${entry.affiliated_university} and accredited with ${entry.naac_grade} Grade, it offers top-ranking undergraduate B.E. / B.Tech degree courses with strong campus placement records.`,
     website_url: siteConfig.url,
     contact_phone: siteConfig.phoneDisplay,
-    contact_email: "support@collegeguide.in",
+    contact_email: siteConfig.email,
     banner_url: getCampusImageForCollege(entry.code, slug, entry.name),
     logo_url: "/logo.jpg",
     hostel_available: true,

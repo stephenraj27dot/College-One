@@ -14,6 +14,7 @@ import {
   Search,
   MessageCircle,
   Instagram,
+  Mail,
   ChevronDown,
   ChevronRight,
   Flame,
@@ -163,6 +164,13 @@ export function Header() {
                   className="h-9 w-9 rounded-full bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 flex items-center justify-center hover:bg-emerald-500 hover:text-white hover:scale-110 transition-all duration-300 shadow-sm"
                 >
                   <MessageCircle className="h-4 w-4" />
+                </a>
+                <a
+                  href={`mailto:${siteConfig.email}`}
+                  aria-label="Email Support"
+                  className="h-9 w-9 rounded-full bg-blue-500/20 text-blue-300 border border-blue-400/30 flex items-center justify-center hover:bg-blue-600 hover:text-white hover:scale-110 transition-all duration-300 shadow-sm"
+                >
+                  <Mail className="h-4 w-4" />
                 </a>
                 <a
                   href={siteConfig.instagramUrl}
@@ -652,6 +660,14 @@ export function Header() {
               >
                 <MessageCircle className="h-4 w-4" />
                 <span>WhatsApp Admission Desk</span>
+              </a>
+
+              <a
+                href={`mailto:${siteConfig.email}`}
+                className="w-full inline-flex items-center justify-center gap-2 p-3.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-black text-xs shadow-lg"
+              >
+                <Mail className="h-4 w-4" />
+                <span>Email Support ({siteConfig.email})</span>
               </a>
 
               <div className="grid grid-cols-2 gap-2">

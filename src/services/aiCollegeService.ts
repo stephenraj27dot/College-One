@@ -262,7 +262,7 @@ DO NOT include any markdown code blocks, backticks, or extra commentary. Return 
               website_url: siteConfig.url,
               // STRICT OVERRIDE: College Guide Admission Desk ONLY
               contact_phone: siteConfig.phoneDisplay,
-              contact_email: "support@collegeguide.in",
+              contact_email: siteConfig.email,
               banner_url: bannerUrl,
               logo_url: "/logo.jpg",
               hostel_available: parsed.hostel_available ?? true,
@@ -428,7 +428,7 @@ function generateDynamicFallbackCollege(collegeName: string): DetailedCollege {
     website_url: siteConfig.url,
     // STRICT OVERRIDE: College Guide Admission Desk ONLY
     contact_phone: siteConfig.phoneDisplay,
-    contact_email: "support@collegeguide.in",
+    contact_email: siteConfig.email,
     banner_url: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
     logo_url: "/logo.jpg",
     hostel_available: true,

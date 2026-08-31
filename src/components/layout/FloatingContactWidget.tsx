@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { siteConfig } from "@/config/site";
-import { MessageCircle, Instagram, Phone, X } from "lucide-react";
+import { MessageCircle, Instagram, Phone, Mail, X } from "lucide-react";
 
 export function FloatingContactWidget() {
   const [isOpen, setIsOpen] = useState(false);
@@ -55,6 +55,19 @@ export function FloatingContactWidget() {
             <div>
               <p className="font-bold text-xs text-white">Instagram</p>
               <p className="text-[10px] text-rose-400 font-medium">@college_guide_tamil</p>
+            </div>
+          </a>
+
+          <a
+            href={`mailto:${siteConfig.email}`}
+            className="flex items-center gap-3 p-2.5 rounded-xl bg-indigo-600/20 hover:bg-indigo-600/40 border border-indigo-500/30 text-indigo-300 transition-all duration-200 group"
+          >
+            <div className="h-8 w-8 rounded-full bg-indigo-600 text-white flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform">
+              <Mail className="h-4 w-4" />
+            </div>
+            <div>
+              <p className="font-bold text-xs text-white">Email Support</p>
+              <p className="text-[10px] text-indigo-300 font-semibold">{siteConfig.email}</p>
             </div>
           </a>
 

@@ -12,6 +12,7 @@ import { Input } from "@/components/ui/input";
 import {
   MessageCircle,
   Phone,
+  Mail,
   ShieldCheck,
   CheckCircle2,
   HelpCircle,
@@ -255,12 +256,20 @@ export default function GuidancePage() {
                 </p>
               </div>
 
-              <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="block">
-                <Button variant="whatsapp" size="lg" className="w-full font-bold gap-2 shadow-lg">
-                  <MessageCircle className="h-5 w-5" />
-                  <span>Start WhatsApp Chat</span>
-                </Button>
-              </a>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="block">
+                  <Button variant="whatsapp" size="lg" className="w-full font-bold gap-2 shadow-lg">
+                    <MessageCircle className="h-5 w-5" />
+                    <span>WhatsApp Chat</span>
+                  </Button>
+                </a>
+                <a href={`mailto:${siteConfig.email}?subject=Admission%20Guidance%20Inquiry`} className="block">
+                  <Button variant="outline" size="lg" className="w-full font-bold gap-2 border-white/30 text-white bg-white/10 hover:bg-white/20 hover:text-white">
+                    <Mail className="h-5 w-5" />
+                    <span>Email Support</span>
+                  </Button>
+                </a>
+              </div>
             </Card>
 
             <Card className="p-6 space-y-3 text-xs text-slate-700">

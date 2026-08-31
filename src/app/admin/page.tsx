@@ -82,7 +82,7 @@ export default function AdminDashboardPage() {
     description: "",
     website_url: "",
     contact_phone: "+91 96296 53312",
-    contact_email: "support@collegeguide.in",
+    contact_email: "support@collegesguide.in",
     is_featured: false,
     nirf_ranking: "",
   });
@@ -394,7 +394,7 @@ export default function AdminDashboardPage() {
           description: "",
           website_url: "",
           contact_phone: "+91 96296 53312",
-          contact_email: "support@collegeguide.in",
+          contact_email: "support@collegesguide.in",
           is_featured: false,
           nirf_ranking: "",
         });

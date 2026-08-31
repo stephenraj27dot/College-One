@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import { createClient } from "@supabase/supabase-js";
 import { verifiedColleges, verifiedCategories, verifiedUniversities } from "../src/lib/data/verifiedTamilNaduData";
 import { tn38DistrictsColleges } from "../src/lib/data/tn38DistrictsColleges";

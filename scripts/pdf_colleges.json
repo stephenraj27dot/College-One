@@ -1,0 +1,3690 @@
+[
+  {
+    "slug": "ariyalur-engineering-college",
+    "name": "Ariyalur Engineering College",
+    "tnea_code": "3462",
+    "district": "Ariyalur",
+    "city": "Karuppur-Senapathy Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "meenakshi-ramaswamy-engineering-college",
+    "name": "Meenakshi Ramaswamy Engineering College",
+    "tnea_code": "3857",
+    "district": "Ariyalur",
+    "city": "Udayarpalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "nelliandavar-institute-of-technology",
+    "name": "Nelliandavar Institute of Technology",
+    "tnea_code": "3466",
+    "district": "Ariyalur",
+    "city": "Pudhupalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "3016",
+    "district": "Ariyalur",
+    "city": "Ariyalur",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "a-c-t-college-of-engineering-and-technology",
+    "name": "A C T College of Engineering and Technology",
+    "tnea_code": "1323",
+    "district": "Chengalpattu",
+    "city": "Nelvoy Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "adhiparasakthi-engineering-college",
+    "name": "Adhiparasakthi Engineering College",
+    "tnea_code": "1401",
+    "district": "Chengalpattu",
+    "city": "Melmaruvathur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "agni-college-of-technology",
+    "name": "Agni College of Technology",
+    "tnea_code": "1316",
+    "district": "Chengalpattu",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "anand-institute-of-higher-technology",
+    "name": "Anand Institute of Higher Technology",
+    "tnea_code": "1303",
+    "district": "Chengalpattu",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "asan-memorial-college-of-engineering-and-technology",
+    "name": "Asan Memorial College of Engineering and Technology",
+    "tnea_code": "1423",
+    "district": "Chengalpattu",
+    "city": "Chengalpattu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "chendu-college-of-engineering-technology",
+    "name": "Chendu College of Engineering & Technology",
+    "tnea_code": "1444",
+    "district": "Chengalpattu",
+    "city": "Zamin Endathur Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jeppiaar-srr-engineering-college",
+    "name": "Jeppiaar SRR Engineering College",
+    "tnea_code": "1320",
+    "district": "Chengalpattu",
+    "city": "Old Mahabalipuram Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "karpagavinayaga-college-of-engineering-and-technology",
+    "name": "Karpagavinayaga College of Engineering and Technology",
+    "tnea_code": "1409",
+    "district": "Chengalpattu",
+    "city": "Palayanoor Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mohamed-sathak-a-j-college-of-engineering",
+    "name": "Mohamed Sathak A J College of Engineering",
+    "tnea_code": "1301",
+    "district": "Chengalpattu",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shree-motilal-kanhaiyalal-smk-fomra-institute-of-technology",
+    "name": "Shree Motilal Kanhaiyalal (SMK) Fomra Institute of Technology",
+    "tnea_code": "1313",
+    "district": "Chengalpattu",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-sivasubramaniya-nadar-college-of-engineering",
+    "name": "Sri Sivasubramaniya Nadar College of Engineering",
+    "tnea_code": "1315",
+    "district": "Chengalpattu",
+    "city": "Kalavakkam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "university-departments-of-anna-university",
+    "name": "University Departments of Anna University",
+    "tnea_code": "0004",
+    "district": "Chengalpattu",
+    "city": "Chennai - MIT Campus",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "vi-institute-of-technology",
+    "name": "Vi Institute of Technology",
+    "tnea_code": "1333",
+    "district": "Chengalpattu",
+    "city": "Sirunkundram Village & Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "aalim-muhammed-salegh-college-of-engineering",
+    "name": "Aalim Muhammed Salegh College of Engineering",
+    "tnea_code": "1101",
+    "district": "Chennai",
+    "city": "Muthapudupet",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "alpha-college-of-engineering",
+    "name": "Alpha College of Engineering",
+    "tnea_code": "1228",
+    "district": "Chennai",
+    "city": "Thirumazhisai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annai-veilankannis-college-of-engineering",
+    "name": "Annai Veilankannis College of Engineering",
+    "tnea_code": "1133",
+    "district": "Chennai",
+    "city": "Gandhi Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "central-institute-of-plastics-engineering-and-technology-cipet",
+    "name": "Central Institute of Plastics Engineering and Technology (CIPET)",
+    "tnea_code": "1321",
+    "district": "Chennai",
+    "city": "Guindy",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "chennai-institute-of-technology",
+    "name": "Chennai Institute of Technology",
+    "tnea_code": "1399",
+    "district": "Chennai",
+    "city": "Puduper Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "d-m-i-college-of-engineering",
+    "name": "D M I College of Engineering",
+    "tnea_code": "1202",
+    "district": "Chennai",
+    "city": "Palanchoor",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhaanish-ahmed-college-of-engineering",
+    "name": "Dhaanish Ahmed College of Engineering",
+    "tnea_code": "1424",
+    "district": "Chennai",
+    "city": "Padappai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhanalakshmi-college-of-engineering",
+    "name": "Dhanalakshmi College of Engineering",
+    "tnea_code": "1405",
+    "district": "Chennai",
+    "city": "Manimangalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhanalakshmi-srinivasan-college-of-engineering-and-technology",
+    "name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+    "tnea_code": "1322",
+    "district": "Chennai",
+    "city": "East Coast Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "easwari-engineering-college",
+    "name": "Easwari Engineering College",
+    "tnea_code": "1304",
+    "district": "Chennai",
+    "city": "Ramapuram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "g-k-m-college-of-engineering-and-technology",
+    "name": "G K M College of Engineering and Technology",
+    "tnea_code": "1407",
+    "district": "Chennai",
+    "city": "Alappakkam-Mappedu Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "gojan-school-of-business-and-technology",
+    "name": "Gojan School of Business and Technology",
+    "tnea_code": "1123",
+    "district": "Chennai",
+    "city": "Alamathi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jawahar-engineering-college",
+    "name": "Jawahar Engineering College",
+    "tnea_code": "1447",
+    "district": "Chennai",
+    "city": "Kaveri Rangan Nagar",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jaya-college-of-engineering-and-technology",
+    "name": "Jaya College of Engineering and Technology",
+    "tnea_code": "1221",
+    "district": "Chennai",
+    "city": "Parivakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jaya-engineering-college",
+    "name": "Jaya Engineering College",
+    "tnea_code": "1106",
+    "district": "Chennai",
+    "city": "Thirunindravur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jaya-sakthi-engineering-college",
+    "name": "Jaya Sakthi Engineering College",
+    "tnea_code": "1416",
+    "district": "Chennai",
+    "city": "Thirunindravur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jeppiar-engineering-college",
+    "name": "Jeppiar Engineering College",
+    "tnea_code": "1306",
+    "district": "Chennai",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jerusalem-college-of-engineering",
+    "name": "Jerusalem College of Engineering",
+    "tnea_code": "1307",
+    "district": "Chennai",
+    "city": "Narayanapuram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "k-c-g-college-of-technology",
+    "name": "K C G College of Technology",
+    "tnea_code": "1311",
+    "district": "Chennai",
+    "city": "Karappakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "loyola-institute-of-technology",
+    "name": "Loyola Institute of Technology",
+    "tnea_code": "1225",
+    "district": "Chennai",
+    "city": "Mevaloorkuppam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "loyola-icam-college-of-engineering-and-technology",
+    "name": "Loyola-ICAM College of Engineering and Technology",
+    "tnea_code": "1450",
+    "district": "Chennai",
+    "city": "Nungambakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "madha-engineering-college",
+    "name": "Madha Engineering College",
+    "tnea_code": "1411",
+    "district": "Chennai",
+    "city": "Kundrathur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "madha-institute-of-engineering-and-technology",
+    "name": "Madha Institute of Engineering and Technology",
+    "tnea_code": "1243",
+    "district": "Chennai",
+    "city": "Erandamkattalai Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "meenakshi-college-of-engineering",
+    "name": "Meenakshi College of Engineering",
+    "tnea_code": "1509",
+    "district": "Chennai",
+    "city": "K K Nagar (West)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "meenakshi-sundararajan-engineering-college",
+    "name": "Meenakshi Sundararajan Engineering College",
+    "tnea_code": "1309",
+    "district": "Chennai",
+    "city": "Kodambakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "misrimal-navajee-munoth-jain-engineering-college",
+    "name": "Misrimal Navajee Munoth Jain Engineering College",
+    "tnea_code": "1310",
+    "district": "Chennai",
+    "city": "Rajiv Gandhi Salai (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "new-prince-shri-bhavani-college-of-engineering-and-technology",
+    "name": "New Prince Shri Bhavani College of Engineering and Technology",
+    "tnea_code": "1431",
+    "district": "Chennai",
+    "city": "Gowriwakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-m-r-engineering-college",
+    "name": "P M R Engineering College",
+    "tnea_code": "1125",
+    "district": "Chennai",
+    "city": "Adayalampattu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "peri-institute-of-technology",
+    "name": "PERI Institute of Technology",
+    "tnea_code": "1452",
+    "district": "Chennai",
+    "city": "Mannivakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "panimalar-engineering-college",
+    "name": "Panimalar Engineering College",
+    "tnea_code": "1210",
+    "district": "Chennai",
+    "city": "Nazarethpet",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "panimalar-institute-of-technology",
+    "name": "Panimalar Institute of Technology",
+    "tnea_code": "1231",
+    "district": "Chennai",
+    "city": "Nazarethpet",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "prince-dr-k-vasudevan-college-of-engineering-and-technology",
+    "name": "Prince Dr. K Vasudevan College of Engineering and Technology",
+    "tnea_code": "1442",
+    "district": "Chennai",
+    "city": "Ponmar",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "prince-shri-venkateshwara-padmavathy-enginering-college",
+    "name": "Prince Shri Venkateshwara Padmavathy Enginering College",
+    "tnea_code": "1414",
+    "district": "Chennai",
+    "city": "Ponmar",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rrase-college-of-engineering",
+    "name": "Rrase College of Engineering",
+    "tnea_code": "1437",
+    "district": "Chennai",
+    "city": "Padappai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "s-a-engineering-college",
+    "name": "S A Engineering College",
+    "tnea_code": "1114",
+    "district": "Chennai",
+    "city": "Thiruverkadu",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "s-k-r-engineering-college",
+    "name": "S K R Engineering College",
+    "tnea_code": "1213",
+    "district": "Chennai",
+    "city": "Poonamallee",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "srm-valliammai-engineering-college",
+    "name": "SRM Valliammai Engineering College",
+    "tnea_code": "1422",
+    "district": "Chennai",
+    "city": "Kattankulathur",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sree-sastha-institute-of-engineering-and-technology",
+    "name": "Sree Sastha Institute of Engineering and Technology",
+    "tnea_code": "1217",
+    "district": "Chennai",
+    "city": "Chembarambakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-krishna-engineering-college",
+    "name": "Sri Krishna Engineering College",
+    "tnea_code": "1427",
+    "district": "Chennai",
+    "city": "Panappakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-krishna-institute-of-technology",
+    "name": "Sri Krishna Institute of Technology",
+    "tnea_code": "1335",
+    "district": "Chennai",
+    "city": "Panapakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-muthukumaran-institute-of-technology",
+    "name": "Sri Muthukumaran Institute of Technology",
+    "tnea_code": "1218",
+    "district": "Chennai",
+    "city": "Near Mangadu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-ramanujar-engineering-college",
+    "name": "Sri Ramanujar Engineering College",
+    "tnea_code": "1426",
+    "district": "Chennai",
+    "city": "Vandalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-sai-ram-institute-of-technology",
+    "name": "Sri Sai Ram Institute of Technology",
+    "tnea_code": "1324",
+    "district": "Chennai",
+    "city": "West Tambaram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-sairam-enginering-college",
+    "name": "Sri Sairam Enginering College",
+    "tnea_code": "1419",
+    "district": "Chennai",
+    "city": "West Tambaram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "st-joseph-s-college-of-engineering",
+    "name": "St. Joseph's College of Engineering",
+    "tnea_code": "1317",
+    "district": "Chennai",
+    "city": "Old Mahabalipuram Road (OMR)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-joseph-s-institute-of-technology",
+    "name": "St. Joseph's Institute of Technology",
+    "tnea_code": "1149",
+    "district": "Chennai",
+    "city": "Jeppiaar Nagar",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-peters-college-of-engineering-and-technology",
+    "name": "St. Peters College of Engineering and Technology",
+    "tnea_code": "1127",
+    "district": "Chennai",
+    "city": "College Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "t-j-institute-of-technology",
+    "name": "T.J Institute of Technology",
+    "tnea_code": "1318",
+    "district": "Chennai",
+    "city": "Karapakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "tagore-engineering-college",
+    "name": "Tagore Engineering College",
+    "tnea_code": "1420",
+    "district": "Chennai",
+    "city": "Rathnamangalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thangavelu-engineering-college",
+    "name": "Thangavelu Engineering College",
+    "tnea_code": "1319",
+    "district": "Chennai",
+    "city": "Karappakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-departments-of-anna-university",
+    "name": "University Departments of Anna University",
+    "tnea_code": "0001",
+    "district": "Chennai",
+    "city": "Chennai - CEG Campus",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "university-departments-of-anna-university",
+    "name": "University Departments of Anna University",
+    "tnea_code": "0002",
+    "district": "Chennai",
+    "city": "Chennai - ACT Campus",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "vel-tech-high-tech-dr-rangarajan-dr-sakunthala-engineering-college",
+    "name": "Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+    "tnea_code": "1122",
+    "district": "Chennai",
+    "city": "Avadi-Alamathi Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "vel-tech-multi-tech-dr-rangarajan-dr-sakunthala-engineering-college",
+    "name": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+    "tnea_code": "1118",
+    "district": "Chennai",
+    "city": "Avadi-Alamathi Road",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "velammal-engineering-college",
+    "name": "Velammal Engineering College",
+    "tnea_code": "1120",
+    "district": "Chennai",
+    "city": "Ambattur-Redhills Road",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "adithya-institute-of-technology",
+    "name": "Adithya Institute of Technology",
+    "tnea_code": "2744",
+    "district": "Coimbatore",
+    "city": "Kurumbapalayam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "akshaya-college-of-engineering-and-technology",
+    "name": "Akshaya College of Engineering and Technology",
+    "tnea_code": "2763",
+    "district": "Coimbatore",
+    "city": "Kinathukadavu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "anna-university-regional-campus-coimbatore",
+    "name": "Anna University Regional Campus - Coimbatore",
+    "tnea_code": "2025",
+    "district": "Coimbatore",
+    "city": "Maruthamalai Main Road",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "arjun-college-of-technology",
+    "name": "Arjun College of Technology",
+    "tnea_code": "2367",
+    "district": "Coimbatore",
+    "city": "Chettiyakkapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "asian-college-of-engineering-and-technology",
+    "name": "Asian College of Engineering and Technology",
+    "tnea_code": "2338",
+    "district": "Coimbatore",
+    "city": "Kondayampalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "c-m-s-college-of-engineering-and-technology",
+    "name": "C M S College of Engineering and Technology",
+    "tnea_code": "2772",
+    "district": "Coimbatore",
+    "city": "Kumittipatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "christ-the-king-engineering-college",
+    "name": "Christ the King Engineering College",
+    "tnea_code": "2650",
+    "district": "Coimbatore",
+    "city": "Chikkarampalayam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "coimbatore-institute-of-engineering-and-technolgoy",
+    "name": "Coimbatore Institute of Engineering and Technolgoy",
+    "tnea_code": "2704",
+    "district": "Coimbatore",
+    "city": "Narasipuram Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "coimbatore-institute-of-technology",
+    "name": "Coimbatore Institute of Technology",
+    "tnea_code": "2007",
+    "district": "Coimbatore",
+    "city": "Civil Aerodrome Post",
+    "institution_type": "Government-Aided"
+  },
+  {
+    "slug": "dhaanish-ahmed-institute-of-technology",
+    "name": "Dhaanish Ahmed Institute of Technology",
+    "tnea_code": "2349",
+    "district": "Coimbatore",
+    "city": "Pichanur Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhanalakshmi-srinivasan-college-of-engineering",
+    "name": "Dhanalakshmi Srinivasan College of Engineering",
+    "tnea_code": "2743",
+    "district": "Coimbatore",
+    "city": "Navakkarai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dr-mahalingam-college-of-engineering-and-technology",
+    "name": "Dr. Mahalingam College of Engineering and Technology",
+    "tnea_code": "2706",
+    "district": "Coimbatore",
+    "city": "Pollachi Taluk",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "dr-n-g-p-institute-of-technology",
+    "name": "Dr. N G P Institute of Technology",
+    "tnea_code": "2736",
+    "district": "Coimbatore",
+    "city": "Kalapatti Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "easa-college-of-engineering-and-technology",
+    "name": "EASA College of Engineering and Technology",
+    "tnea_code": "2749",
+    "district": "Coimbatore",
+    "city": "Navakarai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-technology",
+    "name": "Government College of Technology",
+    "tnea_code": "2005",
+    "district": "Coimbatore",
+    "city": "Thadagam Road",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "hindustan-institute-of-technology",
+    "name": "Hindustan Institute of Technology",
+    "tnea_code": "2740",
+    "district": "Coimbatore",
+    "city": "Othakkalmandapam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "hindusthan-college-of-engineering-and-technology",
+    "name": "Hindusthan College of Engineering and Technology",
+    "tnea_code": "2708",
+    "district": "Coimbatore",
+    "city": "Othakkalmandapam Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "info-institute-of-engineering",
+    "name": "INFO Institute of Engineering",
+    "tnea_code": "2732",
+    "district": "Coimbatore",
+    "city": "Sarkar Samakulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-c-t-college-of-engineering-and-technology",
+    "name": "J C T College of Engineering and Technology",
+    "tnea_code": "2769",
+    "district": "Coimbatore",
+    "city": "Pichanur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jansons-institute-of-technology",
+    "name": "Jansons Institute of Technology",
+    "tnea_code": "2762",
+    "district": "Coimbatore",
+    "city": "Karumathampatty",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "k-p-r-institute-of-engineering-and-technology",
+    "name": "K P R Institute of Engineering and Technology",
+    "tnea_code": "2764",
+    "district": "Coimbatore",
+    "city": "Arasur Panchayat",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "kgisl-institute-of-technology",
+    "name": "KGISL Institute of Technology",
+    "tnea_code": "2751",
+    "district": "Coimbatore",
+    "city": "Saravanampatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kit-kalaignar-karunanidhi-institute-of-technology",
+    "name": "KIT-Kalaignar Karunanidhi Institute of Technology",
+    "tnea_code": "2750",
+    "district": "Coimbatore",
+    "city": "Kannampalayam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "karpagam-college-of-engineering",
+    "name": "Karpagam College of Engineering",
+    "tnea_code": "2710",
+    "district": "Coimbatore",
+    "city": "Othakkalmandapam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "karpagam-institute-of-technology",
+    "name": "Karpagam Institute of Technology",
+    "tnea_code": "2735",
+    "district": "Coimbatore",
+    "city": "Seerapalayam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kathir-college-of-engineering",
+    "name": "Kathir College of Engineering",
+    "tnea_code": "2745",
+    "district": "Coimbatore",
+    "city": "Neelambur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kumaraguru-college-of-technology",
+    "name": "Kumaraguru College of Technology",
+    "tnea_code": "2712",
+    "district": "Coimbatore",
+    "city": "Chinnavedampatti Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "nehru-institute-of-engineering-and-technology",
+    "name": "Nehru Institute of Engineering and Technology",
+    "tnea_code": "2729",
+    "district": "Coimbatore",
+    "city": "Thirumalayampalayam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "nehru-institute-of-technology",
+    "name": "Nehru Institute of Technology",
+    "tnea_code": "2755",
+    "district": "Coimbatore",
+    "city": "Thirumalayampalayam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-a-college-of-engineering-and-technology",
+    "name": "P A College of Engineering and Technology",
+    "tnea_code": "2741",
+    "district": "Coimbatore",
+    "city": "Palladam Road",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "p-p-g-institute-of-technology",
+    "name": "P P G Institute of Technology",
+    "tnea_code": "2753",
+    "district": "Coimbatore",
+    "city": "Vilankurichi Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "psg-college-of-technology",
+    "name": "PSG College of Technology",
+    "tnea_code": "2006",
+    "district": "Coimbatore",
+    "city": "Peelamedu",
+    "institution_type": "Government-Aided"
+  },
+  {
+    "slug": "psg-institute-of-technology-and-applied-research",
+    "name": "PSG Institute of Technology and Applied Research",
+    "tnea_code": "2377",
+    "district": "Coimbatore",
+    "city": "Avinashi Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "park-college-of-engineering-and-technology",
+    "name": "Park College of Engineering and Technology",
+    "tnea_code": "2716",
+    "district": "Coimbatore",
+    "city": "Kaniyur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "pollachi-institute-of-engineering-and-technology",
+    "name": "Pollachi Institute of Engineering and Technology",
+    "tnea_code": "2354",
+    "district": "Coimbatore",
+    "city": "Poosaripatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-v-s-college-of-engineering-and-technology",
+    "name": "R V S College of Engineering and Technology",
+    "tnea_code": "2731",
+    "district": "Coimbatore",
+    "city": "Kannampalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-v-s-technical-campus-coimbatore",
+    "name": "R V S Technical Campus-Coimbatore",
+    "tnea_code": "2776",
+    "district": "Coimbatore",
+    "city": "Kannampalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rathinam-technical-campus",
+    "name": "Rathinam Technical Campus",
+    "tnea_code": "2329",
+    "district": "Coimbatore",
+    "city": "Pollachi Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "s-n-s-college-of-engineering",
+    "name": "S N S College of Engineering",
+    "tnea_code": "2734",
+    "district": "Coimbatore",
+    "city": "Kurumbapalayam Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "s-n-s-college-of-technology",
+    "name": "S N S College of Technology",
+    "tnea_code": "2726",
+    "district": "Coimbatore",
+    "city": "Kalappatti Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sree-sakthi-engineering-college",
+    "name": "Sree Sakthi Engineering College",
+    "tnea_code": "2673",
+    "district": "Coimbatore",
+    "city": "Karamadai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-eshwar-college-of-engineering",
+    "name": "Sri Eshwar College of Engineering",
+    "tnea_code": "2739",
+    "district": "Coimbatore",
+    "city": "Kondampatti Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-krishna-college-of-enginering-and-technology",
+    "name": "Sri Krishna College of Enginering and Technology",
+    "tnea_code": "2718",
+    "district": "Coimbatore",
+    "city": "Kuniamuthur",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-krishna-college-of-technology",
+    "name": "Sri Krishna College of Technology",
+    "tnea_code": "2722",
+    "district": "Coimbatore",
+    "city": "Kovaipudur Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-ramakrishna-engineering-college",
+    "name": "Sri Ramakrishna Engineering College",
+    "tnea_code": "2719",
+    "district": "Coimbatore",
+    "city": "Vattamalaipalayam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-ramakrishna-institute-of-technology",
+    "name": "Sri Ramakrishna Institute of Technology",
+    "tnea_code": "2725",
+    "district": "Coimbatore",
+    "city": "Pachapalayam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-ranganathar-institute-of-engineering-and-technology",
+    "name": "Sri Ranganathar Institute of Engineering and Technology",
+    "tnea_code": "2342",
+    "district": "Coimbatore",
+    "city": "Thudialur-Kovilpalay Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-sai-ranganathan-engineering-college",
+    "name": "Sri Sai Ranganathan Engineering College",
+    "tnea_code": "2737",
+    "district": "Coimbatore",
+    "city": "Viraliyur Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-shakthi-institute-of-engineering-and-technology",
+    "name": "Sri Shakthi Institute of Engineering and Technology",
+    "tnea_code": "2727",
+    "district": "Coimbatore",
+    "city": "Venkitapuram Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "study-world-college-of-engineering",
+    "name": "Study World College of Engineering",
+    "tnea_code": "2770",
+    "district": "Coimbatore",
+    "city": "Madukarai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "suguna-college-of-engineering",
+    "name": "Suguna College of Engineering",
+    "tnea_code": "2360",
+    "district": "Coimbatore",
+    "city": "Kalappatti Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "tamilnadu-college-of-engineering",
+    "name": "Tamilnadu College of Engineering",
+    "tnea_code": "2721",
+    "district": "Coimbatore",
+    "city": "Karumathampatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "united-institute-of-technology",
+    "name": "United Institute of Technology",
+    "tnea_code": "2761",
+    "district": "Coimbatore",
+    "city": "Perianaickenpalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "v-s-b-college-of-engineering-technical-campus",
+    "name": "V S B College of Engineering Technical Campus",
+    "tnea_code": "2357",
+    "district": "Coimbatore",
+    "city": "Solavampalayam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annamalai-university-faculty-of-engineering-and-technology",
+    "name": "Annamalai University Faculty of Engineering and Technology",
+    "tnea_code": "0005",
+    "district": "Cuddalore",
+    "city": "Annamalai nagar",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "c-k-college-of-engineering-and-technology",
+    "name": "C K College of Engineering and Technology",
+    "tnea_code": "3425",
+    "district": "Cuddalore",
+    "city": "Chellangkuppam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dr-navalar-nedunchezhian-college-of-engineering",
+    "name": "Dr. Navalar Nedunchezhian College of Engineering",
+    "tnea_code": "3822",
+    "district": "Cuddalore",
+    "city": "Tholudur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "krishnaswamy-collge-of-engineering-and-technology",
+    "name": "Krishnaswamy Collge of Engineering and Technology",
+    "tnea_code": "3410",
+    "district": "Cuddalore",
+    "city": "S Kumarapuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-r-k-institute-of-technology",
+    "name": "M R K Institute of Technology",
+    "tnea_code": "3843",
+    "district": "Cuddalore",
+    "city": "Kattumannarkoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-annes-college-of-engineering-and-technology",
+    "name": "St. Annes College of Engineering and Technology",
+    "tnea_code": "3860",
+    "district": "Cuddalore",
+    "city": "Panruti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "3019",
+    "district": "Cuddalore",
+    "city": "Panruti",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "2369",
+    "district": "Dharmapuri",
+    "city": "Chettikkarai Post",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "jayalakshmi-institute-of-technology",
+    "name": "Jayalakshmi Institute of Technology",
+    "tnea_code": "2640",
+    "district": "Dharmapuri",
+    "city": "Thoppur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jayam-college-of-engineering-and-technology",
+    "name": "Jayam College of Engineering and Technology",
+    "tnea_code": "2606",
+    "district": "Dharmapuri",
+    "city": "Nallanur Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sapthagiri-college-of-engineering",
+    "name": "Sapthagiri College of Engineering",
+    "tnea_code": "2616",
+    "district": "Dharmapuri",
+    "city": "Periyanahalli Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shreenivasa-engineering-college",
+    "name": "Shreenivasa Engineering College",
+    "tnea_code": "2683",
+    "district": "Dharmapuri",
+    "city": "Pappireddipatti Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "varuvan-vadivelan-institute-of-technology",
+    "name": "Varuvan Vadivelan Institute of Technology",
+    "tnea_code": "2641",
+    "district": "Dharmapuri",
+    "city": "Nallanahalli",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "christian-college-of-engineering-and-technology",
+    "name": "Christian College of Engineering and Technology",
+    "tnea_code": "5703",
+    "district": "Dindigul",
+    "city": "Oddanchatram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jainee-college-of-engineering-and-technology",
+    "name": "Jainee College of Engineering and Technology",
+    "tnea_code": "5537",
+    "district": "Dindigul",
+    "city": "Dindigul District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "n-p-r-college-of-engineering-and-technology",
+    "name": "N P R College of Engineering and Technology",
+    "tnea_code": "5832",
+    "district": "Dindigul",
+    "city": "Natham",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-s-n-a-college-of-engineering-and-technology",
+    "name": "P S N A College of Engineering and Technology",
+    "tnea_code": "5910",
+    "district": "Dindigul",
+    "city": "Dindigul District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-v-s-college-of-engineering",
+    "name": "R V S College of Engineering",
+    "tnea_code": "5913",
+    "district": "Dindigul",
+    "city": "Dindigul District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-v-s-educational-trust-s-groups-of-institutions",
+    "name": "R V S Educational Trust's Groups of Institutions",
+    "tnea_code": "5862",
+    "district": "Dindigul",
+    "city": "Vedasandur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sbm-college-of-engineering-and-technology",
+    "name": "SBM College of Engineering and Technology",
+    "tnea_code": "5930",
+    "district": "Dindigul",
+    "city": "Dindigul District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ssm-institute-of-engineering-and-technology",
+    "name": "SSM Institute of Engineering and Technology",
+    "tnea_code": "5530",
+    "district": "Dindigul",
+    "city": "Sindalaigundu Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-subramanya-college-of-engineering-and-technology",
+    "name": "Sri Subramanya College of Engineering and Technology",
+    "tnea_code": "5720",
+    "district": "Dindigul",
+    "city": "Palani",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "5022",
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "veerammal-engineering-college",
+    "name": "Veerammal Engineering College",
+    "tnea_code": "5851",
+    "district": "Dindigul",
+    "city": "K Singarakottai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "aishwarya-college-of-engineering-and-technology",
+    "name": "Aishwarya College of Engineering and Technology",
+    "tnea_code": "2332",
+    "district": "Erode",
+    "city": "Anthiyur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "al-ameen-engineering-college",
+    "name": "Al-Ameen Engineering College",
+    "tnea_code": "2652",
+    "district": "Erode",
+    "city": "Nanjai Uthukuli Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "bannari-amman-institute-of-technology",
+    "name": "Bannari Amman Institute of Technology",
+    "tnea_code": "2702",
+    "district": "Erode",
+    "city": "Sathyamanagalam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "erode-sengunthar-engineering-college",
+    "name": "Erode Sengunthar Engineering College",
+    "tnea_code": "2707",
+    "district": "Erode",
+    "city": "Thudupathi Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "institute-of-road-and-transport-technology",
+    "name": "Institute of Road and Transport Technology",
+    "tnea_code": "2709",
+    "district": "Erode",
+    "city": "Vasavi College Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-k-k-muniraja-college-of-technology",
+    "name": "J K K Muniraja College of Technology",
+    "tnea_code": "2758",
+    "district": "Erode",
+    "city": "Gobi Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kongu-engineering-college",
+    "name": "Kongu Engineering College",
+    "tnea_code": "2711",
+    "district": "Erode",
+    "city": "Perundurai",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "m-p-nachimuthu-m-jagannathan-engineering-college",
+    "name": "M P Nachimuthu M Jagannathan Engineering College",
+    "tnea_code": "2713",
+    "district": "Erode",
+    "city": "Chennimalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "nandha-college-of-technology",
+    "name": "Nandha College of Technology",
+    "tnea_code": "2752",
+    "district": "Erode",
+    "city": "Pitchandampalayam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "nandha-engineering-college",
+    "name": "Nandha Engineering College",
+    "tnea_code": "2715",
+    "district": "Erode",
+    "city": "Pitchandampalayam Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "shree-venkateshwara-hi-tech-engineering-college",
+    "name": "Shree Venkateshwara Hi-Tech Engineering College",
+    "tnea_code": "2747",
+    "district": "Erode",
+    "city": "Gobichettipalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "surya-engineering-college",
+    "name": "Surya Engineering College",
+    "tnea_code": "2748",
+    "district": "Erode",
+    "city": "Mettukadai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "velalar-college-of-engineering-and-technology",
+    "name": "Velalar College of Engineering and Technology",
+    "tnea_code": "2723",
+    "district": "Erode",
+    "city": "Thindal Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "a-k-t-memorial-college-of-engineering-and-technology",
+    "name": "A K T Memorial College of Engineering and Technology",
+    "tnea_code": "1441",
+    "district": "Kallakurichi",
+    "city": "Neelamangalam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "maha-bharathi-engineering-college",
+    "name": "Maha Bharathi Engineering College",
+    "tnea_code": "1430",
+    "district": "Kallakurichi",
+    "city": "A Vasudevanur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "t-s-m-jain-college-of-technology",
+    "name": "T S M Jain College of Technology",
+    "tnea_code": "1415",
+    "district": "Kallakurichi",
+    "city": "Melur Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "adhi-college-of-engineering-and-technology",
+    "name": "Adhi College of Engineering and Technology",
+    "tnea_code": "1233",
+    "district": "Kanchipuram",
+    "city": "Pazhayaseevaram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "apollo-engineering-college",
+    "name": "Apollo Engineering College",
+    "tnea_code": "1230",
+    "district": "Kanchipuram",
+    "city": "Mevaloorkuppam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arignar-anna-institute-of-science-and-technology",
+    "name": "Arignar Anna Institute of Science and Technology",
+    "tnea_code": "1201",
+    "district": "Kanchipuram",
+    "city": "Pennalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jagannath-institute-of-technology",
+    "name": "Jagannath Institute of Technology",
+    "tnea_code": "1435",
+    "district": "Kanchipuram",
+    "city": "Thandalam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jeppiaar-institute-of-technology",
+    "name": "Jeppiaar Institute of Technology",
+    "tnea_code": "1140",
+    "district": "Kanchipuram",
+    "city": "Kunnam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kanchi-pallvan-engineering-college",
+    "name": "Kanchi Pallvan Engineering College",
+    "tnea_code": "1208",
+    "district": "Kanchipuram",
+    "city": "Kancheepuram District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kings-engineering-college",
+    "name": "Kings Engineering College",
+    "tnea_code": "1207",
+    "district": "Kanchipuram",
+    "city": "Sriperumpudur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "lord-venkateshwara-engineering-college",
+    "name": "Lord Venkateshwara Engineering College",
+    "tnea_code": "1205",
+    "district": "Kanchipuram",
+    "city": "Walajabad Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-b-college-of-engineering",
+    "name": "P B College of Engineering",
+    "tnea_code": "1222",
+    "district": "Kanchipuram",
+    "city": "Irungkattukottai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-t-lee-chengalvaraya-naicker-college-of-engineering-and-technology",
+    "name": "P T Lee Chengalvaraya Naicker College of Engineering and Technology",
+    "tnea_code": "1226",
+    "district": "Kanchipuram",
+    "city": "Oovery",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "pallavan-college-of-engineering",
+    "name": "Pallavan College of Engineering",
+    "tnea_code": "1209",
+    "district": "Kanchipuram",
+    "city": "Thimmasamudram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rajalakshmi-engineering-college",
+    "name": "Rajalakshmi Engineering College",
+    "tnea_code": "1211",
+    "district": "Kanchipuram",
+    "city": "Thandalam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "rajalakshmi-institute-of-technology",
+    "name": "Rajalakshmi Institute of Technology",
+    "tnea_code": "1432",
+    "district": "Kanchipuram",
+    "city": "Irulapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rajiv-gandhi-college-of-engineering",
+    "name": "Rajiv Gandhi College of Engineering",
+    "tnea_code": "1212",
+    "district": "Kanchipuram",
+    "city": "Nemili",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "saveetha-engineering-college",
+    "name": "Saveetha Engineering College",
+    "tnea_code": "1216",
+    "district": "Kanchipuram",
+    "city": "Thandalam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-venkateswara-college-of-engineering",
+    "name": "Sri Venkateswara College of Engineering",
+    "tnea_code": "1219",
+    "district": "Kanchipuram",
+    "city": "Pennalur",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-venkateswaraa-college-of-technology",
+    "name": "Sri Venkateswaraa College of Technology",
+    "tnea_code": "1413",
+    "district": "Kanchipuram",
+    "city": "Sirukulathur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-joseph-college-of-engineering",
+    "name": "St. Joseph College of Engineering",
+    "tnea_code": "1325",
+    "district": "Kanchipuram",
+    "city": "Trinity Campus",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thirumalai-engineering-college",
+    "name": "Thirumalai Engineering College",
+    "tnea_code": "1517",
+    "district": "Kanchipuram",
+    "city": "Kilambi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "1026",
+    "district": "Kanchipuram",
+    "city": "Kancheepuram",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "amrita-college-of-engineering-and-technology",
+    "name": "AMRITA College of Engineering and Technology",
+    "tnea_code": "4972",
+    "district": "Kanyakumari",
+    "city": "Erachakulam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annai-vailankanni-college-of-engineering",
+    "name": "Annai Vailankanni College of Engineering",
+    "tnea_code": "4999",
+    "district": "Kanyakumari",
+    "city": "Azhagappapuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arunachala-college-of-engineering-for-women",
+    "name": "Arunachala College of Engineering for Women",
+    "tnea_code": "4944",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "bethlahem-institute-of-engineering",
+    "name": "Bethlahem Institute of Engineering",
+    "tnea_code": "4992",
+    "district": "Kanyakumari",
+    "city": "Karungal",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "c-s-i-institute-of-technology",
+    "name": "C S I Institute of Technology",
+    "tnea_code": "4952",
+    "district": "Kanyakumari",
+    "city": "Thovalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "d-m-i-engineering-college",
+    "name": "D M I Engineering College",
+    "tnea_code": "4946",
+    "district": "Kanyakumari",
+    "city": "Thovalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "good-shepherd-college-of-engineering-and-technology",
+    "name": "Good Shepherd College of Engineering and Technology",
+    "tnea_code": "4686",
+    "district": "Kanyakumari",
+    "city": "Maruthamparai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "immanuel-arasar-j-j-college-of-engineering",
+    "name": "Immanuel Arasar J J College of Engineering",
+    "tnea_code": "4932",
+    "district": "Kanyakumari",
+    "city": "Nattalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jayamatha-engineering-college",
+    "name": "Jayamatha Engineering College",
+    "tnea_code": "4956",
+    "district": "Kanyakumari",
+    "city": "Aralvaimozhi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "lord-jegannath-college-of-engineering-and-technology",
+    "name": "Lord Jegannath College of Engineering and Technology",
+    "tnea_code": "4983",
+    "district": "Kanyakumari",
+    "city": "Kanyakumari District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "lourdes-mount-college-of-engineering-and-technology",
+    "name": "Lourdes Mount College of Engineering and Technology",
+    "tnea_code": "4677",
+    "district": "Kanyakumari",
+    "city": "Kanyakumari District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "loyola-institute-of-technology-and-science",
+    "name": "Loyola Institute of Technology and Science",
+    "tnea_code": "4993",
+    "district": "Kanyakumari",
+    "city": "Thovalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-e-t-engineering-college",
+    "name": "M E T Engineering College",
+    "tnea_code": "4929",
+    "district": "Kanyakumari",
+    "city": "Thovalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mar-ephraem-college-of-engineering-technology",
+    "name": "MAR Ephraem College of Engineering & Technology",
+    "tnea_code": "4928",
+    "district": "Kanyakumari",
+    "city": "Marthandam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "maria-college-of-engineering-and-technology",
+    "name": "Maria College of Engineering and Technology",
+    "tnea_code": "4927",
+    "district": "Kanyakumari",
+    "city": "Thiruvattar Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "marthandam-college-of-engineering-technology",
+    "name": "Marthandam College of Engineering & Technology",
+    "tnea_code": "4984",
+    "district": "Kanyakumari",
+    "city": "Kanyakumari District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "narayanaguru-college-of-engineering",
+    "name": "Narayanaguru College of Engineering",
+    "tnea_code": "4977",
+    "district": "Kanyakumari",
+    "city": "Manjalumoodu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ponjesly-college-of-engineering",
+    "name": "Ponjesly College of Engineering",
+    "tnea_code": "4981",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rajas-institute-of-technology",
+    "name": "Rajas Institute of Technology",
+    "tnea_code": "4948",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rohini-college-of-engineering-technology",
+    "name": "Rohini College of Engineering & Technology",
+    "tnea_code": "4670",
+    "district": "Kanyakumari",
+    "city": "Palkulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "satyam-college-of-engineering-technology",
+    "name": "Satyam College of Engineering & Technology",
+    "tnea_code": "4943",
+    "district": "Kanyakumari",
+    "city": "Aralvaimozhi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sivaji-college-of-engineering-and-technology",
+    "name": "Sivaji College of Engineering and Technology",
+    "tnea_code": "4938",
+    "district": "Kanyakumari",
+    "city": "Vilavancode",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-xavier-catholic-college-of-engineering",
+    "name": "St. Xavier Catholic College of Engineering",
+    "tnea_code": "4971",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "stella-marys-college-of-engineering",
+    "name": "Stella Marys College of Engineering",
+    "tnea_code": "4672",
+    "district": "Kanyakumari",
+    "city": "Azhikal Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "udaya-school-of-engineering",
+    "name": "Udaya School of Engineering",
+    "tnea_code": "4978",
+    "district": "Kanyakumari",
+    "city": "Ammandivilai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "4023",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "vins-christian-college-of-engineering",
+    "name": "Vins Christian College of Engineering",
+    "tnea_code": "4982",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "vins-christian-womens-college-of-engineering",
+    "name": "Vins Christian Womens College of Engineering",
+    "tnea_code": "4945",
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arulmurugan-college-of-engineering",
+    "name": "Arulmurugan College of Engineering",
+    "tnea_code": "2356",
+    "district": "Karur",
+    "city": "Thennilai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "cheran-college-of-engineering",
+    "name": "Cheran College of Engineering",
+    "tnea_code": "2355",
+    "district": "Karur",
+    "city": "K.Paramathi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "chettinad-college-of-engineering-and-technology",
+    "name": "Chettinad College of Engineering and Technology",
+    "tnea_code": "2630",
+    "district": "Karur",
+    "city": "Puliyur C F",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-kumarasamy-college-of-engineering",
+    "name": "M Kumarasamy College of Engineering",
+    "tnea_code": "2608",
+    "district": "Karur",
+    "city": "Thalavapalayam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "n-s-n-college-of-engineering-and-technology",
+    "name": "N S N College of Engineering and Technology",
+    "tnea_code": "2327",
+    "district": "Karur",
+    "city": "Manalmedu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "v-s-b-engineering-college",
+    "name": "V S B Engineering College",
+    "tnea_code": "2622",
+    "district": "Karur",
+    "city": "Kovai Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "adhiyamaan-college-of-engineering",
+    "name": "Adhiyamaan College of Engineering",
+    "tnea_code": "2601",
+    "district": "Krishnagiri",
+    "city": "Hosur",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "er-perumal-manimekalai-college-of-engineering",
+    "name": "Er. Perumal Manimekalai College of Engineering",
+    "tnea_code": "2621",
+    "district": "Krishnagiri",
+    "city": "Hosur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "2603",
+    "district": "Krishnagiri",
+    "city": "Bargur",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "hosur-institute-of-tech-and-science",
+    "name": "Hosur Institute of Tech and Science",
+    "tnea_code": "2362",
+    "district": "Krishnagiri",
+    "city": "Errandapalli Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-s-v-college-of-engineeering-and-technology",
+    "name": "P S V College of Engineeering and Technology",
+    "tnea_code": "2642",
+    "district": "Krishnagiri",
+    "city": "Elathagiri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "anna-university-regional-campus-madurai",
+    "name": "Anna University Regional Campus - Madurai",
+    "tnea_code": "5010",
+    "district": "Madurai",
+    "city": "Kanyakumari National Highway",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "fatima-michael-college-of-engineering-technology",
+    "name": "Fatima Michael College of Engineering & Technology",
+    "tnea_code": "5935",
+    "district": "Madurai",
+    "city": "Madurai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "latha-mathavan-engineering-college",
+    "name": "Latha Mathavan Engineering College",
+    "tnea_code": "5990",
+    "district": "Madurai",
+    "city": "Kidaripatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mangayarkarasi-college-of-engineering",
+    "name": "Mangayarkarasi College of Engineering",
+    "tnea_code": "5536",
+    "district": "Madurai",
+    "city": "Paravai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-t-r-college-of-engineering-and-technology",
+    "name": "P T R College of Engineering and Technology",
+    "tnea_code": "5911",
+    "district": "Madurai",
+    "city": "Madurai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sacs-m-a-v-m-m-engineering-college",
+    "name": "SACS-M A V M M Engineering College",
+    "tnea_code": "5915",
+    "district": "Madurai",
+    "city": "Kidaripatty Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "solamalai-college-of-engineering",
+    "name": "Solamalai College of Engineering",
+    "tnea_code": "5914",
+    "district": "Madurai",
+    "city": "Veerapanjan",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thiagarajar-college-of-engineering",
+    "name": "Thiagarajar College of Engineering",
+    "tnea_code": "5008",
+    "district": "Madurai",
+    "city": "Tirupparankundram",
+    "institution_type": "Government-Aided"
+  },
+  {
+    "slug": "ultra-college-of-engineering-and-technology",
+    "name": "Ultra College of Engineering and Technology",
+    "tnea_code": "5942",
+    "district": "Madurai",
+    "city": "Kodikulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "vaigai-college-of-engineering",
+    "name": "Vaigai College of Engineering",
+    "tnea_code": "5532",
+    "district": "Madurai",
+    "city": "Melur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "velammal-college-of-engineering-and-technology",
+    "name": "Velammal College of Engineering and Technology",
+    "tnea_code": "5986",
+    "district": "Madurai",
+    "city": "Madurai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "a-v-c-college-of-engineering",
+    "name": "A V C College of Engineering",
+    "tnea_code": "3801",
+    "district": "Mayiladuthurai",
+    "city": "Mannampandal Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arifa-institute-of-technology",
+    "name": "Arifa Institute of Technology",
+    "tnea_code": "3461",
+    "district": "Nagapattinam",
+    "city": "Keelaiyur Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "e-g-s-pillay-engineering-college",
+    "name": "E G S Pillay Engineering College",
+    "tnea_code": "3806",
+    "district": "Nagapattinam",
+    "city": "Nagapattinam District",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sembodai-rukmani-varatharajan-engineering-college",
+    "name": "Sembodai Rukmani Varatharajan Engineering College",
+    "tnea_code": "3859",
+    "district": "Nagapattinam",
+    "city": "Vedaraniam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sir-issac-newton-college-of-engineering-and-technology",
+    "name": "Sir Issac Newton College of Engineering and Technology",
+    "tnea_code": "3760",
+    "district": "Nagapattinam",
+    "city": "Papakoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "3018",
+    "district": "Nagapattinam",
+    "city": "Thirukkuvalai",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "annai-mathammal-sheela-enginereing-college",
+    "name": "Annai Mathammal Sheela Enginereing College",
+    "tnea_code": "2602",
+    "district": "Namakkal",
+    "city": "Erumapatty Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "c-m-s-college-of-engineering",
+    "name": "C M S College of Engineering",
+    "tnea_code": "2635",
+    "district": "Namakkal",
+    "city": "Emapuram Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dr-nagarathinams-college-of-engineering",
+    "name": "Dr. Nagarathinams College of Engineering",
+    "tnea_code": "2662",
+    "district": "Namakkal",
+    "city": "Rasipuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "excel-college-of-engineering-and-technology",
+    "name": "Excel College of Engineering and Technology",
+    "tnea_code": "2664",
+    "district": "Namakkal",
+    "city": "Sankari West Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "excel-engineering-college",
+    "name": "Excel Engineering College",
+    "tnea_code": "2634",
+    "district": "Namakkal",
+    "city": "Sankari West Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "gnanamani-college-of-technology",
+    "name": "Gnanamani College of Technology",
+    "tnea_code": "2624",
+    "district": "Namakkal",
+    "city": "Pachal Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-k-k-nataraja-college-of-engineering-and-technology",
+    "name": "J K K Nataraja College of Engineering and Technology",
+    "tnea_code": "2647",
+    "district": "Namakkal",
+    "city": "Komarapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "k-s-r-college-of-engineering",
+    "name": "K S R College of Engineering",
+    "tnea_code": "2613",
+    "district": "Namakkal",
+    "city": "Tiruchengode",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "k-s-r-institute-for-engineering-and-technology",
+    "name": "K S R Institute for Engineering and Technology",
+    "tnea_code": "2328",
+    "district": "Namakkal",
+    "city": "Thokkavadi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "k-s-rangasamy-college-of-technology",
+    "name": "K S Rangasamy College of Technology",
+    "tnea_code": "2607",
+    "district": "Namakkal",
+    "city": "Tiruchengode",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "king-college-of-technology",
+    "name": "King College of Technology",
+    "tnea_code": "2631",
+    "district": "Namakkal",
+    "city": "Nallur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahendra-engineering-college",
+    "name": "Mahendra Engineering College",
+    "tnea_code": "2609",
+    "district": "Namakkal",
+    "city": "Mallasamudram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "mahendra-engineering-college-for-women",
+    "name": "Mahendra Engineering College for Women",
+    "tnea_code": "2638",
+    "district": "Namakkal",
+    "city": "Kumaramangalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahendra-institute-of-engineering-and-technology",
+    "name": "Mahendra Institute of Engineering and Technology",
+    "tnea_code": "2665",
+    "district": "Namakkal",
+    "city": "Mallasamudram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahendra-institute-of-technology",
+    "name": "Mahendra Institute of Technology",
+    "tnea_code": "2632",
+    "district": "Namakkal",
+    "city": "Mallasamudram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "muthayammal-college-of-engineering",
+    "name": "Muthayammal College of Engineering",
+    "tnea_code": "2314",
+    "district": "Namakkal",
+    "city": "Kakkaveri Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "muthayammal-engineering-college",
+    "name": "Muthayammal Engineering College",
+    "tnea_code": "2610",
+    "district": "Namakkal",
+    "city": "Rasipuram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "p-g-p-college-of-engineering-and-technology",
+    "name": "P G P College of Engineering and Technology",
+    "tnea_code": "2612",
+    "district": "Namakkal",
+    "city": "Paramathi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "paavai-college-of-engineering",
+    "name": "Paavai College of Engineering",
+    "tnea_code": "2628",
+    "district": "Namakkal",
+    "city": "Pachal Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "paavai-college-of-technology",
+    "name": "Paavai College of Technology",
+    "tnea_code": "2657",
+    "district": "Namakkal",
+    "city": "Pachal Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "paavai-engineering-college",
+    "name": "Paavai Engineering College",
+    "tnea_code": "2611",
+    "district": "Namakkal",
+    "city": "Pachal Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "s-s-m-college-of-engineering",
+    "name": "S S M College of Engineering",
+    "tnea_code": "2614",
+    "district": "Namakkal",
+    "city": "Komarapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "srg-engineering-college",
+    "name": "SRG Engineering College",
+    "tnea_code": "2767",
+    "district": "Namakkal",
+    "city": "Aniyapuram Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "selvam-college-of-technology",
+    "name": "Selvam College of Technology",
+    "tnea_code": "2627",
+    "district": "Namakkal",
+    "city": "Pappanaickenpatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sengunthar-college-of-engineering",
+    "name": "Sengunthar College of Engineering",
+    "tnea_code": "2629",
+    "district": "Namakkal",
+    "city": "Tiruchengode",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sengunthar-engineering-college",
+    "name": "Sengunthar Engineering College",
+    "tnea_code": "2617",
+    "district": "Namakkal",
+    "city": "Tiruchengode",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "vidhya-vikkas-college-of-engineering-and-technology",
+    "name": "Vidhya Vikkas College of Engineering and Technology",
+    "tnea_code": "2633",
+    "district": "Namakkal",
+    "city": "Tiruchengode",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "vivekanandha-college-of-engineering-for-women",
+    "name": "Vivekanandha College of Engineering for Women",
+    "tnea_code": "2620",
+    "district": "Namakkal",
+    "city": "Kumaramangalam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "vivekanandha-college-of-technology-for-women",
+    "name": "Vivekanandha College of Technology for Women",
+    "tnea_code": "2661",
+    "district": "Namakkal",
+    "city": "Kumaramangalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "c-s-i-college-of-engineering",
+    "name": "C S I College of Engineering",
+    "tnea_code": "2705",
+    "district": "Nilgiris",
+    "city": "Ketti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhanalakshmi-srinivasan-engineering-college",
+    "name": "Dhanalakshmi Srinivasan Engineering College",
+    "tnea_code": "3805",
+    "district": "Perambalur",
+    "city": "Thuraiyur Road",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "dhanalakshmi-srinivasan-institute-of-research-and-technology",
+    "name": "Dhanalakshmi Srinivasan Institute of Research and Technology",
+    "tnea_code": "3458",
+    "district": "Perambalur",
+    "city": "Siruvachur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "roever-college-of-engineering-and-technology",
+    "name": "Roever College of Engineering and Technology",
+    "tnea_code": "3847",
+    "district": "Perambalur",
+    "city": "Elambalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "roever-engineering-college",
+    "name": "Roever Engineering College",
+    "tnea_code": "3817",
+    "district": "Perambalur",
+    "city": "Elambalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-ramakrishna-college-of-engineering",
+    "name": "Sri Ramakrishna College of Engineering",
+    "tnea_code": "3454",
+    "district": "Perambalur",
+    "city": "Perambalur District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "chenduran-college-of-engineering-technology",
+    "name": "Chenduran College of Engineering & Technology",
+    "tnea_code": "3926",
+    "district": "Pudukkottai",
+    "city": "Thirumayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kings-college-of-engineering",
+    "name": "Kings College of Engineering",
+    "tnea_code": "3905",
+    "district": "Pudukkottai",
+    "city": "Punalkulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-n-s-k-college-of-engineering",
+    "name": "M N S K College of Engineering",
+    "tnea_code": "3923",
+    "district": "Pudukkottai",
+    "city": "Vallathirakkottai Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahath-amma-institute-of-engineering-and-technology",
+    "name": "Mahath Amma Institute of Engineering and Technology",
+    "tnea_code": "3854",
+    "district": "Pudukkottai",
+    "city": "Illupur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mookambigai-college-of-engineering",
+    "name": "Mookambigai College of Engineering",
+    "tnea_code": "3812",
+    "district": "Pudukkottai",
+    "city": "Keeranur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mother-terasa-college-of-engineering-and-technology",
+    "name": "Mother Terasa College of Engineering and Technology",
+    "tnea_code": "3846",
+    "district": "Pudukkottai",
+    "city": "Pudukkottai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mount-zion-college-of-engineering-and-technology",
+    "name": "Mount Zion College of Engineering and Technology",
+    "tnea_code": "3908",
+    "district": "Pudukkottai",
+    "city": "Pilivalam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shanmuganathan-engineering-college",
+    "name": "Shanmuganathan Engineering College",
+    "tnea_code": "3918",
+    "district": "Pudukkottai",
+    "city": "Pillivalam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-bharathi-engineering-college-for-women",
+    "name": "Sri Bharathi Engineering College for Women",
+    "tnea_code": "3852",
+    "district": "Pudukkottai",
+    "city": "Alangudi Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sudharsan-engineering-college",
+    "name": "Sudharsan Engineering College",
+    "tnea_code": "3920",
+    "district": "Pudukkottai",
+    "city": "Sathiyamangalam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ganapathy-chettiar-college-of-engineering-and-technology",
+    "name": "Ganapathy Chettiar College of Engineering and Technology",
+    "tnea_code": "5924",
+    "district": "Ramanathapuram",
+    "city": "Paramakudi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mohamed-sathak-engineering-college",
+    "name": "Mohamed Sathak Engineering College",
+    "tnea_code": "5907",
+    "district": "Ramanathapuram",
+    "city": "Kilakarai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "syed-ammal-engineering-college",
+    "name": "Syed Ammal Engineering College",
+    "tnea_code": "5921",
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "5017",
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "adhiparasakthi-college-of-engineering",
+    "name": "Adhiparasakthi College of Engineering",
+    "tnea_code": "1501",
+    "district": "Ranipet",
+    "city": "Kalavai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annai-mira-college-of-engineering-and-technology",
+    "name": "Annai Mira College of Engineering and Technology",
+    "tnea_code": "1137",
+    "district": "Ranipet",
+    "city": "Arcot Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "c-abdul-hakeem-college-of-engineering-and-technology",
+    "name": "C Abdul Hakeem College of Engineering and Technology",
+    "tnea_code": "1505",
+    "district": "Ranipet",
+    "city": "Melvisharam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "global-institute-of-engineering-and-technology",
+    "name": "Global Institute of Engineering and Technology",
+    "tnea_code": "1523",
+    "district": "Ranipet",
+    "city": "Melvisharam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ranippettai-engineering-college",
+    "name": "Ranippettai Engineering College",
+    "tnea_code": "1511",
+    "district": "Ranipet",
+    "city": "Thenkadappanthangal",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-krishna-college-of-engineering",
+    "name": "Sri Krishna College of Engineering",
+    "tnea_code": "1526",
+    "district": "Ranipet",
+    "city": "Tiruttani High Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-sapthagiri-institute-of-technology",
+    "name": "Sri Sapthagiri Institute of Technology",
+    "tnea_code": "1521",
+    "district": "Ranipet",
+    "city": "Ocheri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "a-v-s-engineering-college",
+    "name": "A V S Engineering College",
+    "tnea_code": "2636",
+    "district": "Salem",
+    "city": "Ammapet",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "avs-college-of-technology",
+    "name": "AVS College of Technology",
+    "tnea_code": "2347",
+    "district": "Salem",
+    "city": "Attur Main Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annapoorana-engineering-college",
+    "name": "Annapoorana Engineering College",
+    "tnea_code": "2648",
+    "district": "Salem",
+    "city": "Periaseeragapadi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "bharathiyar-institute-of-engineering-for-women",
+    "name": "Bharathiyar Institute of Engineering for Women",
+    "tnea_code": "2643",
+    "district": "Salem",
+    "city": "Attur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhirajlal-gandhi-college-of-technology",
+    "name": "Dhirajlal Gandhi College of Technology",
+    "tnea_code": "2345",
+    "district": "Salem",
+    "city": "Sikkanampatty",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ganesh-college-of-engineering",
+    "name": "Ganesh College of Engineering",
+    "tnea_code": "2341",
+    "district": "Salem",
+    "city": "Attur Main Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "2615",
+    "district": "Salem",
+    "city": "Karuppur",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "indian-institute-of-handloom-technology",
+    "name": "Indian Institute of Handloom Technology",
+    "tnea_code": "2343",
+    "district": "Salem",
+    "city": "Foulke's Compound",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "knowledge-institute-of-technology",
+    "name": "Knowledge Institute of Technology",
+    "tnea_code": "2653",
+    "district": "Salem",
+    "city": "Kakapalayam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahendra-college-of-engineering",
+    "name": "Mahendra College of Engineering",
+    "tnea_code": "2623",
+    "district": "Salem",
+    "city": "Valapady",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "narasus-sarathy-institute-of-technology",
+    "name": "Narasus Sarathy Institute of Technology",
+    "tnea_code": "2639",
+    "district": "Salem",
+    "city": "Omalur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "salem-college-of-engineering-and-technology",
+    "name": "Salem College of Engineering and Technology",
+    "tnea_code": "2659",
+    "district": "Salem",
+    "city": "Mettupatty Perumapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shree-sathyam-college-of-engineering-and-technology",
+    "name": "Shree Sathyam College of Engineering and Technology",
+    "tnea_code": "2346",
+    "district": "Salem",
+    "city": "Manjakkalpatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sona-college-of-technology",
+    "name": "Sona College of Technology",
+    "tnea_code": "2618",
+    "district": "Salem",
+    "city": "Suramangalam Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sri-shanmugha-college-of-engineering-and-technology",
+    "name": "Sri Shanmugha College of Engineering and Technology",
+    "tnea_code": "2302",
+    "district": "Salem",
+    "city": "Morur Bit II Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "tagore-institute-of-engineering-and-technology",
+    "name": "Tagore Institute of Engineering and Technology",
+    "tnea_code": "2646",
+    "district": "Salem",
+    "city": "Attur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "the-kavery-college-of-engineering",
+    "name": "The Kavery College of Engineering",
+    "tnea_code": "2666",
+    "district": "Salem",
+    "city": "Mecheri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "the-kavery-engineering-college",
+    "name": "The Kavery Engineering College",
+    "tnea_code": "2625",
+    "district": "Salem",
+    "city": "Mecheri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "v-s-a-group-of-institutions",
+    "name": "V S A Group of Institutions",
+    "tnea_code": "2658",
+    "district": "Salem",
+    "city": "Uthamasola Puram Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "alagappa-chettair-government-college-of-engineering-and-technology",
+    "name": "Alagappa Chettair Government College of Engineering and Technology",
+    "tnea_code": "5901",
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "central-electrochemical-research-institute-cecri",
+    "name": "Central Electrochemical Research Institute CECRI)",
+    "tnea_code": "5012",
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "k-l-n-college-of-engineering",
+    "name": "K L N College of Engineering",
+    "tnea_code": "5904",
+    "district": "Sivaganga",
+    "city": "Sivagangai District",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "karaikudi-institute-of-technology",
+    "name": "Karaikudi Institute of Technology",
+    "tnea_code": "5533",
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "madurai-institute-of-engineering-technology",
+    "name": "Madurai Institute of Engineering & Technology",
+    "tnea_code": "5842",
+    "district": "Sivaganga",
+    "city": "Manamadurai Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "pandian-saraswathi-yadav-engineering-college",
+    "name": "Pandian Saraswathi Yadav Engineering College",
+    "tnea_code": "5912",
+    "district": "Sivaganga",
+    "city": "Sivagangai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sree-raaja-raajan-college-of-engineering-technology",
+    "name": "Sree Raaja Raajan College of Engineering & Technology",
+    "tnea_code": "5502",
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-michael-college-of-engineering-and-technology",
+    "name": "St. Michael College of Engineering and Technology",
+    "tnea_code": "5919",
+    "district": "Sivaganga",
+    "city": "Kalayarkoil",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "a-r-college-of-engineering-and-technology",
+    "name": "A R College of Engineering and Technology",
+    "tnea_code": "4937",
+    "district": "Tenkasi",
+    "city": "Therikkumadathoor Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-p-college-of-engineering",
+    "name": "J P College of Engineering",
+    "tnea_code": "4994",
+    "district": "Tenkasi",
+    "city": "Ayakudy",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahakavi-bharathiyar-college-of-engineering-and-technology",
+    "name": "Mahakavi Bharathiyar College of Engineering and Technology",
+    "tnea_code": "4998",
+    "district": "Tenkasi",
+    "city": "Vasudevanallur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "s-veerasamy-chettiar-college-of-engineering-and-technology",
+    "name": "S Veerasamy Chettiar College of Engineering and Technology",
+    "tnea_code": "4967",
+    "district": "Tenkasi",
+    "city": "Puliangudi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sardar-raja-college-of-engineering",
+    "name": "Sardar Raja College of Engineering",
+    "tnea_code": "4968",
+    "district": "Tenkasi",
+    "city": "Alangulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annai-college-of-engineering-and-technology",
+    "name": "Annai College of Engineering and Technology",
+    "tnea_code": "3849",
+    "district": "Thanjavur",
+    "city": "Kovilacheri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arasu-engineering-college",
+    "name": "Arasu Engineering College",
+    "tnea_code": "3804",
+    "district": "Thanjavur",
+    "city": "Kumbakonam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "as-salam-college-of-engineering-and-technology",
+    "name": "As-Salam College of Engineering and Technology",
+    "tnea_code": "3855",
+    "district": "Thanjavur",
+    "city": "Thiruvidaimaruthur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "3464",
+    "district": "Thanjavur",
+    "city": "Gandarvakottai Road",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "k-s-k-college-of-engineering-and-technology",
+    "name": "K S K College of Engineering and Technology",
+    "tnea_code": "3456",
+    "district": "Thanjavur",
+    "city": "Darasuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-r-engineering-college",
+    "name": "P R Engineering College",
+    "tnea_code": "3814",
+    "district": "Thanjavur",
+    "city": "Vallam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "parisutham-institute-of-technology-and-science",
+    "name": "Parisutham Institute of Technology and Science",
+    "tnea_code": "3833",
+    "district": "Thanjavur",
+    "city": "Nanjikottai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "smr-east-coast-college-of-engineering-technology",
+    "name": "SMR East Coast College of Engineering & Technology",
+    "tnea_code": "3451",
+    "district": "Thanjavur",
+    "city": "Somanathapattinam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "st-josephs-college-of-engineering-and-technology",
+    "name": "St. Josephs College of Engineering and Technology",
+    "tnea_code": "3825",
+    "district": "Thanjavur",
+    "city": "Rawaspatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "star-lion-college-of-engineering-technology",
+    "name": "Star Lion College of Engineering & Technology",
+    "tnea_code": "3766",
+    "district": "Thanjavur",
+    "city": "Manankorai Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "3021",
+    "district": "Thanjavur",
+    "city": "Pattukkottai",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "vandayar-engineering-college",
+    "name": "Vandayar Engineering College",
+    "tnea_code": "3848",
+    "district": "Thanjavur",
+    "city": "Mariamman Koil(Via)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "bharath-niketan-engineering-college",
+    "name": "Bharath Niketan Engineering College",
+    "tnea_code": "5902",
+    "district": "Theni",
+    "city": "Aundipatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "5009",
+    "district": "Theni",
+    "city": "Melachokkanathapuram",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "nadar-saraswathi-college-of-engineering-and-technology",
+    "name": "Nadar Saraswathi College of Engineering and Technology",
+    "tnea_code": "5865",
+    "district": "Theni",
+    "city": "Theni District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "theni-kammavar-sangam-college-of-technology",
+    "name": "Theni Kammavar Sangam College of Technology",
+    "tnea_code": "5988",
+    "district": "Theni",
+    "city": "Koduvillarpatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dr-g-u-pope-college-of-engineering",
+    "name": "Dr. G U Pope College of Engineering",
+    "tnea_code": "4975",
+    "district": "Thoothukudi",
+    "city": "Sawyerpuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dr-sivanthi-aditanar-college-of-engineering",
+    "name": "Dr. Sivanthi Aditanar College of Engineering",
+    "tnea_code": "4954",
+    "district": "Thoothukudi",
+    "city": "Tiruchendur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "grace-college-of-engineering",
+    "name": "Grace College of Engineering",
+    "tnea_code": "4931",
+    "district": "Thoothukudi",
+    "city": "Mullakkadu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "holy-cross-engineering-college",
+    "name": "Holy Cross Engineering College",
+    "tnea_code": "4934",
+    "district": "Thoothukudi",
+    "city": "Srivaikuntam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "infant-jesus-college-of-engineering",
+    "name": "Infant Jesus College of Engineering",
+    "tnea_code": "4976",
+    "district": "Thoothukudi",
+    "city": "Thoothukudi District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jayaraj-annapackiam-csi-college-of-engineering",
+    "name": "Jayaraj Annapackiam CSI College of Engineering",
+    "tnea_code": "4957",
+    "district": "Thoothukudi",
+    "city": "Nazareth",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "national-engineering-college",
+    "name": "National Engineering College",
+    "tnea_code": "4962",
+    "district": "Thoothukudi",
+    "city": "Kovilpatti",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "st-mother-theresa-engineering-college",
+    "name": "St. Mother Theresa Engineering College",
+    "tnea_code": "4933",
+    "district": "Thoothukudi",
+    "city": "Vagaikulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-v-o-c-college-of-engineering",
+    "name": "University V.O.C. College of Engineering",
+    "tnea_code": "4024",
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "unnamalai-institute-of-technology",
+    "name": "Unnamalai Institute of Technology",
+    "tnea_code": "4941",
+    "district": "Thoothukudi",
+    "city": "Ayyaneri",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "v-v-college-of-engineering",
+    "name": "V V College of Engineering",
+    "tnea_code": "4864",
+    "district": "Thoothukudi",
+    "city": "Santhakulam Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "care-college-of-engineering",
+    "name": "CARE College of Engineering",
+    "tnea_code": "3841",
+    "district": "Tiruchirappalli",
+    "city": "Srirangam Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "dhanalakshmi-srinivasan-institute-of-technology",
+    "name": "Dhanalakshmi Srinivasan Institute of Technology",
+    "tnea_code": "3459",
+    "district": "Tiruchirappalli",
+    "city": "Samayapuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "3465",
+    "district": "Tiruchirappalli",
+    "city": "Srirangam",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "imayam-college-of-engineering",
+    "name": "Imayam College of Engineering",
+    "tnea_code": "3845",
+    "district": "Tiruchirappalli",
+    "city": "Kannanur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "indra-ganesan-college-of-engineering",
+    "name": "Indra Ganesan College of Engineering",
+    "tnea_code": "3831",
+    "district": "Tiruchirappalli",
+    "city": "Manikandam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-j-college-of-engineering-and-technology",
+    "name": "J J College of Engineering and Technology",
+    "tnea_code": "3807",
+    "district": "Tiruchirappalli",
+    "city": "Poolankulathupatti Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jayaram-college-of-engineering-and-technology",
+    "name": "Jayaram College of Engineering and Technology",
+    "tnea_code": "3808",
+    "district": "Tiruchirappalli",
+    "city": "Pagalavadi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "k-ramakrishnan-college-of-engineering",
+    "name": "K Ramakrishnan College of Engineering",
+    "tnea_code": "3830",
+    "district": "Tiruchirappalli",
+    "city": "Samayapuram",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "k-ramakrishnan-college-of-technology",
+    "name": "K Ramakrishnan College of Technology",
+    "tnea_code": "3701",
+    "district": "Tiruchirappalli",
+    "city": "Samayapuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kongunadu-college-of-engineering-and-technology",
+    "name": "Kongunadu College of Engineering and Technology",
+    "tnea_code": "3826",
+    "district": "Tiruchirappalli",
+    "city": "Thottiyam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "kurinji-college-of-engineering-and-technology",
+    "name": "Kurinji College of Engineering and Technology",
+    "tnea_code": "3809",
+    "district": "Tiruchirappalli",
+    "city": "Manapparai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-i-e-t-engineering-college",
+    "name": "M I E T Engineering College",
+    "tnea_code": "3811",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-a-m-college-of-engineering",
+    "name": "M.A.M. College of Engineering",
+    "tnea_code": "3810",
+    "district": "Tiruchirappalli",
+    "city": "Siruganur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-a-m-college-of-engineering-and-technology",
+    "name": "M.A.M. College of Engineering and Technology",
+    "tnea_code": "3829",
+    "district": "Tiruchirappalli",
+    "city": "Siruganur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "m-a-m-school-of-engineering",
+    "name": "M.A.M. School of Engineering",
+    "tnea_code": "3786",
+    "district": "Tiruchirappalli",
+    "city": "Siruganur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "mahalakshmi-engineering-college",
+    "name": "Mahalakshmi Engineering College",
+    "tnea_code": "3403",
+    "district": "Tiruchirappalli",
+    "city": "Siruganbur Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "oasys-institute-of-technology",
+    "name": "OASYS Institute of Technology",
+    "tnea_code": "3782",
+    "district": "Tiruchirappalli",
+    "city": "Pulivalam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "oxford-engineering-college",
+    "name": "Oxford Engineering College",
+    "tnea_code": "3813",
+    "district": "Tiruchirappalli",
+    "city": "Pirattiyur(W)",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "pavendhar-bharathidasan-college-of-engineering-and-technology",
+    "name": "Pavendhar Bharathidasan College of Engineering and Technology",
+    "tnea_code": "3815",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "srm-trp-engineering-college",
+    "name": "SRM TRP Engineering College",
+    "tnea_code": "3795",
+    "district": "Tiruchirappalli",
+    "city": "Irungalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "saranathan-college-of-engineering",
+    "name": "Saranathan College of Engineering",
+    "tnea_code": "3819",
+    "district": "Tiruchirappalli",
+    "city": "Panjappur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shivani-engineering-college",
+    "name": "Shivani Engineering College",
+    "tnea_code": "3844",
+    "district": "Tiruchirappalli",
+    "city": "Ammapettai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "shri-angalamman-college-of-engineering-and-technology",
+    "name": "Shri Angalamman College of Engineering and Technology",
+    "tnea_code": "3802",
+    "district": "Tiruchirappalli",
+    "city": "Siruganoor",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "surya-college-of-engineering",
+    "name": "Surya College of Engineering",
+    "tnea_code": "3460",
+    "district": "Tiruchirappalli",
+    "city": "Konalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "trichy-engineering-college",
+    "name": "Trichy Engineering College",
+    "tnea_code": "3820",
+    "district": "Tiruchirappalli",
+    "city": "Konalai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "3011",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "vetri-vinayaha-college-of-engineering-and-technology",
+    "name": "Vetri Vinayaha College of Engineering and Technology",
+    "tnea_code": "3850",
+    "district": "Tiruchirappalli",
+    "city": "Thottiam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "anna-university-regional-campus-tirunelveli",
+    "name": "Anna University Regional Campus - Tirunelveli",
+    "tnea_code": "4020",
+    "district": "Tirunelveli",
+    "city": "Trivandrum Road",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "cape-institute-of-technology",
+    "name": "CAPE Institute of Technology",
+    "tnea_code": "4953",
+    "district": "Tirunelveli",
+    "city": "Levingipuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "einstein-college-of-engineering",
+    "name": "Einstein College of Engineering",
+    "tnea_code": "4980",
+    "district": "Tirunelveli",
+    "city": "Seethaparpanallur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "francis-xavier-engineering-college",
+    "name": "Francis Xavier Engineering College",
+    "tnea_code": "4955",
+    "district": "Tirunelveli",
+    "city": "Vannarpettai",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "government-college-of-engineering",
+    "name": "Government College of Engineering",
+    "tnea_code": "4974",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "nellai-college-of-engineering",
+    "name": "Nellai College of Engineering",
+    "tnea_code": "4961",
+    "district": "Tirunelveli",
+    "city": "Maruthakulam Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-s-n-college-of-engineering-and-technology",
+    "name": "P S N College of Engineering and Technology",
+    "tnea_code": "4964",
+    "district": "Tirunelveli",
+    "city": "Melathediyoor",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "p-s-n-engineering-college",
+    "name": "P S N Engineering College",
+    "tnea_code": "4989",
+    "district": "Tirunelveli",
+    "city": "Melathediyoor",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "p-s-n-institute-of-technology-science",
+    "name": "P S N Institute of Technology & Science",
+    "tnea_code": "4949",
+    "district": "Tirunelveli",
+    "city": "Melathediyoor",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "pet-engineering-college",
+    "name": "PET Engineering College",
+    "tnea_code": "4966",
+    "district": "Tirunelveli",
+    "city": "Vallioor Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "rajas-engineering-college",
+    "name": "Rajas Engineering College",
+    "tnea_code": "4973",
+    "district": "Tirunelveli",
+    "city": "Vadakkangulam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "scad-college-of-engineering-and-technology",
+    "name": "SCAD College of Engineering and Technology",
+    "tnea_code": "4969",
+    "district": "Tirunelveli",
+    "city": "Cheranmahadevi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thamirabharani-engineering-college",
+    "name": "Thamirabharani Engineering College",
+    "tnea_code": "4669",
+    "district": "Tirunelveli",
+    "city": "Thatchanallur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "universal-college-of-engineering-and-technology",
+    "name": "Universal College of Engineering and Technology",
+    "tnea_code": "4675",
+    "district": "Tirunelveli",
+    "city": "Vallioor",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "podhigai-college-of-engineering-and-technology",
+    "name": "Podhigai College of Engineering and Technology",
+    "tnea_code": "1525",
+    "district": "Tirupathur",
+    "city": "Vinayakapuram",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "bhajarang-engineering-college",
+    "name": "BHAJARANG ENGINEERING COLLEGE",
+    "tnea_code": "1102",
+    "district": "Tiruvallur",
+    "city": "AYATHUR VILLAGE",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ganadipathy-tulsi-s-jain-engineering-college",
+    "name": "Ganadipathy Tulsi's Jain Engineering College",
+    "tnea_code": "1507",
+    "district": "Vellore",
+    "city": "Kaniyambadi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kingston-engineering-college",
+    "name": "Kingston Engineering College",
+    "tnea_code": "1520",
+    "district": "Vellore",
+    "city": "Christianpet Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sree-krishna-college-of-engineering",
+    "name": "Sree Krishna College of Engineering",
+    "tnea_code": "1438",
+    "district": "Vellore",
+    "city": "Anaicut Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thanthai-periyar-government-institute-of-technology",
+    "name": "Thanthai Periyar Government Institute of Technology",
+    "tnea_code": "1516",
+    "district": "Vellore",
+    "city": "Bagayam",
+    "institution_type": "Government"
+  },
+  {
+    "slug": "a-r-engineering-college",
+    "name": "A R Engineering College",
+    "tnea_code": "1436",
+    "district": "Villupuram",
+    "city": "Vadakuchipalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "i-f-e-t-college-of-engineering",
+    "name": "I F E T College of Engineering",
+    "tnea_code": "1408",
+    "district": "Villupuram",
+    "city": "Gangarampalayam",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "mailam-engineering-college",
+    "name": "Mailam Engineering College",
+    "tnea_code": "1412",
+    "district": "Villupuram",
+    "city": "Mailam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "saraswathy-college-of-engineering-and-technology",
+    "name": "Saraswathy College of Engineering and Technology",
+    "tnea_code": "1449",
+    "district": "Villupuram",
+    "city": "Olakkur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-rangapoopathi-college-of-engineering",
+    "name": "Sri Rangapoopathi College of Engineering",
+    "tnea_code": "1445",
+    "district": "Villupuram",
+    "city": "Alampoondi Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "surya-group-of-institutions",
+    "name": "Surya Group of Institutions",
+    "tnea_code": "1434",
+    "district": "Villupuram",
+    "city": "GST Road",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "1013",
+    "district": "Villupuram",
+    "city": "Villupuram",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "1014",
+    "district": "Villupuram",
+    "city": "Tindivanam",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "v-r-s-college-of-engineering-and-technology",
+    "name": "V R S College of Engineering and Technology",
+    "tnea_code": "1421",
+    "district": "Villupuram",
+    "city": "Arasur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "aaa-college-of-engineering-and-technology",
+    "name": "AAA College of Engineering and Technology",
+    "tnea_code": "4680",
+    "district": "Virudhunagar",
+    "city": "Sivakasi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "kamaraj-college-of-engineering-and-technology",
+    "name": "Kamaraj College of Engineering and Technology",
+    "tnea_code": "4959",
+    "district": "Virudhunagar",
+    "city": "Virudhunagar District",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "mepco-schlenk-engineering-college",
+    "name": "Mepco Schlenk Engineering College",
+    "tnea_code": "4960",
+    "district": "Virudhunagar",
+    "city": "Sivakasi",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "p-s-r-engineering-college",
+    "name": "P S R Engineering College",
+    "tnea_code": "4965",
+    "district": "Virudhunagar",
+    "city": "Sevalpatti",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "p-s-r-rengasamy-college-of-engineering-for-women",
+    "name": "P S R Rengasamy College of Engineering for Women",
+    "tnea_code": "4995",
+    "district": "Virudhunagar",
+    "city": "Sevalpatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ramco-institute-of-technology",
+    "name": "Ramco Institute of Technology",
+    "tnea_code": "4678",
+    "district": "Virudhunagar",
+    "city": "Rajapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "renganayagi-varatharaj-college-of-engineering",
+    "name": "Renganayagi Varatharaj College of Engineering",
+    "tnea_code": "4676",
+    "district": "Virudhunagar",
+    "city": "Salvarpatti",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sethu-institute-of-technology",
+    "name": "Sethu Institute of Technology",
+    "tnea_code": "4917",
+    "district": "Virudhunagar",
+    "city": "Kariapatti Post",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "sree-sowdambiga-college-of-engineering",
+    "name": "Sree Sowdambiga College of Engineering",
+    "tnea_code": "4970",
+    "district": "Virudhunagar",
+    "city": "Aruppukkottai Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-vidhya-college-of-engineering-and-technology",
+    "name": "Sri Vidhya College of Engineering and Technology",
+    "tnea_code": "4996",
+    "district": "Virudhunagar",
+    "city": "Sivakasi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "v-p-muthaiah-pillai-meenakshi-ammal-engineering-college-for-women",
+    "name": "V P Muthaiah Pillai Meenakshi Ammal Engineering College for Women",
+    "tnea_code": "4979",
+    "district": "Virudhunagar",
+    "city": "Srivilliputhur Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annamalaiar-college-of-engineering",
+    "name": "Annamalaiar College of Engineering",
+    "tnea_code": "1524",
+    "district": "Thiruvannamalai",
+    "city": "Modaiyur Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arulmigu-meenakshi-amman-college-of-engineering",
+    "name": "Arulmigu Meenakshi Amman College of Engineering",
+    "tnea_code": "1503",
+    "district": "Thiruvannamalai",
+    "city": "Vadamavandal",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "arunai-engineering-college",
+    "name": "Arunai Engineering College",
+    "tnea_code": "1504",
+    "district": "Thiruvannamalai",
+    "city": "Mathur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "oxford-college-of-engineering",
+    "name": "Oxford College of Engineering",
+    "tnea_code": "1529",
+    "district": "Thiruvannamalai",
+    "city": "Venmani Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "s-k-p-engineering-college",
+    "name": "S K P Engineering College",
+    "tnea_code": "1512",
+    "district": "Thiruvannamalai",
+    "city": "Thiruvannamalai District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-balaji-chockalingam-engineering-college",
+    "name": "Sri Balaji Chockalingam Engineering College",
+    "tnea_code": "1513",
+    "district": "Thiruvannamalai",
+    "city": "Arni",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "thiruvalluvar-college-of-engineering-and-technology",
+    "name": "Thiruvalluvar College of Engineering and Technology",
+    "tnea_code": "1518",
+    "district": "Thiruvannamalai",
+    "city": "Vandavasi",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "university-college-of-engineering",
+    "name": "University College of Engineering",
+    "tnea_code": "1015",
+    "district": "Thiruvannamalai",
+    "city": "Arni",
+    "institution_type": "Constituent"
+  },
+  {
+    "slug": "grt-institute-of-engineering-and-technology",
+    "name": "GRT Institute of Engineering and Technology",
+    "tnea_code": "1238",
+    "district": "Thiruvallur",
+    "city": "Tiruttani Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "indira-institute-of-engineering-and-technology",
+    "name": "Indira Institute of Engineering and Technology",
+    "tnea_code": "1229",
+    "district": "Thiruvallur",
+    "city": "VGR Gardens",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "j-n-n-institute-of-engineering",
+    "name": "J N N Institute of Engineering",
+    "tnea_code": "1126",
+    "district": "Thiruvallur",
+    "city": "Ushaa Garden",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jaya-institute-of-technology",
+    "name": "Jaya Institute of Technology",
+    "tnea_code": "1107",
+    "district": "Thiruvallur",
+    "city": "Kanchipadi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "prathyusha-engineering-college",
+    "name": "Prathyusha Engineering college",
+    "tnea_code": "1110",
+    "district": "Thiruvallur",
+    "city": "Aranvoyalkuppam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-m-d-engineering-college",
+    "name": "R M D Engineering College",
+    "tnea_code": "1112",
+    "district": "Thiruvallur",
+    "city": "Kavaraipettai",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-m-k-college-of-engineering-and-technology",
+    "name": "R M K College of Engineering and Technology",
+    "tnea_code": "1128",
+    "district": "Thiruvallur",
+    "city": "Puduvoyal",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "r-m-k-engineering-college",
+    "name": "R M K Engineering College",
+    "tnea_code": "1113",
+    "district": "Thiruvallur",
+    "city": "Kavaraipettai",
+    "institution_type": "Autonomous"
+  },
+  {
+    "slug": "r-v-s-padmavathy-college-of-engineering-and-technology",
+    "name": "R V S Padmavathy College of Engineering and Technology",
+    "tnea_code": "1141",
+    "district": "Thiruvallur",
+    "city": "Senthil Pakkam Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sams-college-of-engineering-and-technology",
+    "name": "SAMS College of Engineering and Technology",
+    "tnea_code": "1124",
+    "district": "Thiruvallur",
+    "city": "Panappakkam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-jayaram-institute-of-engineering-and-technology",
+    "name": "Sri Jayaram Institute of Engineering and Technology",
+    "tnea_code": "1150",
+    "district": "Thiruvallur",
+    "city": "Elavur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-ram-engineering-college",
+    "name": "Sri Ram Engineering College",
+    "tnea_code": "1115",
+    "district": "Thiruvallur",
+    "city": "Perumalpattu",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-venkateswara-college-of-engineering-and-technology",
+    "name": "Sri Venkateswara College of Engineering and Technology",
+    "tnea_code": "1116",
+    "district": "Thiruvallur",
+    "city": "Thirupachur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-venkateswara-institute-of-science-and-technology",
+    "name": "Sri Venkateswara Institute of Science and Technology",
+    "tnea_code": "1121",
+    "district": "Thiruvallur",
+    "city": "Kozhundalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "t-j-s-engineering-college",
+    "name": "T J S Engineering College",
+    "tnea_code": "1241",
+    "district": "Thiruvallur",
+    "city": "Peruvoyal",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "velammal-institute-of-technology",
+    "name": "Velammal Institute of Technology",
+    "tnea_code": "1237",
+    "district": "Thiruvallur",
+    "city": "Panchetti Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "annai-terasa-college-of-engineering",
+    "name": "Annai Terasa College of Engineering",
+    "tnea_code": "1402",
+    "district": "Kallakkurichi",
+    "city": "Thirunavalur",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "idhaya-engineering-college-for-women",
+    "name": "Idhaya Engineering College for Women",
+    "tnea_code": "1605",
+    "district": "Kallakkurichi",
+    "city": "Chinnasalem",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "priyadarshini-engineering-college",
+    "name": "Priyadarshini Engineering College",
+    "tnea_code": "1510",
+    "district": "Thiruppattur",
+    "city": "Vaniyambadi Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "bharathidasan-engineering-college",
+    "name": "Bharathidasan Engineering College",
+    "tnea_code": "1519",
+    "district": "Thiruppathur",
+    "city": "Nattrampalli Post",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sri-nandhanam-college-of-engineering-and-technology",
+    "name": "Sri Nandhanam College of Engineering and Technology",
+    "tnea_code": "1514",
+    "district": "Thiruppathur",
+    "city": "Thiruppathur District",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "ambal-professional-group-of-institutions",
+    "name": "Ambal Professional Group of Institutions",
+    "tnea_code": "2682",
+    "district": "Tirupur",
+    "city": "Palladam Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "angel-college-of-engineering-and-technology",
+    "name": "Angel College of Engineering and Technology",
+    "tnea_code": "2733",
+    "district": "Tirupur",
+    "city": "Ugayanur Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "builders-engineering-college",
+    "name": "Builders Engineering College",
+    "tnea_code": "2656",
+    "district": "Tirupur",
+    "city": "Palayakottai Village",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jai-shriram-engineering-college",
+    "name": "Jai Shriram Engineering College",
+    "tnea_code": "2651",
+    "district": "Tirupur",
+    "city": "Avinashi Palayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "jairupaa-college-of-engineering",
+    "name": "Jairupaa College of Engineering",
+    "tnea_code": "2350",
+    "district": "Tirupur",
+    "city": "Thottiapalayam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "sasurie-college-of-engineering",
+    "name": "Sasurie College of Engineering",
+    "tnea_code": "2717",
+    "district": "Tirupur",
+    "city": "Vijayamangalam",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "a-r-j-college-of-engineering-and-technology",
+    "name": "A R J College of Engineering and Technology",
+    "tnea_code": "3821",
+    "district": "Thiruvarur",
+    "city": "Mannargudi Taluk",
+    "institution_type": "Self-Financing / Private"
+  },
+  {
+    "slug": "anjalai-ammal-mahalingam-engineering-college",
+    "name": "Anjalai Ammal-Mahalingam Engineering College",
+    "tnea_code": "3803",
+    "district": "Thiruvarur",
+    "city": "Kovilvenni",
+    "institution_type": "Self-Financing / Private"
+  }
+]

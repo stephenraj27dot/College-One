@@ -15,7 +15,7 @@ export function Container({
     sm: "max-w-3xl",
     md: "max-w-5xl",
     lg: "max-w-6xl",
-    xl: "max-w-7xl",
+    xl: "max-w-full", // Changed from max-w-7xl to max-w-full as per user request to make it full screen
     full: "max-w-full",
   };
 

@@ -91,7 +91,7 @@ function CollegesDirectoryContent() {
 
   return (
     <div className="py-10 bg-slate-50 min-h-screen pb-36">
-      <Container size="xl" className="space-y-6">
+      <Container size="full" className="space-y-6">
         {/* Page Header */}
         <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 border-b border-slate-200 pb-6">
           <div className="space-y-1.5">
@@ -129,7 +129,7 @@ function CollegesDirectoryContent() {
         {/* Layout Grid: Sidebar Filters + Main Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           {/* Left Filter Sidebar */}
-          <div className="lg:col-span-4 xl:col-span-3">
+          <div className="lg:col-span-3 xl:col-span-2">
             <CollegeFilter
               selectedDistrict={selectedDistrict}
               selectedStream={selectedStream}
@@ -144,7 +144,7 @@ function CollegesDirectoryContent() {
           </div>
 
           {/* Right Main Results Area */}
-          <div className="lg:col-span-8 xl:col-span-9 space-y-5">
+          <div className="lg:col-span-9 xl:col-span-10 space-y-5">
             {/* Search Bar & Sort Row */}
             <div className="flex flex-col sm:flex-row items-center gap-3">
               <div className="flex-1 w-full">
@@ -208,7 +208,7 @@ function CollegesDirectoryContent() {
                 </Button>
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {colleges.map((college) => (
                   <CollegeCard
                     key={college.id}

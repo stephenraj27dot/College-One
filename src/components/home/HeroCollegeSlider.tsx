@@ -172,21 +172,7 @@ export function HeroCollegeSlider() {
         )}
       </div>
 
-      {/* Slide Navigation Dots at bottom right of hero */}
-      <div className="absolute bottom-16 right-8 z-20 pointer-events-auto hidden lg:flex items-center gap-1.5">
-        {top10TamilNaduColleges.map((c, i) => (
-          <button
-            key={c.id}
-            onClick={() => setCurrentIndex(i)}
-            title={`${c.name} (${c.city})`}
-            className={`h-1.5 rounded-full transition-all duration-500 ${
-              i === currentIndex
-                ? "w-8 bg-amber-400 shadow-md shadow-amber-400/50"
-                : "w-2 bg-white/30 hover:bg-white/70"
-            }`}
-          />
-        ))}
-      </div>
+
     </div>
   );
 }

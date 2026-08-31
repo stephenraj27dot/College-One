@@ -100,6 +100,7 @@ CREATE TABLE IF NOT EXISTS public.colleges (
     pincode VARCHAR(10),
     established_year INTEGER,
     institution_type TEXT NOT NULL CHECK (institution_type IN ('Government', 'Government-Aided', 'Autonomous', 'Constituent', 'Deemed University', 'Self-Financing / Private')),
+    college_category TEXT CHECK (college_category IN ('Engineering', 'Medical', 'Law', 'Arts & Science', 'Agriculture', 'Management', 'Other')),
     affiliation TEXT,
     accreditation TEXT,
     nirf_ranking INTEGER,

@@ -70,14 +70,7 @@ export default function ExamsPage() {
               </div>
 
               <div className="pt-3 border-t border-slate-100 flex items-center gap-3">
-                {exam.counselling_portal && (
-                  <a href={exam.counselling_portal} target="_blank" rel="noopener noreferrer" className="flex-1">
-                    <Button variant="primary" size="sm" className="w-full text-xs font-bold bg-blue-600 hover:bg-blue-700 gap-1">
-                      <span>Official Portal</span>
-                      <ExternalLink className="h-3.5 w-3.5" />
-                    </Button>
-                  </a>
-                )}
+
                 <Link href={`/colleges`} className="flex-1">
                   <Button variant="outline" size="sm" className="w-full text-xs font-semibold">
                     Participating Colleges

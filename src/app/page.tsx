@@ -155,10 +155,10 @@ export default function HomePage() {
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search by TNEA Code (e.g. 0001, 2006, 2718) or College Name..."
-                className="flex-1 bg-transparent px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:outline-none text-sm md:text-base font-semibold"
+                className="flex-1 min-w-0 bg-transparent px-2 sm:px-4 py-3 text-slate-900 placeholder:text-slate-400 focus:outline-none text-xs sm:text-sm md:text-base font-semibold"
               />
-              <Button type="submit" className="rounded-full bg-gradient-to-r from-[#f29a38] to-[#d98528] hover:from-[#d98528] hover:to-[#b76e1f] text-white px-8 py-3.5 h-auto font-extrabold text-sm md:text-base transition-all duration-300 shadow-md hover:scale-105">
-                <Search className="h-4 w-4 mr-2" /> Search
+              <Button type="submit" className="rounded-full bg-gradient-to-r from-[#f29a38] to-[#d98528] hover:from-[#d98528] hover:to-[#b76e1f] text-white px-4 sm:px-8 py-2.5 sm:py-3.5 h-auto font-extrabold text-sm md:text-base transition-all duration-300 shadow-md hover:scale-105 shrink-0">
+                <Search className="h-4 w-4 sm:mr-2" /> <span className="hidden sm:inline">Search</span>
               </Button>
             </div>
           </form>

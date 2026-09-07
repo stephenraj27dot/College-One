@@ -1,4 +1,0 @@
-\")
-            for part in parts[1:]:
-                # find end
-                end_split = part.split(\"

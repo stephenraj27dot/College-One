@@ -54,6 +54,9 @@ export async function generateMetadata({ params }: CollegeProfilePageProps) {
   return {
     title: `${college.name} - Cutoff, Fees, Placements & Admission 2026`,
     description: `Official profile for ${college.official_name}. View TNEA Code ${college.tnea_code || "N/A"}, verified 2024 cutoffs, fee structure, placement salary stats, and admission processes.`,
+    alternates: {
+      canonical: `${siteConfig.url}/colleges/${college.slug}`,
+    },
     openGraph: {
       title: `${college.name} - Tamil Nadu Admissions`,
       description: college.description || undefined,

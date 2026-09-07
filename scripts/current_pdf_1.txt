@@ -1,3 +1,0 @@
-'))
-                print('Has Start of OCR:', content.count('==Start of OCR'))
-\"","Cwd":"c:\\Users\\vishn\\OneDrive\\Desktop\\college\\College-One","WaitMsBeforeAsync":5000,"toolAction":"Running command","toolSummary":"Command execution"}}]}

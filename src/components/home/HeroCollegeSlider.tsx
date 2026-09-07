@@ -3,8 +3,6 @@
 import { useState, useEffect } from "react";
 import { MapPin, Building, Sparkles } from "lucide-react";
 
-import allColleges from "@/lib/data/allColleges.json";
-
 export interface TopCollegeSlide {
   id: string;
   name: string;
@@ -15,18 +13,98 @@ export interface TopCollegeSlide {
   tagline: string;
 }
 
-export const top10TamilNaduColleges: TopCollegeSlide[] = allColleges
-  .filter((c: any) => c.is_featured)
-  .slice(0, 10)
-  .map((c: any) => ({
-    id: c.id,
-    name: c.name,
-    short_name: c.short_name || c.name,
-    city: c.city || "",
-    tnea_code: c.tnea_code || "N/A",
-    imageUrl: c.banner_url || "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
-    tagline: c.accreditation || "Top College"
-  }));
+export const top10TamilNaduColleges: TopCollegeSlide[] = [
+  {
+    id: "col-ceg-1",
+    name: "College of Engineering, Guindy (CEG)",
+    short_name: "CEG Anna University",
+    city: "Chennai",
+    tnea_code: "1",
+    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
+    tagline: "NIRF #13 | Benchmark for Engineering Excellence"
+  },
+  {
+    id: "col-act-2",
+    name: "Alagappa Chettiar College of Technology (ACT)",
+    short_name: "ACT Tech Anna Univ",
+    city: "Chennai",
+    tnea_code: "2",
+    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+    tagline: "Premier Chemical, Bio & Polymer Tech Campus"
+  },
+  {
+    id: "col-mit-4",
+    name: "Madras Institute of Technology (MIT)",
+    short_name: "MIT Chromepet",
+    city: "Chengalpattu",
+    tnea_code: "4",
+    imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    tagline: "Alma Mater of Dr. APJ Abdul Kalam | Aeronautical & Auto Hub"
+  },
+  {
+    id: "col-psg-2006",
+    name: "PSG College of Technology (Autonomous)",
+    short_name: "PSG Tech",
+    city: "Coimbatore",
+    tnea_code: "2006",
+    imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+    tagline: "Top Private Engineering Benchmark in South India"
+  },
+  {
+    id: "col-gct-2005",
+    name: "Government College of Technology (GCT)",
+    short_name: "GCT Coimbatore",
+    city: "Coimbatore",
+    tnea_code: "2005",
+    imageUrl: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=80",
+    tagline: "Historic Pioneer in Government Technical Education"
+  },
+  {
+    id: "col-cit-2007",
+    name: "Coimbatore Institute of Technology (CIT)",
+    short_name: "CIT Coimbatore",
+    city: "Coimbatore",
+    tnea_code: "2007",
+    imageUrl: "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1200&q=80",
+    tagline: "NAAC A Grade | Autonomous Premier Research Hub"
+  },
+  {
+    id: "col-ssn-1315",
+    name: "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    short_name: "SSN Kalavakkam",
+    city: "Kanchipuram",
+    tnea_code: "1315",
+    imageUrl: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+    tagline: "Top NIRF Ranked Elite Research & Industry Placements"
+  },
+  {
+    id: "col-rec-1211",
+    name: "Rajalakshmi Engineering College (Autonomous)",
+    short_name: "REC Thandalam",
+    city: "Chennai",
+    tnea_code: "1211",
+    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+    tagline: "NAAC A++ Grade | Tier-1 Placements & AI Centres"
+  },
+  {
+    id: "col-kongu-2711",
+    name: "Kongu Engineering College (Autonomous)",
+    short_name: "KEC Perundurai",
+    city: "Erode",
+    tnea_code: "2711",
+    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
+    tagline: "NAAC A++ Grade | Kongu Region Technical Beacon"
+  },
+  {
+    id: "col-kct-2712",
+    name: "Kumaraguru College of Technology (Autonomous)",
+    short_name: "KCT Coimbatore",
+    city: "Coimbatore",
+    tnea_code: "2712",
+    imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    tagline: "World-Class Forge Innovation Labs & Campus Ecosystem"
+  }
+];
 
 export function HeroCollegeSlider() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -76,25 +154,28 @@ export function HeroCollegeSlider() {
         );
       })}
 
-      {/* Sleek Translucent Dark Gradient Overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-[#080b16]/80 via-[#0e1529]/55 to-[#080b16]/85 z-10" />
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(242,154,56,0.15),transparent_70%)] z-10" />
+      {/* Multi-layered cinematic glass gradient overlays for high text readability */}
+      <div className="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-slate-950/80 to-slate-900/60 z-10" />
+      <div className="absolute inset-0 bg-radial-[at_20%_20%] from-blue-900/30 via-transparent to-slate-950/90 z-10" />
+      <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-slate-950/60 z-10" />
 
-      {/* Active College Indicator Badge in Hero */}
-      <div className="absolute top-4 right-4 sm:top-6 sm:right-8 z-20 pointer-events-auto hidden md:flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-slate-900/75 border border-white/20 backdrop-blur-md shadow-xl text-[11px] font-medium text-slate-200 transition-all duration-500">
-        <div className="h-2 w-2 rounded-full bg-amber-400 animate-pulse" />
-        <span className="text-amber-300 font-bold">Featured Campus:</span>
-        <span className="text-white font-semibold truncate max-w-[240px]">
-          {activeCollege.short_name} ({activeCollege.city})
-        </span>
-        {activeCollege.tnea_code !== "MMC" && activeCollege.tnea_code !== "LOYOLA" && (
-          <span className="px-1.5 py-0.5 rounded bg-amber-400/20 text-amber-300 text-[10px] font-mono font-bold">
-            TNEA: {activeCollege.tnea_code}
-          </span>
-        )}
-      </div>
-
-
+      {/* Real-time Dynamic Active College Caption Badge in Bottom Right */}
+      {activeCollege && (
+        <div className="absolute bottom-6 right-6 z-20 hidden md:flex items-center gap-3 bg-slate-950/80 backdrop-blur-md px-4 py-2.5 rounded-2xl border border-white/15 shadow-2xl transition-all duration-500 animate-in fade-in slide-in-from-bottom-2">
+          <div className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
+          <div className="flex flex-col text-left">
+            <span className="text-[11px] font-black text-amber-400 tracking-wide flex items-center gap-1.5">
+              <Sparkles className="h-3 w-3 text-amber-400" />
+              <span>TNEA CODE: {activeCollege.tnea_code}</span>
+              <span className="text-white/40">•</span>
+              <span className="text-white/80">{activeCollege.city}</span>
+            </span>
+            <span className="text-xs font-bold text-white tracking-tight line-clamp-1 max-w-[280px]">
+              {activeCollege.name}
+            </span>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

@@ -1,11 +1,22 @@
 import { CollegeFilterParams, DetailedCollege, Category } from "@/types";
 import { verifiedColleges, verifiedCategories } from "@/lib/data/verifiedTamilNaduData";
-import { tn38DistrictsColleges } from "@/lib/data/tn38DistrictsColleges";
-import { findCollegeByTneaCode } from "@/lib/data/tneaMasterCodes";
 import { createClient } from "@/lib/supabase/client";
 import { fetchCollegeViaGeminiAI } from "../aiCollegeService";
+import allCollegesPrebuilt from "@/lib/data/allColleges.json";
 
-const allVerifiedInstitutions = [...verifiedColleges, ...tn38DistrictsColleges];
+// In-memory lookup map for 0ms instant SSG builds & offline fallback
+const prebuiltSlugMap = new Map<string, DetailedCollege>();
+const prebuiltCodeMap = new Map<string, DetailedCollege>();
+
+for (const c of (allCollegesPrebuilt as any[])) {
+  const formatted: DetailedCollege = {
+    ...c,
+    courses: c.courses || [],
+    facilities: c.facilities || [],
+  };
+  if (c.slug) prebuiltSlugMap.set(c.slug.toLowerCase(), formatted);
+  if (c.tnea_code) prebuiltCodeMap.set(String(c.tnea_code), formatted);
+}
 
 export async function getColleges(
   params?: CollegeFilterParams
@@ -13,37 +24,47 @@ export async function getColleges(
   const supabase = createClient();
 
   // Fetch all colleges from the database along with their courses
-  const { data: dbColleges, error } = await supabase
-    .from("colleges")
-    .select(`
-      *,
-      college_courses (
+  let dbColleges: any[] | null = null;
+  try {
+    const { data, error } = await supabase
+      .from("colleges")
+      .select(`
         *,
-        course:courses (*)
-      )
-    `);
-
-  if (error) {
-    console.error("Error fetching colleges from Supabase:", error);
-    return { colleges: [], total: 0 };
+        college_courses (
+          *,
+          course:courses (*)
+        )
+      `);
+    if (!error && data && data.length > 0) {
+      dbColleges = data;
+    }
+  } catch (err) {
+    console.warn("Supabase fetch failed, utilizing synced local verified cache:", err);
   }
 
   // Map to DetailedCollege format required by the frontend
-  let results: DetailedCollege[] = (dbColleges || []).map((c: any) => {
-    const formattedCourses = (c.college_courses || []).map((cc: any) => ({
-      ...cc,
-      course_name: cc.course?.name || "Unknown Course",
-      course_slug: cc.course?.slug || "unknown",
-      degree_level: cc.course?.degree_level || "UG",
-      duration_years: cc.course?.duration_years || 4,
-    }));
+  let results: DetailedCollege[] = [];
 
-    return {
-      ...c,
-      courses: formattedCourses,
-      facilities: [],
-    };
-  });
+  if (dbColleges && dbColleges.length > 0) {
+    results = dbColleges.map((c: any) => {
+      const formattedCourses = (c.college_courses || []).map((cc: any) => ({
+        ...cc,
+        course_name: cc.course?.name || "Unknown Course",
+        course_slug: cc.course?.slug || "unknown",
+        degree_level: cc.course?.degree_level || "UG",
+        duration_years: cc.course?.duration_years || 4,
+      }));
+
+      return {
+        ...c,
+        courses: formattedCourses,
+        facilities: [],
+      };
+    });
+  } else {
+    // Fallback to our verified 428 colleges
+    results = Array.from(prebuiltSlugMap.values());
+  }
 
   if (params?.searchQuery) {
     const rawQ = params.searchQuery.trim();
@@ -58,7 +79,7 @@ export async function getColleges(
         (c.counselling_code && (c.counselling_code.toLowerCase().includes(q) || (numQ !== null && Number(c.counselling_code) === numQ))) ||
         c.city.toLowerCase().includes(q) ||
         c.district.toLowerCase().includes(q) ||
-        c.courses.some((course) => course.course_name.toLowerCase().includes(q))
+        (c.courses && c.courses.some((course) => course.course_name.toLowerCase().includes(q)))
     );
   }
 
@@ -75,12 +96,9 @@ export async function getColleges(
   if (params?.streamSlug) {
     const stream = params.streamSlug.toLowerCase();
     results = results.filter((c) => {
-      // We know all seeded colleges from the database are Engineering colleges.
       if (stream === "engineering") {
         return true;
       }
-      // For any other stream like medical, arts-science, management, etc., return false
-      // since the current database only has TNEA Engineering colleges.
       return false;
     });
   }
@@ -102,7 +120,6 @@ export async function getColleges(
   }
 
   const total = results.length;
-  // Increase limit drastically to show all colleges as requested (scrolling)
   const limit = params?.limit || 1000;
   const page = params?.page || 1;
   const startIndex = (page - 1) * limit;
@@ -115,72 +132,74 @@ export async function getColleges(
 }
 
 export async function getCollegeBySlug(slug: string): Promise<DetailedCollege | null> {
+  const cleanSlug = slug.toLowerCase().trim();
+
+  // 1. Check local in-memory dataset first (0ms instant response during build & production)
+  if (prebuiltSlugMap.has(cleanSlug)) {
+    return prebuiltSlugMap.get(cleanSlug)!;
+  }
+  if (prebuiltCodeMap.has(cleanSlug)) {
+    return prebuiltCodeMap.get(cleanSlug)!;
+  }
+
+  // 2. Query Supabase for custom or newly inserted rows
   const supabase = createClient();
-
-  const { data, error } = await supabase
-    .from("colleges")
-    .select("*")
-    .eq("slug", slug)
-    .single();
-
-  let collegeData = data;
-
-  if (error || !collegeData) {
-    // Check if they passed a TNEA code as the slug
-    const { data: codeData, error: codeError } = await supabase
+  try {
+    const { data, error } = await supabase
       .from("colleges")
       .select("*")
-      .eq("tnea_code", slug)
+      .eq("slug", slug)
       .single();
-      
-    if (!codeError && codeData) {
-      collegeData = codeData;
+
+    let collegeData = data;
+
+    if (error || !collegeData) {
+      const { data: codeData, error: codeError } = await supabase
+        .from("colleges")
+        .select("*")
+        .eq("tnea_code", slug)
+        .single();
+        
+      if (!codeError && codeData) {
+        collegeData = codeData;
+      }
     }
+
+    if (collegeData) {
+      const { data: coursesData } = await supabase
+        .from("college_courses")
+        .select(`
+          *,
+          course:courses (*)
+        `)
+        .eq("college_id", (collegeData as any).id);
+
+      const formattedCourses = (coursesData || []).map((cc: any) => ({
+        ...cc,
+        course_name: cc.course?.name || "Unknown Course",
+        course_slug: cc.course?.slug || "unknown",
+        degree_level: cc.course?.degree_level || "UG",
+        duration_years: cc.course?.duration_years || 4,
+      }));
+
+      return {
+        ...(collegeData as any),
+        courses: formattedCourses,
+        facilities: [],
+      };
+    }
+  } catch (err) {
+    console.warn("Supabase query error:", err);
   }
 
-  if (collegeData) {
-    // Fetch courses from DB
-    const { data: coursesData } = await supabase
-      .from("college_courses")
-      .select(`
-        *,
-        course:courses (*)
-      `)
-      .eq("college_id", (collegeData as any).id);
-
-    const formattedCourses = (coursesData || []).map((cc: any) => ({
-      ...cc,
-      course_name: cc.course?.name || "Unknown Course",
-      course_slug: cc.course?.slug || "unknown",
-      degree_level: cc.course?.degree_level || "UG",
-      duration_years: cc.course?.duration_years || 4,
-    }));
-
-    return {
-      ...(collegeData as any),
-      courses: formattedCourses,
-      facilities: [],
-    };
-  }
-
-  // If not found in db, fallback to Gemini AI
+  // 3. Fallback to Gemini AI if college is not yet registered
   return await fetchCollegeViaGeminiAI(slug);
 }
 
 export async function getFeaturedColleges(): Promise<DetailedCollege[]> {
-  const supabase = createClient();
-  const { data, error } = await supabase
-    .from("colleges")
-    .select("*")
-    .eq("is_featured", true);
-    
-  if (error || !data) return [];
-  
-  return data.map((c: any) => ({
-    ...c,
-    courses: [],
-    facilities: [],
-  }));
+  return Array.from(prebuiltSlugMap.values())
+    .filter((c) => c.is_featured)
+    .slice(0, 10);
 }
 
 export async function getCategories(): Promise<Category[]> {

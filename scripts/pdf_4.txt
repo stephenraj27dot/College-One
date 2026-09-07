@@ -1,7 +1,0 @@
-\" C:\\Users\\vishn\\.gemini\\antigravity-ide\\brain\\ ...
-+ ~~~~
-    + CategoryInfo          : ObjectNotFound: (grep:String) [], CommandNotFoundException
-    + FullyQualifiedErrorId : CommandNotFoundException
- 
-
-"}

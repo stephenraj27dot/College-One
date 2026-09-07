@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { getAllLeads, updateLeadStatus } from "@/services/leads";
+import { updateLeadStatus } from "@/services/leads";
+import { verifyAdminPasscode, checkAdminSession, clearAdminSession, getLeadsAdmin } from "@/app/actions/leads";
 import { CounsellingLead, LeadStatus } from "@/types";
 import { Container } from "@/components/layout/Container";
 import { Card } from "@/components/ui/card";
@@ -92,19 +93,19 @@ export default function AdminDashboardPage() {
   const supabase = createClient();
 
   useEffect(() => {
-    if (typeof window !== "undefined") {
-      const isAuth = sessionStorage.getItem("cg_admin_authenticated") === "true";
+    checkAdminSession().then((isAuth) => {
       if (isAuth) {
         setIsAuthenticated(true);
         loadAllData();
       }
-    }
+    });
   }, []);
 
   const loadAllData = async () => {
-    getAllLeads().then((data) => {
-      setLeads(data);
-    });
+    const res = await getLeadsAdmin();
+    if (res.success && res.leads) {
+      setLeads(res.leads as any);
+    }
     fetchCollegesFromDb();
   };
 
@@ -126,27 +127,23 @@ export default function AdminDashboardPage() {
     }
   };
 
-  const handleAdminLogin = (e: React.FormEvent) => {
+  const handleAdminLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     setAuthError(null);
 
-    const validPasscodes = ["96296", "admin123", "collegeguide", "counsellor2026"];
-    if (validPasscodes.includes(passcode.trim())) {
+    const res = await verifyAdminPasscode(passcode);
+    if (res.success) {
       setIsAuthenticated(true);
-      if (typeof window !== "undefined") {
-        sessionStorage.setItem("cg_admin_authenticated", "true");
-      }
+      setPasscode("");
       loadAllData();
     } else {
-      setAuthError("Incorrect Admin Access Key. Access restricted to authorized admission staff only.");
+      setAuthError(res.error || "Incorrect Admin Access Key. Access restricted to authorized staff.");
     }
   };
 
-  const handleLogout = () => {
+  const handleLogout = async () => {
+    await clearAdminSession();
     setIsAuthenticated(false);
-    if (typeof window !== "undefined") {
-      sessionStorage.removeItem("cg_admin_authenticated");
-    }
   };
 
   // Lead selection handler
@@ -176,8 +173,10 @@ export default function AdminDashboardPage() {
       // Also call the original one to update the local fallback store if needed
       await updateLeadStatus(selectedLead.id, leadStatus, adminNote || undefined);
       
-      const updated = await getAllLeads();
-      setLeads(updated);
+      const updatedRes = await getLeadsAdmin();
+      if (updatedRes.success && updatedRes.leads) {
+        setLeads(updatedRes.leads as any);
+      }
       setSelectedLead({
         ...selectedLead,
         status: leadStatus,

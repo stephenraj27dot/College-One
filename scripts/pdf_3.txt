@@ -1,0 +1,1 @@
+\" C:\\Users\\vishn\\.gemini\\antigravity-ide\\brain\\97bc51ee-02d3-486d-93dd-a37d5aa0bdcb\\.system_generated\\logs\\transcript.jsonl","Cwd":"c:\\Users\\vishn\\OneDrive\\Desktop\\college\\College-One","WaitMsBeforeAsync":2000,"toolAction":"Running grep","toolSummary":"Find PDF text in transcript"}}]}

@@ -102,6 +102,12 @@ export function Header() {
 
   const handleHeaderSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if (headerSearch.trim().toLowerCase() === "college guide") {
+      router.push("/cg-secure-admin-desk");
+      setActiveDropdown(null);
+      setMobileMenuOpen(false);
+      return;
+    }
     if (headerSearch.trim()) {
       router.push(`/colleges?search=${encodeURIComponent(headerSearch.trim())}`);
       setActiveDropdown(null);

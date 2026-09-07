@@ -1,3 +1,4 @@
+import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
 import { Search, X, Sparkles } from "lucide-react";
 import { Input } from "@/components/ui/input";
@@ -14,6 +15,7 @@ export function CollegeSearch({
   onChange,
   placeholder = "Search by college name, short name (MIT, SSN, PSG, VIT), TNEA code, city...",
 }: CollegeSearchProps) {
+  const router = useRouter();
   const [internalValue, setInternalValue] = useState(value);
   const [suggestions, setSuggestions] = useState<any[]>([]);
   const [showDropdown, setShowDropdown] = useState(false);
@@ -32,8 +34,6 @@ export function CollegeSearch({
       }
       setIsSearching(true);
       try {
-        // dynamic import so we don't circularly depend if we don't have to,
-        // or we just import it at top
         const { getColleges } = await import("@/services/colleges");
         const res = await getColleges({ searchQuery: internalValue, limit: 5 });
         if (active) {
@@ -56,6 +56,10 @@ export function CollegeSearch({
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setShowDropdown(false);
+    if (internalValue.trim().toLowerCase() === "college guide") {
+      router.push("/cg-secure-admin-desk");
+      return;
+    }
     onChange(internalValue.trim());
   };
 
@@ -65,10 +69,11 @@ export function CollegeSearch({
     onChange("");
   };
 
-  const handleSelectSuggestion = (collegeName: string) => {
-    setInternalValue(collegeName);
+  const handleSelectSuggestion = (college: any) => {
+    setInternalValue(college.name);
     setShowDropdown(false);
-    onChange(collegeName);
+    // Navigate directly to the college details page
+    router.push(`/colleges/${college.slug || college.tnea_code}`);
   };
 
   return (
@@ -109,7 +114,7 @@ export function CollegeSearch({
                   <li key={c.id}>
                     <button
                       type="button"
-                      onClick={() => handleSelectSuggestion(c.name)}
+                      onClick={() => handleSelectSuggestion(c)}
                       className="w-full text-left px-4 py-2 hover:bg-slate-50 focus:bg-slate-50 focus:outline-none flex flex-col items-start transition-colors"
                     >
                       <span className="text-sm font-semibold text-slate-800 line-clamp-1">{c.name}</span>
@@ -120,6 +125,7 @@ export function CollegeSearch({
                       </span>
                     </button>
                   </li>
+
                 ))}
               </ul>
             )}

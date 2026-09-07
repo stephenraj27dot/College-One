@@ -3,6 +3,8 @@
 import { useState, useEffect } from "react";
 import { MapPin, Building, Sparkles } from "lucide-react";
 
+import allColleges from "@/lib/data/allColleges.json";
+
 export interface TopCollegeSlide {
   id: string;
   name: string;
@@ -13,98 +15,18 @@ export interface TopCollegeSlide {
   tagline: string;
 }
 
-export const top10TamilNaduColleges: TopCollegeSlide[] = [
-  {
-    id: "ceg",
-    name: "College of Engineering, Guindy (CEG)",
-    short_name: "CEG Anna University",
-    city: "Chennai",
-    tnea_code: "0001",
-    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1600&q=85",
-    tagline: "India's Oldest & Premier Technical Institution (Estd. 1794)",
-  },
-  {
-    id: "psg",
-    name: "PSG College of Technology",
-    short_name: "PSG Tech",
-    city: "Coimbatore",
-    tnea_code: "2006",
-    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Pioneering Technical Excellence & Top Placements in West TN",
-  },
-  {
-    id: "mit",
-    name: "Madras Institute of Technology (MIT)",
-    short_name: "MIT Chromepet",
-    city: "Chennai",
-    tnea_code: "0004",
-    imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Alma Mater of Dr. APJ Abdul Kalam • Aeronautical & Automobile Leader",
-  },
-  {
-    id: "ssn",
-    name: "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
-    short_name: "SSN Chennai",
-    city: "Kalavakkam, Chennai",
-    tnea_code: "1315",
-    imageUrl: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Premier Research & Innovation Hub with Highest NIRF Ranking",
-  },
-  {
-    id: "tce",
-    name: "Thiagarajar College of Engineering (TCE)",
-    short_name: "TCE Madurai",
-    city: "Madurai",
-    tnea_code: "5008",
-    imageUrl: "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&w=1600&q=85",
-    tagline: "South Tamil Nadu's Historic Government-Aided Institution",
-  },
-  {
-    id: "kct",
-    name: "Kumaraguru College of Technology (KCT)",
-    short_name: "KCT Coimbatore",
-    city: "Coimbatore",
-    tnea_code: "2712",
-    imageUrl: "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Dynamic Autonomous Campus with Global Collaborations & AI Labs",
-  },
-  {
-    id: "skcet",
-    name: "Sri Krishna College of Engineering and Technology (SKCET)",
-    short_name: "SKCET Coimbatore",
-    city: "Coimbatore",
-    tnea_code: "2718",
-    imageUrl: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Premier Autonomous Institution with Top Tier Tech Placements",
-  },
-  {
-    id: "bit",
-    name: "Bannari Amman Institute of Technology (BIT)",
-    short_name: "BIT Sathyamangalam",
-    city: "Erode",
-    tnea_code: "2702",
-    imageUrl: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Green Campus Innovation Leader in Erode District",
-  },
-  {
-    id: "mmc",
-    name: "Madras Medical College (MMC)",
-    short_name: "MMC Chennai",
-    city: "Chennai",
-    tnea_code: "MMC",
-    imageUrl: "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1600&q=85",
-    tagline: "India's Apex Medical Training & Healthcare Institution",
-  },
-  {
-    id: "loyola",
-    name: "Loyola College (Autonomous)",
-    short_name: "Loyola Chennai",
-    city: "Chennai",
-    tnea_code: "LOYOLA",
-    imageUrl: "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1600&q=85",
-    tagline: "Top NIRF Rank 3 Arts, Science & Commerce College in India",
-  },
-];
+export const top10TamilNaduColleges: TopCollegeSlide[] = allColleges
+  .filter((c: any) => c.is_featured)
+  .slice(0, 10)
+  .map((c: any) => ({
+    id: c.id,
+    name: c.name,
+    short_name: c.short_name || c.name,
+    city: c.city || "",
+    tnea_code: c.tnea_code || "N/A",
+    imageUrl: c.banner_url || "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
+    tagline: c.accreditation || "Top College"
+  }));
 
 export function HeroCollegeSlider() {
   const [currentIndex, setCurrentIndex] = useState(0);

@@ -209,6 +209,7 @@ async function seedMassive550() {
 
   const masterList: any[] = [];
   const seenSlugs = new Set<string>();
+  const seenCodes = new Set<string>();
 
   const addRecord = (c: any) => {
     let slug = c.slug ? c.slug.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "") : "";
@@ -218,42 +219,47 @@ async function seedMassive550() {
     if (c.tnea_code) {
       slug = `${slug}-${c.tnea_code}`;
     }
-    if (!seenSlugs.has(slug)) {
-      seenSlugs.add(slug);
-      masterList.push({
-        slug,
-        name: c.name,
-        short_name: c.short_name || c.name,
-        official_name: c.official_name || c.name,
-        tnea_code: c.tnea_code || null,
-        counselling_code: c.counselling_code || c.tnea_code || null,
-        district: c.district,
-        city: c.city,
-        address: c.address || `${c.city}, ${c.district} District, Tamil Nadu`,
-        pincode: c.pincode || "600001",
-        established_year: c.established_year || 2005,
-        institution_type: c.institution_type || "Affiliated",
-        affiliation: c.affiliation || "Anna University",
-        accreditation: c.accreditation || "AICTE Approved | Anna University Affiliated",
-        nirf_ranking: c.nirf_ranking || null,
-        nirf_year: c.nirf_year || null,
-        description: c.description || `${c.name} is a premier educational institution in ${c.city}, ${c.district} District, Tamil Nadu.`,
-        logo_url: "/logo.jpg",
-        banner_url: c.banner_url || "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
-        website_url: c.website_url || "https://collegeguide.in",
-        contact_phone: "+91 96296 53312",
-        contact_email: "support@collegeguide.in",
-        hostel_available: true,
-        transport_available: true,
-        sports_facilities: true,
-        wifi_campus: true,
-        is_featured: c.is_featured || false,
-        is_verified: true,
-        verification_status: "VERIFIED",
-        source_name: "Official TNEA & Directorate of Higher Education Records",
-        academic_year: "2024-2025",
-      });
-    }
+    
+    // De-duplicate by slug and tnea_code
+    if (seenSlugs.has(slug)) return;
+    if (c.tnea_code && seenCodes.has(c.tnea_code)) return;
+
+    seenSlugs.add(slug);
+    if (c.tnea_code) seenCodes.add(c.tnea_code);
+
+    masterList.push({
+      slug,
+      name: c.name,
+      short_name: c.short_name || c.name,
+      official_name: c.official_name || c.name,
+      tnea_code: c.tnea_code || null,
+      counselling_code: c.counselling_code || c.tnea_code || null,
+      district: c.district,
+      city: c.city,
+      address: c.address || `${c.city}, ${c.district} District, Tamil Nadu`,
+      pincode: c.pincode || "600001",
+      established_year: c.established_year || 2005,
+      institution_type: c.institution_type || "Affiliated",
+      affiliation: c.affiliation || "Anna University",
+      accreditation: c.accreditation || "AICTE Approved | Anna University Affiliated",
+      nirf_ranking: c.nirf_ranking || null,
+      nirf_year: c.nirf_year || null,
+      description: c.description || `${c.name} is a premier educational institution in ${c.city}, ${c.district} District, Tamil Nadu.`,
+      logo_url: "/logo.jpg",
+      banner_url: c.banner_url || "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+      website_url: c.website_url || "https://collegeguide.in",
+      contact_phone: "+91 96296 53312",
+      contact_email: "support@collegeguide.in",
+      hostel_available: true,
+      transport_available: true,
+      sports_facilities: true,
+      wifi_campus: true,
+      is_featured: c.is_featured || false,
+      is_verified: true,
+      verification_status: "VERIFIED",
+      source_name: "Official TNEA & Directorate of Higher Education Records",
+      academic_year: "2024-2025",
+    });
   };
 
   // 1. Existing verified datasets

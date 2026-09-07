@@ -1,0 +1,3 @@
+\")
+            for part in parts[1:]:
+                end_split = part.split(\"

@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { siteConfig } from "@/config/site";
-import { verifiedColleges } from "@/lib/data/verifiedTamilNaduData";
+import { tn38DistrictsColleges as verifiedColleges } from "@/lib/data/tn38DistrictsColleges";
 import { Container } from "@/components/layout/Container";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -188,10 +188,10 @@ export default function HomePage() {
       <div className="relative z-20 -mt-12 sm:-mt-14 mx-auto max-w-[1400px] px-4 sm:px-6 lg:px-8 mb-16">
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 md:gap-6">
           {[
-            { value: 550, suffix: "+", subtitle: "Engineering Colleges", desc: "Anna University affiliated, government & autonomous colleges in TN.", icon: <Building2 className="h-6 w-6 text-white"/>, color: "bg-[#2563eb]" },
+            { value: 428, suffix: "", subtitle: "TNEA Engineering Colleges", desc: "Official Anna University constituent, government & autonomous colleges.", icon: <Building2 className="h-6 w-6 text-white"/>, color: "bg-[#2563eb]" },
             { value: 38, suffix: "", subtitle: "Districts Covered", desc: "Complete educational coverage across all 38 districts of Tamil Nadu.", icon: <MapPin className="h-6 w-6 text-white"/>, color: "bg-[#7c3aed]" },
-            { value: 100, suffix: "+", subtitle: "Degree Programmes", desc: "B.E, B.Tech, MBBS, Arts, Science, Law, and Management courses.", icon: <BookOpen className="h-6 w-6 text-white"/>, color: "bg-[#059669]" },
-            { value: 100, suffix: "%", subtitle: "Verified Cutoffs", desc: "Official historical TNEA & DOTE counselling cutoff scores.", icon: <Award className="h-6 w-6 text-white"/>, color: "bg-[#d97706]" },
+            { value: 122, suffix: "", subtitle: "Degree Programmes", desc: "Official B.E., B.Tech, and specialised Engineering programmes.", icon: <BookOpen className="h-6 w-6 text-white"/>, color: "bg-[#059669]" },
+            { value: 100, suffix: "%", subtitle: "Verified TNEA Data", desc: "Lossless ingestion from Official General Academic Seat Matrix 2025.", icon: <Award className="h-6 w-6 text-white"/>, color: "bg-[#d97706]" },
             {
               isText: true,
               title: "Free",
@@ -242,7 +242,7 @@ export default function HomePage() {
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-5">
             {siteConfig.popularStreams.map((stream, idx) => {
               const streamMeta: Record<string, { count: string; tag: string; border: string; bg: string; iconBg: string; hoverGlow: string }> = {
-                engineering: { count: "550+ Colleges", tag: "Anna Univ / TNEA", border: "border-blue-200 hover:border-blue-500", bg: "bg-blue-50/40 hover:bg-white", iconBg: "bg-blue-100 text-blue-700", hoverGlow: "hover:shadow-blue-500/20" },
+                engineering: { count: "428 Colleges", tag: "Anna Univ / TNEA", border: "border-blue-200 hover:border-blue-500", bg: "bg-blue-50/40 hover:bg-white", iconBg: "bg-blue-100 text-blue-700", hoverGlow: "hover:shadow-blue-500/20" },
                 medical: { count: "70+ Colleges", tag: "MGR Univ / NEET", border: "border-rose-200 hover:border-rose-500", bg: "bg-rose-50/40 hover:bg-white", iconBg: "bg-rose-100 text-rose-700", hoverGlow: "hover:shadow-rose-500/20" },
                 "arts-science": { count: "600+ Colleges", tag: "Autonomous / State", border: "border-indigo-200 hover:border-indigo-500", bg: "bg-indigo-50/40 hover:bg-white", iconBg: "bg-indigo-100 text-indigo-700", hoverGlow: "hover:shadow-indigo-500/20" },
                 management: { count: "250+ Colleges", tag: "MBA / TANCET", border: "border-amber-200 hover:border-amber-500", bg: "bg-amber-50/40 hover:bg-white", iconBg: "bg-amber-100 text-amber-800", hoverGlow: "hover:shadow-amber-500/20" },

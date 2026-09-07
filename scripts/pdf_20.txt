@@ -1,0 +1,4 @@
+')
+                if len(parts) >= 3:
+                    # PDF 1 is parts[1], PDF 2 is parts[2]
+                    pdf1_text = parts[1].split('

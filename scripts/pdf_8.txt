@@ -1,0 +1,8 @@
+\\\\\\\" C:\\\\\\\\Users\\\\\\\\vishn\\\\\\\\.gemini\\\\\\\\antigravity-ide\\\\\\\\brain\\\\\\\\97bc51ee-02d3-486d-93d
+d-a37d5aa0bdcb\\\\\\\\.system_generated\\\\\\\\logs\\\\\\\\transcript.jsonl -Context 0,1\\\"\",\"Cwd\":\"\\\"c:\\\\\\\\Users\\\\\\\\vishn\\\\\\\\OneDri
+ve\\\\\\\\Desktop\\\\\\\\college\\\\\\\\College-One\\\"\",\"WaitMsBeforeAsync\":\"2000\",\"toolAction\":\"\\\"Running 
+Select-String\\\"\",\"toolSummary\":\"\\\"Search transcript for Start of PDF\\\"\"}}]}
+
+
+
+"}

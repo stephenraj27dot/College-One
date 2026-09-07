@@ -12,10 +12,16 @@ export async function getColleges(
 ): Promise<{ colleges: DetailedCollege[]; total: number }> {
   const supabase = createClient();
 
-  // Fetch all colleges from the database
+  // Fetch all colleges from the database along with their courses
   const { data: dbColleges, error } = await supabase
     .from("colleges")
-    .select("*");
+    .select(`
+      *,
+      college_courses (
+        *,
+        course:courses (*)
+      )
+    `);
 
   if (error) {
     console.error("Error fetching colleges from Supabase:", error);
@@ -23,11 +29,21 @@ export async function getColleges(
   }
 
   // Map to DetailedCollege format required by the frontend
-  let results: DetailedCollege[] = (dbColleges || []).map((c: any) => ({
-    ...c,
-    courses: [],
-    facilities: [],
-  }));
+  let results: DetailedCollege[] = (dbColleges || []).map((c: any) => {
+    const formattedCourses = (c.college_courses || []).map((cc: any) => ({
+      ...cc,
+      course_name: cc.course?.name || "Unknown Course",
+      course_slug: cc.course?.slug || "unknown",
+      degree_level: cc.course?.degree_level || "UG",
+      duration_years: cc.course?.duration_years || 4,
+    }));
+
+    return {
+      ...c,
+      courses: formattedCourses,
+      facilities: [],
+    };
+  });
 
   if (params?.searchQuery) {
     const rawQ = params.searchQuery.trim();
@@ -41,7 +57,8 @@ export async function getColleges(
         (c.tnea_code && (c.tnea_code.toLowerCase().includes(q) || (numQ !== null && Number(c.tnea_code) === numQ))) ||
         (c.counselling_code && (c.counselling_code.toLowerCase().includes(q) || (numQ !== null && Number(c.counselling_code) === numQ))) ||
         c.city.toLowerCase().includes(q) ||
-        c.district.toLowerCase().includes(q)
+        c.district.toLowerCase().includes(q) ||
+        c.courses.some((course) => course.course_name.toLowerCase().includes(q))
     );
   }
 
@@ -106,25 +123,42 @@ export async function getCollegeBySlug(slug: string): Promise<DetailedCollege | 
     .eq("slug", slug)
     .single();
 
-  if (!error && data) {
-    return {
-      ...(data as any),
-      courses: [],
-      facilities: [],
-    };
+  let collegeData = data;
+
+  if (error || !collegeData) {
+    // Check if they passed a TNEA code as the slug
+    const { data: codeData, error: codeError } = await supabase
+      .from("colleges")
+      .select("*")
+      .eq("tnea_code", slug)
+      .single();
+      
+    if (!codeError && codeData) {
+      collegeData = codeData;
+    }
   }
 
-  // Check if they passed a TNEA code as the slug
-  const { data: codeData, error: codeError } = await supabase
-    .from("colleges")
-    .select("*")
-    .eq("tnea_code", slug)
-    .single();
+  if (collegeData) {
+    // Fetch courses from DB
+    const { data: coursesData } = await supabase
+      .from("college_courses")
+      .select(`
+        *,
+        course:courses (*)
+      `)
+      .eq("college_id", (collegeData as any).id);
 
-  if (!codeError && codeData) {
+    const formattedCourses = (coursesData || []).map((cc: any) => ({
+      ...cc,
+      course_name: cc.course?.name || "Unknown Course",
+      course_slug: cc.course?.slug || "unknown",
+      degree_level: cc.course?.degree_level || "UG",
+      duration_years: cc.course?.duration_years || 4,
+    }));
+
     return {
-      ...(codeData as any),
-      courses: [],
+      ...(collegeData as any),
+      courses: formattedCourses,
       facilities: [],
     };
   }

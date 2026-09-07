@@ -164,7 +164,18 @@ export default function AdminDashboardPage() {
     setUpdateSuccess(false);
 
     try {
+      // Import the server action dynamically to avoid top-level issues, or use it directly
+      const { updateLeadStatusAdmin } = await import("@/app/actions/leads");
+      const result = await updateLeadStatusAdmin(selectedLead.id, leadStatus, adminNote || undefined);
+      
+      if (!result.success) {
+        console.error("Failed to update via server action:", result.error);
+        throw new Error(result.error);
+      }
+
+      // Also call the original one to update the local fallback store if needed
       await updateLeadStatus(selectedLead.id, leadStatus, adminNote || undefined);
+      
       const updated = await getAllLeads();
       setLeads(updated);
       setSelectedLead({
@@ -176,6 +187,7 @@ export default function AdminDashboardPage() {
       setTimeout(() => setUpdateSuccess(false), 3000);
     } catch (e) {
       console.error(e);
+      alert("Failed to update lead status. " + (e as any).message);
     } finally {
       setUpdating(false);
     }

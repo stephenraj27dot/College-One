@@ -5,7 +5,7 @@ import { tn38DistrictsColleges } from "../src/lib/data/tn38DistrictsColleges";
 import { tneaMasterDirectory } from "../src/lib/data/tneaMasterCodes";
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "https://hyxkrxznmfjsoklspasg.supabase.co";
-const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "sb_publishable_E2HEX7vgP_W2Zqgkm32pgA_AbGjGL5S";
+const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || "sb_publishable_E2HEX7vgP_W2Zqgkm32pgA_AbGjGL5S";
 
 const supabase = createClient(supabaseUrl, supabaseKey);
 
@@ -246,12 +246,14 @@ async function seedMassiveColleges() {
     }
   }
 
-  // Filter out any duplicate slugs to guarantee clean upsert
+  // Filter out any duplicate slugs AND duplicate TNEA codes to guarantee clean upsert
   const uniqueMasterList: any[] = [];
   const seenSlugs = new Set();
+  const seenCodes = new Set();
   for (const item of masterList) {
-    if (!seenSlugs.has(item.slug)) {
+    if (!seenSlugs.has(item.slug) && (item.tnea_code === undefined || !seenCodes.has(item.tnea_code))) {
       seenSlugs.add(item.slug);
+      if (item.tnea_code) seenCodes.add(item.tnea_code);
       uniqueMasterList.push(item);
     }
   }

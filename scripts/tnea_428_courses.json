@@ -1,0 +1,5645 @@
+{
+  "1": {
+    "header_name": "University Departments of Anna University Chennai - CEG Campus",
+    "courses": [
+      "BIO MEDICAL ENGINEERING (SS)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology) (SS)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+      "GEO INFORMATICS",
+      "INDUSTRIAL ENGINEERING",
+      "INFORMATION TECHNOLOGY (SS)",
+      "MATERIAL SCIENCE AND ENGINEERING (SS)",
+      "MECHANICAL ENGINEERING",
+      "MINING ENGINEERING",
+      "MANUFACTURING ENGINEERING",
+      "PRINTING & PACKING TECHNOLOGY",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "2": {
+    "header_name": "University Departments of Anna University Chennai - ACT Campus",
+    "courses": [
+      "APPAREL TECHNOLOGY (SS)",
+      "CHEMICAL ENGINEERING",
+      "CHEMICAL ENGINEERING (SS)",
+      "CERAMIC TECHNOLOGY (SS)",
+      "FOOD TECHNOLOGY (SS)",
+      "INDUSTRIAL BIO TECHNOLOGY",
+      "INDUSTRIAL BIO TECHNOLOGY (SS)",
+      "LEATHER TECHNOLOGY",
+      "PHARMACEUTICAL TECHNOLOGY (SS)",
+      "PETROLEUM ENGINEERING AND TECHNOLOGY (SS)",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "3": {
+    "header_name": "School of Architecture and Planning Anna University Chennai 600025",
+    "courses": [
+      "B.Plan"
+    ]
+  },
+  "4": {
+    "header_name": "University Departments of Anna University Chennai - MIT Campus",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
+      "AUTOMOBILE ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+      "INFORMATION TECHNOLOGY (SS)",
+      "PRODUCTION ENGINEERING",
+      "ROBOTICS AND AUTOMATION (SS)",
+      "RUBBER AND PLASTIC TECHNOLOGY"
+    ]
+  },
+  "5": {
+    "header_name": "Annamalai University Faculty of Engineering and Technology Annamalai nagar",
+    "courses": [
+      "Chidambaram COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "CIVIL AND STRUCTUTURAL ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "MECHANICAL ENGINEERING (MANUFACTURING)"
+    ]
+  },
+  "1013": {
+    "header_name": "University College of Engineering Villupuram Kakuppam",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "1014": {
+    "header_name": "University College of Engineering Tindivanam Melpakkam Tindivanam",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "Electrical and Computer Engineering",
+      "INFORMATION TECHNOLOGY",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "1015": {
+    "header_name": "University College of Engineering Arni Arni to Devikapuram",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "1026": {
+    "header_name": "University College of Engineering Kancheepuram Ponnerikarai Campus NH4",
+    "courses": [
+      "Chennai-Bangalore COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1101": {
+    "header_name": "Aalim Muhammed Salegh College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1102": {
+    "header_name": "Bhajarang Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1106": {
+    "header_name": "Jaya Engineering College",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "1107": {
+    "header_name": "Jaya Institute of Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1110": {
+    "header_name": "Prathyusha Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1112": {
+    "header_name": "R.M.D. Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Machine Learning",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "1113": {
+    "header_name": "R.M.K. Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Electronics and Communication (Advanced Communication Technology)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1114": {
+    "header_name": "S.A. Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1115": {
+    "header_name": "SriRam Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1116": {
+    "header_name": "Sri Venkateswara College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1118": {
+    "header_name": "Vel Tech Multi Tech Dr Rangarajan Dr Sakunthala Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1120": {
+    "header_name": "Velammal Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1121": {
+    "header_name": "Sri Venkateswara Institute of Science and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1122": {
+    "header_name": "Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1123": {
+    "header_name": "Gojan School of Business and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL AND AUTOMATION ENGINEERING",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1124": {
+    "header_name": "SAMS College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "MARINE ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1126": {
+    "header_name": "JNN Institute of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1127": {
+    "header_name": "St. Peter's College of Engineering and Technology(Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1128": {
+    "header_name": "R.M.K. College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1133": {
+    "header_name": "Annai Veilankannis College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1137": {
+    "header_name": "Annai Mira College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1140": {
+    "header_name": "Jeppiaar Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1149": {
+    "header_name": "St. Joseph's Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1150": {
+    "header_name": "Sri Jayaram Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1202": {
+    "header_name": "DMI College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1203": {
+    "header_name": "MADRAS ENGINEERING COLLEGE",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1207": {
+    "header_name": "Kings Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "1209": {
+    "header_name": "Pallavan College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1210": {
+    "header_name": "Panimalar Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1211": {
+    "header_name": "Rajalakshmi Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "Artificial Intelligence and Machine Learning",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1212": {
+    "header_name": "Rajiv Gandhi College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "PETROLEUM ENGINEERING"
+    ]
+  },
+  "1216": {
+    "header_name": "Saveetha Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1217": {
+    "header_name": "Sree Sastha Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL AND AUTOMATION ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1218": {
+    "header_name": "Sri Muthukumaran Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "1219": {
+    "header_name": "Sri Venkateswara College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Mechanical Engineering (Automobile)",
+      "MECHANICAL ENGINEERING",
+      "MARINE ENGINEERING",
+      "MECHANICAL AND AUTOMATION ENGINEERING"
+    ]
+  },
+  "1221": {
+    "header_name": "Jaya College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1222": {
+    "header_name": "P.B. College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1225": {
+    "header_name": "Loyola Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1226": {
+    "header_name": "P.T.Lee Chengalvaraya Naicker College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1228": {
+    "header_name": "Alpha College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1229": {
+    "header_name": "Indira Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1230": {
+    "header_name": "Apollo Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1232": {
+    "header_name": "ARM College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1233": {
+    "header_name": "Adhi College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1235": {
+    "header_name": "Jei Mathaajee College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1237": {
+    "header_name": "Velammal Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "1238": {
+    "header_name": "GRT Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1241": {
+    "header_name": "T.J.S. Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1243": {
+    "header_name": "ST. LOURDES ENGINEERING COLLEGE (Formerly Madha Institute of Engineering and",
+    "courses": [
+      "Technology) Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1301": {
+    "header_name": "Mohamed Sathak A J College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Electronics and Communication (Advanced Communication Technology)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1303": {
+    "header_name": "Anand Institute of Higher Technology(Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1304": {
+    "header_name": "Easwari Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1306": {
+    "header_name": "Jeppiaar Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AEROSPACE ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1307": {
+    "header_name": "Jerusalem College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1309": {
+    "header_name": "Meenakshi Sundararajan Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1310": {
+    "header_name": "Misrimal Navajee Munoth Jain Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1311": {
+    "header_name": "KCG college of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AEROSPACE ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1315": {
+    "header_name": "Sri Sivasubramaniya Nadar College of Engineering (Autonomous)",
+    "courses": [
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1316": {
+    "header_name": "Agni College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "1317": {
+    "header_name": "St. Joseph's College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CHEMICAL ENGINEERING",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1318": {
+    "header_name": "T.J. Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1319": {
+    "header_name": "Thangavelu Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1321": {
+    "header_name": "Central Institute of Petrochemicals Engineering and Technology (Formerly Central",
+    "courses": [
+      "Institute of Plastics Engineering and Technology) (CIPET) Guindy Chennai 600032 MANUFACTURING ENGINEERING",
+      "PLASTIC TECHNOLOGY"
+    ]
+  },
+  "1322": {
+    "header_name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electrical and Computer Engineering",
+      "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1325": {
+    "header_name": "St. Joseph College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1333": {
+    "header_name": "Shikshaa Institute of Advanced Technologies (formerly Vi Institute of Technology)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "1335": {
+    "header_name": "Sri Krishna Institute of Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1339": {
+    "header_name": "MAHALAKSHMI TECH CAMPUS",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1399": {
+    "header_name": "Chennai Institute of Technology (Autonomous) Puduper",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Electronics and Communication (Advanced Communication Technology)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1400": {
+    "header_name": "MOHAMED SATHAK A.J. ACADEMY OF ARCHITECTURE",
+    "courses": [
+      "Bachelor of Design"
+    ]
+  },
+  "1401": {
+    "header_name": "Adhiparasakthi Engineering College",
+    "courses": [
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1402": {
+    "header_name": "Annai Teresa College of Engineering",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1405": {
+    "header_name": "Dhanalakshmi College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1407": {
+    "header_name": "G K M College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "MARINE ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1408": {
+    "header_name": "IFET College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1409": {
+    "header_name": "Karpaga Vinayaga College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "1411": {
+    "header_name": "Madha Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1412": {
+    "header_name": "Mailam Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1413": {
+    "header_name": "Sri Venkateswaraa College of Technology(Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Electronics and Communication (Advanced Communication Technology)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1414": {
+    "header_name": "Prince Shri Venkateshwaraa Padmavathy Engineering College (Autonomous)",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1415": {
+    "header_name": "T.S.M.Jain College of Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1416": {
+    "header_name": "Jaya Sakthi Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1419": {
+    "header_name": "Sri Sai Ram Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1420": {
+    "header_name": "Tagore Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1421": {
+    "header_name": "V.R.S. College of Engineering and Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1422": {
+    "header_name": "SRM Valliammai Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Cyber Security",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1423": {
+    "header_name": "Asan Memorial College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1424": {
+    "header_name": "Dhaanish Ahmed College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "PETROLEUM ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "1426": {
+    "header_name": "Sri Ramanujar Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1427": {
+    "header_name": "Sri Krishna Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "1428": {
+    "header_name": "E.S.College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "1430": {
+    "header_name": "Maha Barathi Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1431": {
+    "header_name": "New Prince Shri Bhavani College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1432": {
+    "header_name": "Rajalakshmi Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1434": {
+    "header_name": "Surya Group of Institutions",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1436": {
+    "header_name": "A.R.Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1437": {
+    "header_name": "Rrase College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1438": {
+    "header_name": "Sree Krishna College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1441": {
+    "header_name": "A.K.T.Memorial College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1442": {
+    "header_name": "Prince Dr. K. Vasudevan College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1444": {
+    "header_name": "R.M.Engineering College (formerly Chendu College of Engineering and Technology)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1445": {
+    "header_name": "Sri Rangapoopathi College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1449": {
+    "header_name": "Saraswathy College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1450": {
+    "header_name": "Loyola-ICAM College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1452": {
+    "header_name": "PERI Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1501": {
+    "header_name": "Adhiparasakthi College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1503": {
+    "header_name": "Arulmigu Meenakshi Amman College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1504": {
+    "header_name": "Arunai Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1505": {
+    "header_name": "C.Abdul Hakeem College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1507": {
+    "header_name": "Ganadipathy Tulsi's Jain Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1509": {
+    "header_name": "Meenakshi College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1510": {
+    "header_name": "Priyadarshini Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1511": {
+    "header_name": "RANIPPETTAI ENGINEERING COLLEGE",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1512": {
+    "header_name": "S.K.P. Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "1513": {
+    "header_name": "Sri Balaji Chockalingam Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "1516": {
+    "header_name": "Thanthai Periyar Government Institute of Technology Bagayam",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "1517": {
+    "header_name": "Thirumalai Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1518": {
+    "header_name": "Thiruvalluvar College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1519": {
+    "header_name": "Bharathidasan Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1520": {
+    "header_name": "Kingston Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1523": {
+    "header_name": "Global Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1524": {
+    "header_name": "Annamalaiar College Of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1525": {
+    "header_name": "Podhigai College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1526": {
+    "header_name": "Sri Krishna College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1529": {
+    "header_name": "Oxford College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "1605": {
+    "header_name": "Idhaya Engineering College for Women",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "2005": {
+    "header_name": "Government College of Technology (Autonomous) Thadagam",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INDUSTRIAL BIO TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PRODUCTION ENGINEERING"
+    ]
+  },
+  "2006": {
+    "header_name": "PSG College of Technology (Autonomous) Peelamedu",
+    "courses": [
+      "AUTOMOBILE ENGINEERING (SS)",
+      "BIO TECHNOLOGY (SS)",
+      "BIO MEDICAL ENGINEERING (SS)",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING (SS)",
+      "CIVIL ENGINEERING (SS)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
+      "FASHION TECHNOLOGY (SS)",
+      "INFORMATION TECHNOLOGY (SS)",
+      "INSTRUMENTATION AND CONTROL ENGINEERING (SS)",
+      "MECHANICAL ENGINEERING",
+      "MECHANICAL ENGINEERING (SS)",
+      "MECHANICAL ENGINEERING (SANDWICH) (SS)",
+      "METALLURGICAL ENGINEERING",
+      "METALLURGICAL ENGINEERING (SS)",
+      "PRODUCTION ENGINEERING (SS)",
+      "PRODUCTION ENGINEERING",
+      "ROBOTICS AND AUTOMATION (SS)",
+      "TEXTILE TECHNOLOGY (SS)",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2007": {
+    "header_name": "Coimbatore Institute of Technology (Autonomous) Civil Aerodrome",
+    "courses": [
+      "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "CHEMICAL ENGINEERING (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING (SS)",
+      "CIVIL ENGINEERING (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
+      "INFORMATION TECHNOLOGY (SS)",
+      "MECHANICAL ENGINEERING",
+      "MECHANICAL ENGINEERING (SS)"
+    ]
+  },
+  "2025": {
+    "header_name": "Anna University Regional Campus - Coimbatore",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2302": {
+    "header_name": "Sri Shanmugha College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2327": {
+    "header_name": "N.S.N. College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2329": {
+    "header_name": "Rathinam Technical Campus (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)",
+      "COMPUTER SCIENCE AND ENGINEERING (TAMIL)"
+    ]
+  },
+  "2332": {
+    "header_name": "Aishwarya College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2338": {
+    "header_name": "Asian College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2341": {
+    "header_name": "Ganesh College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2342": {
+    "header_name": "Sri Ranganathar Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2343": {
+    "header_name": "Indian Institute of Handloom Technology Foulke's",
+    "courses": [
+      "HANDLOOM AND TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2345": {
+    "header_name": "Dhirajlal Gandhi College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "2346": {
+    "header_name": "Shree Sathyam College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2347": {
+    "header_name": "A V S College of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2349": {
+    "header_name": "Dhaanish Ahmed Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2350": {
+    "header_name": "Jairupaa College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2354": {
+    "header_name": "Pollachi Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2356": {
+    "header_name": "Arulmurugan College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2357": {
+    "header_name": "V.S.B. College of Engineering Technical Campus (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2360": {
+    "header_name": "Suguna College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2361": {
+    "header_name": "SASI CREATIVE SCHOOL OF ARCHITECTURE",
+    "courses": [
+      "Interior Design"
+    ]
+  },
+  "2367": {
+    "header_name": "Arjun College of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2368": {
+    "header_name": "Vishnu Lakshmi College of Engineering and Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2369": {
+    "header_name": "Government College of Engineering Chettikkarai",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2377": {
+    "header_name": "PSG Institute of Technology and Applied Research(Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INSTRUMENTATION AND CONTROL ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2378": {
+    "header_name": "Cheran College of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2601": {
+    "header_name": "Adhiyamaan College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2602": {
+    "header_name": "Annai Mathammal Sheela Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "2603": {
+    "header_name": "Government College of Engineering (Autonomous) Bargur",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2607": {
+    "header_name": "K S Rangasamy College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2608": {
+    "header_name": "M.Kumarasamy College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2609": {
+    "header_name": "Mahendra Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Cyber Security",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2610": {
+    "header_name": "Muthayammal Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2611": {
+    "header_name": "Paavai Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Cyber Security",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "2612": {
+    "header_name": "PGP College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2613": {
+    "header_name": "K S R College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)",
+      "Safety and Fire Engineering"
+    ]
+  },
+  "2614": {
+    "header_name": "SSM College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "PETROLEUM ENGINEERING",
+      "TEXTILE CHEMISTRY",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2615": {
+    "header_name": "Government College of Engineering (Autonomous) Karuppur",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "METALLURGICAL ENGINEERING"
+    ]
+  },
+  "2616": {
+    "header_name": "Sapthagiri College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2617": {
+    "header_name": "Sengunthar Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2618": {
+    "header_name": "Sona College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electrical and Computer Engineering",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "Electronics and Computer Engineering",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)",
+      "Safety and Fire Engineering"
+    ]
+  },
+  "2620": {
+    "header_name": "Vivekanandha College of Engineering for Women (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "2621": {
+    "header_name": "Er. Perumal Manimekalai College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2622": {
+    "header_name": "V S B Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2623": {
+    "header_name": "Mahendra College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2624": {
+    "header_name": "Gnanamani College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PHARMACEUTICAL TECHNOLOGY"
+    ]
+  },
+  "2625": {
+    "header_name": "The Kavery Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2627": {
+    "header_name": "Selvam College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2628": {
+    "header_name": "Paavai College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2630": {
+    "header_name": "Chettinad College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2632": {
+    "header_name": "Mahendra Institute of Technology (Autonomous)",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2633": {
+    "header_name": "Vidyaa Vikas College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2634": {
+    "header_name": "Excel Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "Safety and Fire Engineering"
+    ]
+  },
+  "2635": {
+    "header_name": "CMS College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2636": {
+    "header_name": "AVS Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2638": {
+    "header_name": "Mahendra Engineering College for Women",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "2639": {
+    "header_name": "R P Sarathy Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2640": {
+    "header_name": "Jayalakshmi Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2641": {
+    "header_name": "Varuvan Vadivelan Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2642": {
+    "header_name": "P.S.V.College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2643": {
+    "header_name": "Bharathiyar Institute of Engineering for Women",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2646": {
+    "header_name": "Tagore Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2647": {
+    "header_name": "J.K.K.Nataraja College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2648": {
+    "header_name": "Annapoorana Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2650": {
+    "header_name": "Christ The King Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2651": {
+    "header_name": "Jai Shriram Engineering College(Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2652": {
+    "header_name": "AL-Ameen Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2653": {
+    "header_name": "Knowledge Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics and Computer Engineering",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2656": {
+    "header_name": "Kangeyam Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2658": {
+    "header_name": "V S A Group of Institutions",
+    "courses": [
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2659": {
+    "header_name": "Salem College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2673": {
+    "header_name": "Sree Sakthi Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2683": {
+    "header_name": "Shreenivasa Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2702": {
+    "header_name": "Bannari Amman Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "Artificial Intelligence and Machine Learning",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2704": {
+    "header_name": "Coimbatore Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2705": {
+    "header_name": "CSI College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2706": {
+    "header_name": "Dr Mahalingam College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2707": {
+    "header_name": "Erode Sengunthar Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "2708": {
+    "header_name": "Hindusthan College of Engineering and Technology(Autonomous)",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "Artificial Intelligence and Machine Learning",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2709": {
+    "header_name": "Government College of Engineering (Formerly Institute of",
+    "courses": [
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2710": {
+    "header_name": "Karpagam College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2711": {
+    "header_name": "Kongu Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "AUTOMOBILE ENGINEERING",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2712": {
+    "header_name": "Kumaraguru College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2713": {
+    "header_name": "M.P.Nachimuthu M.Jaganathan Engineering College",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2715": {
+    "header_name": "Nandha Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2716": {
+    "header_name": "Park College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "GEO INFORMATICS",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "2717": {
+    "header_name": "Sasurie College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2718": {
+    "header_name": "Sri Krishna College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2719": {
+    "header_name": "Sri Ramakrishna Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "M.Tech. Computer Science and Engineering (Integrated 5 years)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "2721": {
+    "header_name": "Tamilnadu College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INSTRUMENTATION AND CONTROL ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2723": {
+    "header_name": "Velalar College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2725": {
+    "header_name": "Sri Ramakrishna Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2726": {
+    "header_name": "SNS College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "Artificial Intelligence and Machine Learning",
+      "AEROSPACE ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechanical and Mechatronics Engineering (Additive Manufacturing)",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Internet of Things and Cyber Security including Block Chain Technology)",
+      "Computer Science and Technology"
+    ]
+  },
+  "2727": {
+    "header_name": "Sri Shakthi Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "Artificial Intelligence and Machine Learning",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2729": {
+    "header_name": "Nehru Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2731": {
+    "header_name": "RVS College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY"
+    ]
+  },
+  "2732": {
+    "header_name": "Info Institute of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2733": {
+    "header_name": "Angel College of Engineering and Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2735": {
+    "header_name": "Karpagam Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2736": {
+    "header_name": "Dr N.G.P. Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2737": {
+    "header_name": "Sri Sai Ranganathan Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2739": {
+    "header_name": "Sri Eshwar College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2740": {
+    "header_name": "Hindusthan Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2741": {
+    "header_name": "P A College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2743": {
+    "header_name": "Dhanalakshmi Srinivasan College of Engineering (CBE) (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2744": {
+    "header_name": "Adithya Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2745": {
+    "header_name": "Kathir College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2747": {
+    "header_name": "Shree Venkateshwara Hi-Tech Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2748": {
+    "header_name": "Surya Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2749": {
+    "header_name": "Easa College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2750": {
+    "header_name": "KIT - Kalaignarkarunanidhi Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2751": {
+    "header_name": "KGISL Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2752": {
+    "header_name": "Nandha College of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "2753": {
+    "header_name": "PPG Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2755": {
+    "header_name": "Nehru Institute of Technology (Autonomous)",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2758": {
+    "header_name": "JKK Munirajah College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2761": {
+    "header_name": "United Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2762": {
+    "header_name": "Jansons Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2763": {
+    "header_name": "Akshaya College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "2764": {
+    "header_name": "KPR Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2767": {
+    "header_name": "SRG Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2768": {
+    "header_name": "Park College of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AEROSPACE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ENVIRONMENTAL ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "2769": {
+    "header_name": "JCT College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Bio Technology and Bio Chemical Engineering",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "PETROLEUM ENGINEERING"
+    ]
+  },
+  "2770": {
+    "header_name": "Studyworld College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2772": {
+    "header_name": "C M S College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2776": {
+    "header_name": "R V S Technical Campus Coimbatore (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "2777": {
+    "header_name": "HINDUSTHAN COLLEGE OF ENGINEERING",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "3011": {
+    "header_name": "University College of Engineering Tiruchirappalli (Bharathidasan Institute of Technology)",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+      "Civil Engineering (Environmental Engineering)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electrical and Computer Engineering",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "Mechanical Engineering (Automobile)",
+      "MECHANICAL ENGINEERING",
+      "Mechanical and Smart Manufacturing",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "PHARMACEUTICAL TECHNOLOGY",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "3016": {
+    "header_name": "University College of Engineering Ariyalur Kathankudikadu",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "3018": {
+    "header_name": "University College of Engineering Thirukkuvalai",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics and Computer Engineering",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "3019": {
+    "header_name": "University College of Engineering Panruti Chennai-Kumbakonam",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "3021": {
+    "header_name": "University College of Engineering Pattukkottai ECR",
+    "courses": [
+      "Artificial Intelligence and Machine Learning",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "3410": {
+    "header_name": "Krishnasamy College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3425": {
+    "header_name": "C.K. College of Engineering & Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "3454": {
+    "header_name": "Sri Ramakrishna College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3456": {
+    "header_name": "KSK College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3461": {
+    "header_name": "Arifa Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3464": {
+    "header_name": "Government College of Engineering Gandarvakottai",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "3465": {
+    "header_name": "Government College of Engineering Srirangam Sethurappatti",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "3466": {
+    "header_name": "Nelliandavar Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3477": {
+    "header_name": "SRI VIGNESH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3701": {
+    "header_name": "K Ramakrishnan College of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3760": {
+    "header_name": "Sir Issac Newton College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3766": {
+    "header_name": "Star Lion College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3782": {
+    "header_name": "OASYS Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "3786": {
+    "header_name": "M.A.M. School of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "3795": {
+    "header_name": "SRM TRP Engineering College Irungalur Manachanallur",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3801": {
+    "header_name": "A.V.C. College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INSTRUMENTATION AND CONTROL ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3803": {
+    "header_name": "Anjalai Ammal Mahalingam Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3804": {
+    "header_name": "Arasu Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3805": {
+    "header_name": "Dhanalakshmi Srinivasan Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3806": {
+    "header_name": "E.G.S. Pillay Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3807": {
+    "header_name": "J.J. College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3808": {
+    "header_name": "Jayaram College of Engineering and Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3810": {
+    "header_name": "MAM College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3811": {
+    "header_name": "M.I.E.T. Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3812": {
+    "header_name": "Mookambigai College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3813": {
+    "header_name": "Oxford Engineering College",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3815": {
+    "header_name": "Pavendar Bharathidasan College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "3817": {
+    "header_name": "Roever Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3819": {
+    "header_name": "Saranathan College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INSTRUMENTATION AND CONTROL ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3820": {
+    "header_name": "Trichy Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "3821": {
+    "header_name": "A.R.J College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3822": {
+    "header_name": "Tittagudi Sengunthar Engineering College (Formerly Dr.Navalar Nedunchezhiyan College",
+    "courses": [
+      "of Engineering) Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3825": {
+    "header_name": "St. Joseph's College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3826": {
+    "header_name": "Kongunadu College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3829": {
+    "header_name": "M.A.M. College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3830": {
+    "header_name": "K. Ramakrishnan College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3831": {
+    "header_name": "Indra Ganesan College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3833": {
+    "header_name": "Parisutham Institute of Technology and Science (Autonomous)",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3841": {
+    "header_name": "CARE College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Bachelor of Design",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3843": {
+    "header_name": "MRK Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3844": {
+    "header_name": "Shivani Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3845": {
+    "header_name": "Imayam College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3846": {
+    "header_name": "Mother Terasa College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "3848": {
+    "header_name": "Vandayar Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3849": {
+    "header_name": "Annai College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3852": {
+    "header_name": "Sri Bharathi Engineering College for Women",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "3854": {
+    "header_name": "Mahath Amma Institute of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3855": {
+    "header_name": "As-Salam College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3857": {
+    "header_name": "Meenakshi Ramaswamy Engineering College",
+    "courses": [
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3860": {
+    "header_name": "St.Anne's College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3905": {
+    "header_name": "Kings College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3908": {
+    "header_name": "Mount Zion College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3918": {
+    "header_name": "Shanmuganathan Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3920": {
+    "header_name": "Sudharsan Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "3923": {
+    "header_name": "MNSK College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "3926": {
+    "header_name": "Chendhuran College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4020": {
+    "header_name": "Anna University Regional Campus - Tirunelveli",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "GEO INFORMATICS",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4023": {
+    "header_name": "University College of Engineering Nagercoil Nagercoil Industrial",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "4024": {
+    "header_name": "University V.O.C. College of Engineering Thoothukudi Near V.O.C. College Millerpuram",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "4669": {
+    "header_name": "Thamirabharani Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4670": {
+    "header_name": "Rohini College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4672": {
+    "header_name": "Stella Mary's College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4675": {
+    "header_name": "Universal College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4676": {
+    "header_name": "Renganayagi Varatharaj College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4677": {
+    "header_name": "Arunachala Hitech Engineering College (formerly Lourdes Mount College of Engineering",
+    "courses": [
+      "and Technology) Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "4678": {
+    "header_name": "RAMCO Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4680": {
+    "header_name": "AAA College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4686": {
+    "header_name": "Good Shepherd College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4864": {
+    "header_name": "V V College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4917": {
+    "header_name": "Sethu Institute of Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "COMPUTER SCIENCE AND DESIGN",
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4925": {
+    "header_name": "Sun College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AUTOMOBILE ENGINEERING",
+      "Bio Technology and Bio Chemical Engineering",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "CHEMICAL AND ELECTRO CHEMICAL ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MEDICAL ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "PHARMACEUTICAL TECHNOLOGY"
+    ]
+  },
+  "4927": {
+    "header_name": "Maria College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "AUTOMOBILE ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4928": {
+    "header_name": "Mar Ephraem College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4929": {
+    "header_name": "M.E.T. Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4931": {
+    "header_name": "Grace College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4932": {
+    "header_name": "Immanuel Arasar JJ College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FOOD TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4933": {
+    "header_name": "St. Mother Theresa Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4934": {
+    "header_name": "Holy Cross Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4938": {
+    "header_name": "Sivaji College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING"
+    ]
+  },
+  "4941": {
+    "header_name": "Unnamalai Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4943": {
+    "header_name": "Satyam College of Engineering and Technology",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4944": {
+    "header_name": "Arunachala College of Engineering for Women",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "4946": {
+    "header_name": "DMI Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4949": {
+    "header_name": "PSN Institute of Technology and Science",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INDUSTRIAL ENGINEERING AND MANAGEMENT",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "4952": {
+    "header_name": "C.S.I. Institute of Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4953": {
+    "header_name": "Cape Institute of Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4954": {
+    "header_name": "Dr Sivanthi Aditanar College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4955": {
+    "header_name": "Francis Xavier Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4956": {
+    "header_name": "Jayamatha Engineering College",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INSTRUMENTATION AND CONTROL ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4957": {
+    "header_name": "Jayaraj Annapackiam CSI College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4959": {
+    "header_name": "Kamaraj College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Mechatronics Engineering"
+    ]
+  },
+  "4960": {
+    "header_name": "Mepco Schlenk Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4961": {
+    "header_name": "Nellai College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4962": {
+    "header_name": "National Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4964": {
+    "header_name": "PSN College of Engineering and Technology (Autonomous) Melathediyoor",
+    "courses": [
+      "Tirunelveli-627 152 Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "MARINE ENGINEERING",
+      "MECHANICAL AND AUTOMATION ENGINEERING"
+    ]
+  },
+  "4965": {
+    "header_name": "P.S.R. Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4966": {
+    "header_name": "PET Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4967": {
+    "header_name": "S. Veerasamy Chettiar College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4968": {
+    "header_name": "Sardar Raja College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4969": {
+    "header_name": "SCAD College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4970": {
+    "header_name": "Sree Sowdambika College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4971": {
+    "header_name": "St. Xavier's Catholic College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4974": {
+    "header_name": "Government College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+      "INDUSTRIAL BIO TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4975": {
+    "header_name": "Dr G.U. Pope College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4976": {
+    "header_name": "Infant Jesus College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4977": {
+    "header_name": "Narayanaguru College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4978": {
+    "header_name": "Udaya School of Engineering",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4979": {
+    "header_name": "Arul Tharum VPMM College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4980": {
+    "header_name": "Einstein College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4981": {
+    "header_name": "Ponjesly College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4982": {
+    "header_name": "Vins Christian College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "4983": {
+    "header_name": "Lord Jegannath College of Engineering and Technology",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "ROBOTICS AND AUTOMATION"
+    ]
+  },
+  "4984": {
+    "header_name": "MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4986": {
+    "header_name": "NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": [
+      "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4989": {
+    "header_name": "PSN Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4992": {
+    "header_name": "Bethlahem Institute of Engineering",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4993": {
+    "header_name": "Loyola Institute of Technology and Science",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4994": {
+    "header_name": "J.P. College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4996": {
+    "header_name": "Sri Vidya College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4998": {
+    "header_name": "Mahakavi Bharathiyar College of Engineering and Technology",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "4999": {
+    "header_name": "Annai Vailankanni College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5008": {
+    "header_name": "Thiagarajar College of Engineering (Autonomous) Tirupparankundram",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING (SS)",
+      "CIVIL ENGINEERING (SS)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "Computer Science and Business System (SS)",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
+      "Interior Design (SS)",
+      "INFORMATION TECHNOLOGY (SS)",
+      "MECHANICAL ENGINEERING",
+      "MECHANICAL ENGINEERING (SS)",
+      "MECHATRONICS (SS)"
+    ]
+  },
+  "5009": {
+    "header_name": "Government College of Engineering Melachokkanathapuram Bodinayakkanur",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5010": {
+    "header_name": "Anna University Regional Campus - Madurai",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5012": {
+    "header_name": "Central Electrochemical Research Institute CECRI) Karaikudi",
+    "courses": [
+      "CHEMICAL AND ELECTRO CHEMICAL ENGINEERING (SS)"
+    ]
+  },
+  "5017": {
+    "header_name": "University College of Engineering Ramanathapuram Pullangudi",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "Electrical and Computer Engineering",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "5022": {
+    "header_name": "University College of Engineering Dindigul Mangarai Pirivu Reddiyarchathiram",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "CIVIL ENGINEERING (TAMIL MEDIUM)",
+      "MECHANICAL ENGINEERING (TAMIL MEDIUM)"
+    ]
+  },
+  "5502": {
+    "header_name": "Sri Raajaraajan College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5530": {
+    "header_name": "SSM Institute of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5532": {
+    "header_name": "Vaigai College of Engineering",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5533": {
+    "header_name": "Karaikudi Institute of Technology & Karaikudi Institute of Management",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5536": {
+    "header_name": "Mangayarkarasi College of Engineering",
+    "courses": [
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5537": {
+    "header_name": "Jainee College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5545": {
+    "header_name": "G.T.N COLLEGE OF TECHNOLOGY",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "INFORMATION TECHNOLOGY"
+    ]
+  },
+  "5546": {
+    "header_name": "Jamal Mohamed College of Engineering",
+    "courses": [
+      "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+      "Computer Science and Engineering (Data Science)",
+      "Computer Science and Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "5703": {
+    "header_name": "Christian College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5832": {
+    "header_name": "N.P.R College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5842": {
+    "header_name": "SRM Madurai College for Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5851": {
+    "header_name": "Veerammal Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5862": {
+    "header_name": "RVS School of Engineering and Technology",
+    "courses": [
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "AUTOMOBILE ENGINEERING",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5865": {
+    "header_name": "Nadar Saraswathi College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5901": {
+    "header_name": "Alagappa Chettair Government College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Karaikudi CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5902": {
+    "header_name": "Bharath Niketan Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AGRICULTURAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5904": {
+    "header_name": "K.L.N.College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "Computer Science and Engineering (Internet of Things)",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5907": {
+    "header_name": "Mohamed Sathak Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "AERONAUTICAL ENGINEERING",
+      "AGRICULTURAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "MARINE ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5910": {
+    "header_name": "PSNA College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5911": {
+    "header_name": "P.T.R. College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5912": {
+    "header_name": "Pandian Saraswathi Yadav Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5913": {
+    "header_name": "R.V.S. College of Engineering",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER AND COMMUNICATION ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "FASHION TECHNOLOGY",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "PETRO CHEMICAL TECHNOLOGY",
+      "TEXTILE TECHNOLOGY"
+    ]
+  },
+  "5914": {
+    "header_name": "Solamalai College of Engineering (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5915": {
+    "header_name": "SACS M.A.V.M.M. Engineering College",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5919": {
+    "header_name": "St. Michael College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "BIO MEDICAL ENGINEERING",
+      "BIO TECHNOLOGY",
+      "CHEMICAL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5921": {
+    "header_name": "Syed Ammal Engineering College (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5924": {
+    "header_name": "Ganapathy Chettiar College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5930": {
+    "header_name": "SBM College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "BIO MEDICAL ENGINEERING",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5935": {
+    "header_name": "Fatima Michael College of Engineering and Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5942": {
+    "header_name": "Ultra College of Engineering and Technology",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5986": {
+    "header_name": "Velammal College of Engineering and Technology (Autonomous)",
+    "courses": [
+      "Artificial Intelligence and Data Science",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "Electronics Engineering (VLSI Design and Technology)",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING",
+      "Computer Science and Engineering (Cyber Security)"
+    ]
+  },
+  "5988": {
+    "header_name": "Theni Kammavar Sangam College of Technology",
+    "courses": [
+      "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "INFORMATION TECHNOLOGY",
+      "MECHANICAL ENGINEERING"
+    ]
+  },
+  "5990": {
+    "header_name": "Latha Mathavan Engineering College",
+    "courses": [
+      "CIVIL ENGINEERING",
+      "COMPUTER SCIENCE AND ENGINEERING",
+      "ELECTRONICS AND COMMUNICATION ENGINEERING",
+      "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "MECHANICAL ENGINEERING"
+    ]
+  }
+}

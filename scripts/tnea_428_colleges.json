@@ -1,0 +1,4282 @@
+[
+  {
+    "tnea_code": 1,
+    "college_name": "University Departments of Anna University Chennai - CEG Campus",
+    "address": "Sardar Patel Road Guindy Chennai 600 025",
+    "raw_address_source": "University Departments of Anna University Chennai - CEG Campus Sardar Patel Road Guindy Chennai 600 025",
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Anna University Constituent (University Dept.)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2,
+    "college_name": "University Departments of Anna University Chennai - ACT Campus",
+    "address": "Sardar Patel Road Guindy Chennai 600 025",
+    "raw_address_source": "University Departments of Anna University Chennai - ACT Campus Sardar Patel Road Guindy Chennai 600 025",
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Anna University Constituent (University Dept.)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3,
+    "college_name": "School of Architecture and Planning Anna University Chennai 600025",
+    "address": "",
+    "raw_address_source": "School of Architecture and Planning Anna University Chennai 600025",
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Anna University Constituent (University Dept.)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4,
+    "college_name": "University Departments of Anna University Chennai - MIT Campus",
+    "address": "Chrompet Tambaram Taluk Chengalpattu District 600 044",
+    "raw_address_source": "University Departments of Anna University Chennai - MIT Campus Chrompet Tambaram Taluk Chengalpattu District 600 044",
+    "district": "Chengalpattu",
+    "city": "Chengalpattu",
+    "institution_type_inferred": "Anna University Constituent (University Dept.)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5,
+    "college_name": "Annamalai University Faculty of Engineering and Technology Annamalai nagar Chidambaram",
+    "address": "Cuddalore District - 608002",
+    "raw_address_source": "Annamalai University Faculty of Engineering and Technology Annamalai nagar Chidambaram Cuddalore District - 608002",
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1013,
+    "college_name": "University College of Engineering Villupuram Kakuppam",
+    "address": "Villupuram District 605103",
+    "raw_address_source": "University College of Engineering Villupuram Kakuppam Villupuram District 605103",
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1014,
+    "college_name": "University College of Engineering Tindivanam Melpakkam Tindivanam",
+    "address": "Villupuram District 604001",
+    "raw_address_source": "University College of Engineering Tindivanam Melpakkam Tindivanam Villupuram District 604001",
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1015,
+    "college_name": "University College of Engineering Arni Arni to Devikapuram",
+    "address": "Road Thatchur Arni Thiruvannamalai District 632326",
+    "raw_address_source": "University College of Engineering Arni Arni to Devikapuram Road Thatchur Arni Thiruvannamalai District 632326",
+    "district": "Tiruvannamalai",
+    "city": "Thiruvannamalai",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1026,
+    "college_name": "University College of Engineering Kancheepuram Ponnerikarai Campus NH4 Chennai-Bangalore",
+    "address": "Highway Karaipettai Village & Post Kancheepuram District 631552",
+    "raw_address_source": "University College of Engineering Kancheepuram Ponnerikarai Campus NH4 Chennai-Bangalore Highway Karaipettai Village & Post Kancheepuram District 631552",
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1101,
+    "college_name": "Aalim Muhammed Salegh College of Engineering",
+    "address": "Nizara Educational Campus Muthapudupet, Avadi - IAF, Chennai-600055.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1102,
+    "college_name": "Bhajarang Engineering College",
+    "address": "Ayathur Village, Veppampattu (R.S), Thiruvallur dist-602024.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1106,
+    "college_name": "Jaya Engineering College",
+    "address": "Prakash Nagar, Thiruninravur, Thiruvallur District, Chennai-602024.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1107,
+    "college_name": "Jaya Institute of Technology",
+    "address": "Kanchipadi, Thiruvallur-Thiruthani NH Road, Thiruvallur Taluk & District-631204.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1110,
+    "college_name": "Prathyusha Engineering College (Autonomous)",
+    "address": "Poonamallee- Tiruvallur High Road, Aranvoyalkuppam, Tiruvallur-602025.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Tiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1112,
+    "college_name": "R.M.D. Engineering College (Autonomous)",
+    "address": "R.S.M. Nagar, Gummidipoondi Taluk, Kavaraipettai, Thiruvallur-601206.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1113,
+    "college_name": "R.M.K. Engineering College (Autonomous)",
+    "address": "R.S.M. Nagar, Kavaraipettai, Gummidipoondi Taluk, Thiruvallur-601206.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1114,
+    "college_name": "S.A. Engineering College (Autonomous)",
+    "address": "Poonamallee- Avadi Road, Thiruverkadu Post, Tiruvallur, Chennai-600077.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1115,
+    "college_name": "SriRam Engineering College",
+    "address": "Perumalpattu, Veppampattu R.S., Tiruvallur District, Chennai-602024.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1116,
+    "college_name": "Sri Venkateswara College of Engineering and Technology",
+    "address": "Thirupachur, Thiruvallur Taluk & District-631203.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1118,
+    "college_name": "Vel Tech Multi Tech Dr Rangarajan Dr Sakunthala Engineering College (Autonomous)",
+    "address": "42, Veltech Road, Avadi, Morai, Thiruvallur-600062.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1120,
+    "college_name": "Velammal Engineering College (Autonomous)",
+    "address": "Velammal Nagar, Ambattur-Redhills Road, Surapet, Thiruvallur, Chennai-600066.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1121,
+    "college_name": "Sri Venkateswara Institute of Science and Technology",
+    "address": "Kolundhalur, Thiruvallur Taluk & District-631203.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1122,
+    "college_name": "Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College (Autonomous)",
+    "address": "No. 60, Veltech Road, Avadi, Morai, Thiruvallur-600062.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1123,
+    "college_name": "Gojan School of Business and Technology",
+    "address": "80-Feet Road, Edapalayam, Red Hills, Thiruvallur, Chennai-600052.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1124,
+    "college_name": "SAMS College of Engineering and Technology",
+    "address": "82,Panapakkam, Tirupathi Road, Uthukottai Taluk, Thiruvallur District-601102.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1126,
+    "college_name": "JNN Institute of Engineering (Autonomous)",
+    "address": "Ushaa Garden, 90, Kannigaipair Village, Uthukottai Taluk, Thiruvallur-601102.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1127,
+    "college_name": "St. Peter's College of Engineering and Technology(Autonomous)",
+    "address": "College Road, Avadi Taluk, Thiruvallur District, Chennai-600054.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1128,
+    "college_name": "R.M.K. College of Engineering and Technology (Autonomous)",
+    "address": "R.S.M. Nagar, Puduvoyal, Gummidipoondi Taluk, Thiruvallur District-601206.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1133,
+    "college_name": "Annai Veilankannis College of Engineering",
+    "address": "33 Gandhi Road, Nedungundram, Chennai-600048.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1137,
+    "college_name": "Annai Mira College of Engineering and Technology",
+    "address": "Arappakkam Village, Arcot Road, Walaja Taluk, Vellore District-632517.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1140,
+    "college_name": "Jeppiaar Institute of Technology (Autonomous)",
+    "address": "Jeppiaar Nagar, Kunnam Village,Sriperumbudur Taluk, Kanchipuram-631604.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1149,
+    "college_name": "St. Joseph's Institute of Technology (Autonomous)",
+    "address": "Jeppiaar Nagar, Old Mamallapuram Road, Kanchipuram, Chennai-600119.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1150,
+    "college_name": "Sri Jayaram Institute of Engineering and Technology",
+    "address": "51 N,Elavur, 58 N Natham Village,Gumudipoondi Taluk, Thiruvallur District- 601201.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1202,
+    "college_name": "DMI College of Engineering (Autonomous)",
+    "address": "St.Joseph's Town,Mevalurkuppam B Village, Nazarethpet Post, Palanchur, Kanchipuram, Chennai-600123.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1203,
+    "college_name": "MADRAS ENGINEERING COLLEGE",
+    "address": "TAMBARAM ROAD, VELLARAI (CHENNAI METROPOLITAN AREA), SRIPERUMBUDUR TALUK, CHENNAI, KANCHIPURAM - 602105.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1207,
+    "college_name": "Kings Engineering College (Autonomous)",
+    "address": "Irungattukottai, Opp. Hyundai Car Company, Sriperumbudur, Kanchipuram-602117.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1209,
+    "college_name": "Pallavan College of Engineering",
+    "address": "Thimmasamudram, Kanchipuram -631502.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1210,
+    "college_name": "Panimalar Engineering College (Autonomous)",
+    "address": "Bangalore Trunk Road, NazarathPet, Varadharajapuram, Poonamallee, Thiruvallur (DT), Chennai-600123.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1211,
+    "college_name": "Rajalakshmi Engineering College (Autonomous)",
+    "address": "Rajalakshmi Nagar, Thandalam, Kanchipuram, Chennai-602105.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1212,
+    "college_name": "Rajiv Gandhi College of Engineering",
+    "address": "Nemili Village, Sriperumbudur, Kanchipuram-602105.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1216,
+    "college_name": "Saveetha Engineering College (Autonomous)",
+    "address": "Saveetha Nagar, Thandalam Post, Sriperumbudur Taluk, Kancheepuram District- 602105.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1217,
+    "college_name": "Sree Sastha Institute of Engineering and Technology",
+    "address": "Chennai- Bangalore Highway, Chembarambakkam, Thiruvallur District, Chennai-600123.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1218,
+    "college_name": "Sri Muthukumaran Institute of Technology",
+    "address": "Chikkarayapuram Near Mangadu, Kanchipuram, Chennai-600069.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1219,
+    "college_name": "Sri Venkateswara College of Engineering (Autonomous)",
+    "address": "Post Bag No.3, Pennalur, Sriperumbudur, Kanchipuram-602105.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1221,
+    "college_name": "Jaya College of Engineering and Technology",
+    "address": "Poonamallee By Pass Road, Parivakkam, Chennai, Thiruvallur-600056.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1222,
+    "college_name": "P.B. College of Engineering",
+    "address": "Chennai-Bangalore High Way, Irungkattukottai, Sriperumbudur Taluk, Kancheepuram District, Chennai -602117.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1225,
+    "college_name": "Loyola Institute of Technology",
+    "address": "Palanchur, Mevalurkuppam, B village, Nazarathpet Post, Sriperumpudur Taluk, Kanchipuram District, Chennai-600123.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1226,
+    "college_name": "P.T.Lee Chengalvaraya Naicker College of Engineering and Technology",
+    "address": "Oovery, Veliyur Post, Kanchipuram District-631502.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1228,
+    "college_name": "Alpha College of Engineering",
+    "address": "No.34, Udayavar Kovil Street, Thirumazhisai, Chennai-600124.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1229,
+    "college_name": "Indira Institute of Engineering and Technology",
+    "address": "No.1, V.G.R Nagar, V.G.R Gardens, Pandur, Thiruvallur -631203.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1230,
+    "college_name": "Apollo Engineering College",
+    "address": "Mevaloorkuppam Valarpuram Post, Sriperumbudur Taluk, Kanchipuram District-602105.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1232,
+    "college_name": "ARM College of Engineering and Technology",
+    "address": "Sattamangalam,Maraimalainagar Post, Chengalpattu Taluk, Kanchipuram Dist-603209.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1233,
+    "college_name": "Adhi College of Engineering and Technology",
+    "address": "No. 6, Munu Adhi Nagar, Sankarapuram, Puliambakkam Post, Near Wallajabad Kancheepuram-631605.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1235,
+    "college_name": "Jei Mathaajee College of Engineering",
+    "address": "No.124, Vishakandikuppam Village, Siruvakkam Post, Kanchipuram-631552.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1237,
+    "college_name": "Velammal Institute of Technology",
+    "address": "Chennai - Kolkatta Highway, Pancheeti Village, Ponneri Taluk, Thiruvallur District-601204.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1238,
+    "college_name": "GRT Institute of Engineering and Technology (Autonomous)",
+    "address": "GRT Mahalakshmi Nagar, Chennai-Tirupathi Highway, Tiruttani, Thiruvallur-631209.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1241,
+    "college_name": "T.J.S. Engineering College",
+    "address": "Peruvoyal, Near Kavaraipettai,Gummidipoondi Taluk,Thiruvallur District-601206.",
+    "raw_address_source": null,
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1243,
+    "college_name": "ST. LOURDES ENGINEERING COLLEGE (Formerly Madha Institute of Engineering and Technology)",
+    "address": "Irandaam Kattalai, Sadhananthapuram, Thandalam post, Chennai-600122.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1301,
+    "college_name": "Mohamed Sathak A J College of Engineering (Autonomous)",
+    "address": "#34, Rajiv Gandhi Road(OMR), IT Highway, Siruseri, Egattur, Chennai- 603103.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1303,
+    "college_name": "Anand Institute of Higher Technology(Autonomous)",
+    "address": "Kalasalingam Nagar, Old Mahabalipuram Road, Kazhipattur Village, Chengalpattu Taluk, Kancheepuram District-603103.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1304,
+    "college_name": "Easwari Engineering College (Autonomous)",
+    "address": "Bharathi Salai, Ramapuram, Chennai-600089.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1306,
+    "college_name": "Jeppiaar Engineering College",
+    "address": "Jeppiaar Nagar, Old Mammallapuram Road, Kanchipuram, Chennai-600119.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1307,
+    "college_name": "Jerusalem College of Engineering (Autonomous)",
+    "address": "Velachery- Tambaram Main Road,Narayanapuram, Pallikkaranai,Chennai- 600100.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1309,
+    "college_name": "Meenakshi Sundararajan Engineering College (Autonomous)",
+    "address": "C/O I.I.E.T Society No.363, Arcot Road, Kodambakkam, Chennai- 600024.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1310,
+    "college_name": "Misrimal Navajee Munoth Jain Engineering College",
+    "address": "Guru Marudhar Kesari Building, Jyothi Nagar, Thorapakkam, Chennai- 600097.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1311,
+    "college_name": "KCG college of Technology (Autonomous)",
+    "address": "Rajiv Gandhi Salai, Karapakkam, Chennai-600097.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1315,
+    "college_name": "Sri Sivasubramaniya Nadar College of Engineering (Autonomous)",
+    "address": "Rajiv Gandhi Salai (OMR), Kalavakkam,Kanchipuram District- 603110.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1316,
+    "college_name": "Agni College of Technology (Autonomous)",
+    "address": "Thalambur Off.Rajiv Gandhi Salai, Chengalpattu Taluk, Kancheepuram District-603103.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1317,
+    "college_name": "St. Joseph's College of Engineering (Autonomous)",
+    "address": "Jeppiaar Nagar, Old Mamallapuram Road, Kanchipuram, Chennai-600119.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1318,
+    "college_name": "T.J. Institute of Technology",
+    "address": "Rajiv Gandhi Salai, Karapakkam, Chennai-600097.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1319,
+    "college_name": "Thangavelu Engineering College",
+    "address": "Rajiv Gandhi Salai, Karapakkam, Chennai-600097.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1321,
+    "college_name": "Central Institute of Petrochemicals Engineering and Technology (Formerly Central Institute of Plastics Engineering and Technology) (CIPET) Guindy Chennai 600032",
+    "address": "",
+    "raw_address_source": "Central Institute of Petrochemicals Engineering and Technology (Formerly Central Institute of Plastics Engineering and Technology) (CIPET) Guindy Chennai 600032",
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Central Govt. Institute",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1322,
+    "college_name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+    "address": "ECR, Poonjeri, Mamallapuram, Kanchipuram-603104.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1325,
+    "college_name": "St. Joseph College of Engineering",
+    "address": "Trinity Campus, Nemili B Beemanthangal Village, Sriperumbudur, Kancheepuram District, Chennai-602105.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1333,
+    "college_name": "Shikshaa Institute of Advanced Technologies (formerly Vi Institute of Technology)",
+    "address": "No. 96 Sirunkundram Post,Chengalpattu Taluk,Kancheepuram District-603108.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1335,
+    "college_name": "Sri Krishna Institute of Technology",
+    "address": "Navaneedam Nagar, Panapakkam, Near Padappai, Kanchipuram-601301.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1339,
+    "college_name": "MAHALAKSHMI TECH CAMPUS",
+    "address": "NO.1,BHARATHIYAR STREET, PRASHANTHI NAGAR, CHROMPET, CHENNAI - 600044",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1399,
+    "college_name": "Chennai Institute of Technology (Autonomous) Puduper",
+    "address": "Village Nandambakkam Post Kundrathur Chennai 600069",
+    "raw_address_source": "Chennai Institute of Technology (Autonomous) Puduper Village Nandambakkam Post Kundrathur Chennai 600069",
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1400,
+    "college_name": "MOHAMED SATHAK A.J. ACADEMY OF ARCHITECTURE",
+    "address": "IT HIGHWAY, 34, OLD MAHABALIPURAM ROAD, EGATTUR, CHENGLEPET TALUK, KANCHEEPURAM DISTRICT-603103.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1401,
+    "college_name": "Adhiparasakthi Engineering College",
+    "address": "Melmaruvathur, Cheyyur Taluk, Kancheepuram District-603319.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1402,
+    "college_name": "Annai Teresa College of Engineering",
+    "address": "Thirunavalur, Ulundurpet Taluk, Villupuram District-607204.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1405,
+    "college_name": "Dhanalakshmi College of Engineering",
+    "address": "Manimangalam Puducheri Road, Manimangalam, Manimangalam Post, Sriperumbudur Taluk, Kancheepuram District, Chennai-601301.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1407,
+    "college_name": "G K M College of Engineering and Technology",
+    "address": "G K M Nagar, Alappakkam-Mappedu Road, New Perugalathur, Chennai-600063.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1408,
+    "college_name": "IFET College of Engineering (Autonomous)",
+    "address": "IFET Nagar, Gangarampalayam, Valavanur Post, Villupuram District-605108.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1409,
+    "college_name": "Karpaga Vinayaga College of Engineering and Technology",
+    "address": "G.S.T. Road, Chinna Kolambakkam, Palayanoor Post, Madurantagam Taluk, Kancheepuram Dist-603308.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1411,
+    "college_name": "Madha Engineering College",
+    "address": "Madha Nagar,Somangalam Road, Kundrathur, Kanchipuram, Chennai-600069.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1412,
+    "college_name": "Mailam Engineering College",
+    "address": "Mailam, Tindivanam Taluk, Villupuram District-604304.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1413,
+    "college_name": "Sri Venkateswaraa College of Technology(Autonomous)",
+    "address": "BHB Nagar, Vadakal Village, Oragadam Post, Sriperumbhudur Taluk, Kanchipuram-602118",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1414,
+    "college_name": "Prince Shri Venkateshwaraa Padmavathy Engineering College (Autonomous)",
+    "address": "Medavakkam - Mambakkam Road, Ponmar, Kanchipuram, Chennai-600127.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1415,
+    "college_name": "T.S.M.Jain College of Technology",
+    "address": "Melur,Kallakurichi Taluk,Villupuram District-606201.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1416,
+    "college_name": "Jaya Sakthi Engineering College",
+    "address": "St.Mary's Nagar, Thiruninravur,(Near Avadi), Thiruvallur, Chennai-602024.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1419,
+    "college_name": "Sri Sai Ram Engineering College (Autonomous)",
+    "address": "Sai Leo Nagar, Poonthandalam Village, Dharkast Post, West Tambram, Kanchipuram, Chennai-600044.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1420,
+    "college_name": "Tagore Engineering College",
+    "address": "Rathinamangalam, Vandalur, Kanchipuram, Chennai-600127.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1421,
+    "college_name": "V.R.S. College of Engineering and Technology",
+    "address": "Arasur & Post, Ulundurpet Taluk, Villupuram District-607107.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1422,
+    "college_name": "SRM Valliammai Engineering College (Autonomous)",
+    "address": "S.R.M. Nagar, Kattankulathur, Chengalpattu, Kancheepuram, Chennai- 603203.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1423,
+    "college_name": "Asan Memorial College of Engineering and Technology",
+    "address": "Asan Nagar, 9th kilometer, Chengalpattu - Mahabalipuram Highway, Post Box No.6, Chengalpattu-603001.",
+    "raw_address_source": null,
+    "district": "Chengalpattu",
+    "city": "Chengalpattu",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1424,
+    "college_name": "Dhaanish Ahmed College of Engineering",
+    "address": "Dhaanish Nagar, Vanchuvancherry, Padappai(Near Tambaram), Sriperumbudur Taluk, Kancheepuram District-601301.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1426,
+    "college_name": "Sri Ramanujar Engineering College",
+    "address": "Vandalur, Kolapakkam, Kanchipuram, Chennai-600127.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1427,
+    "college_name": "Sri Krishna Engineering College",
+    "address": "Panapakkam Near Padappai Via Tambaram, Kanchipuram, Chennai-601301.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1428,
+    "college_name": "E.S.College of Engineering and Technology",
+    "address": "Chennai Trunk Road, Ayyankoilpattu, Villupuram-605602.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1430,
+    "college_name": "Maha Barathi Engineering College",
+    "address": "A. Vasudevanur (post), Chinnasalem, Kallakurichi (Taluk), Villupuram-606201.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1431,
+    "college_name": "New Prince Shri Bhavani College of Engineering and Technology (Autonomous)",
+    "address": "Vengaivasal Main Road, Gowrivakkam, Chennai- 600073.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1432,
+    "college_name": "Rajalakshmi Institute of Technology (Autonomous)",
+    "address": "Bangalore Highway Road, Kuthambakkam, Chennai-600124.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1434,
+    "college_name": "Surya Group of Institutions",
+    "address": "NH-45, GST Road, Vikiravandi, Villupuram-605652.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1436,
+    "college_name": "A.R.Engineering College",
+    "address": "Vadakuchipalayam, Kappiyampuliyur post, Villupuram-605601.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1437,
+    "college_name": "Rrase College of Engineering",
+    "address": "Vanjuvancherry, Padappai, Sriperumbadur, Kancheepuram -601301.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1438,
+    "college_name": "Sree Krishna College of Engineering",
+    "address": "Anaicut Post, Unnai Village, Vellore-632101.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1441,
+    "college_name": "A.K.T.Memorial College of Engineering and Technology",
+    "address": "Neelamangalam( Post ), Kallakurichi Taluk, Villupuram District- 606202.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1442,
+    "college_name": "Prince Dr. K. Vasudevan College of Engineering and Technology (Autonomous)",
+    "address": "Medavakkam-Mambakkam Road, Ponmar, Chennai-600127.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1444,
+    "college_name": "R.M.Engineering College (formerly Chendu College of Engineering and Technology)",
+    "address": "Zamin Endathur Village, Madurantakam, Kanchipuram-603311.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1445,
+    "college_name": "Sri Rangapoopathi College of Engineering",
+    "address": "Alampoondi Village & Post, Gingee Taluk, Villupuram District-604151.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1449,
+    "college_name": "Saraswathy College of Engineering and Technology",
+    "address": "NH-45 Main Road, Olakkur, Tindivanam, Villupuram-604307.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1450,
+    "college_name": "Loyola-ICAM College of Engineering and Technology (Autonomous)",
+    "address": "Loyola College Campus, Chennai-600034.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1452,
+    "college_name": "PERI Institute of Technology (Autonomous)",
+    "address": "Mannivakkam,Tambaram, Kancheepuram, Chennai-600048.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1501,
+    "college_name": "Adhiparasakthi College of Engineering",
+    "address": "G.B.Nagar, Kalavai, Arcot Taluk, Vellore District-632506.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1503,
+    "college_name": "Arulmigu Meenakshi Amman College of Engineering",
+    "address": "Vadamavandal Village, Namandi Post,(Near Kanchipuram),Tiruvanamalai-604410.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1504,
+    "college_name": "Arunai Engineering College (Autonomous)",
+    "address": "Chittor-Cuddalore Raod, Mathur, Tiruvannamalai-606603.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1505,
+    "college_name": "C.Abdul Hakeem College of Engineering and Technology",
+    "address": "Hakeem Nagar, Melvisharam, Vellore -632509.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1507,
+    "college_name": "Ganadipathy Tulsi's Jain Engineering College",
+    "address": "Chittoor-Cuddalore Road, Kaniyambadi, Vellore-632102.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1509,
+    "college_name": "Meenakshi College of Engineering",
+    "address": "12,Vembuli Amman Koil Street, West K K Nagar, Chennai-600078.",
+    "raw_address_source": null,
+    "district": "Chennai",
+    "city": "Chennai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1510,
+    "college_name": "Priyadarshini Engineering College",
+    "address": "Chettiyappanur Village & Post, Vaniyambadi, Vellore-635751.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1511,
+    "college_name": "RANIPPETTAI ENGINEERING COLLEGE",
+    "address": "THENKADAPPANTHANGAL, VELLORE DISTRICT 632513",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1512,
+    "college_name": "S.K.P. Engineering College",
+    "address": "Chinnkangiyanur, Somasipadi Post, Tiruvannamalai District-606611.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1513,
+    "college_name": "Sri Balaji Chockalingam Engineering College",
+    "address": "Irumbedu, Arni Taluk,Tiruvannamalai District-632317.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1516,
+    "college_name": "Thanthai Periyar Government Institute of Technology Bagayam",
+    "address": "Vellore District 632002",
+    "raw_address_source": "Thanthai Periyar Government Institute of Technology Bagayam Vellore District 632002",
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1517,
+    "college_name": "Thirumalai Engineering College",
+    "address": "Kilambi, Krishnapuram Post, Kanchipuram-631551.",
+    "raw_address_source": null,
+    "district": "Kancheepuram",
+    "city": "Kanchipuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1518,
+    "college_name": "Thiruvalluvar College of Engineering and Technology",
+    "address": "Arunachala City,Ponnur Hills, Vandavasi, Thiruvannamalai District-604505.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Thiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1519,
+    "college_name": "Bharathidasan Engineering College",
+    "address": "K.Bandarapalli Post, Nattrampalli, Vellore District-635854.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1520,
+    "college_name": "Kingston Engineering College",
+    "address": "Chittoor Main Road, Chiristianpet Village, Mettukulam Panchayat, Katpadi Taluk, Vellore District- 632059.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1523,
+    "college_name": "Global Institute of Engineering and Technology",
+    "address": "257/1, Bangalore- Chennai Highway,Melvisharam, Vellore-632509.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1524,
+    "college_name": "Annamalaiar College Of Engineering",
+    "address": "Chetpet-Polur Road, Polur Taluk, Thiruvannamalai District-606902.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Thiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1525,
+    "college_name": "Podhigai College of Engineering and Technology",
+    "address": "Salem Main Road, Adiyur Post, Tirupattur Taluk,Tirupattur, Vellore District.- 635601.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1526,
+    "college_name": "Sri Krishna College of Engineering",
+    "address": "T.R.S. Campus, Sri Krishna Nagar, Tiruttani Road,Arakkonam, Vellore-631003.",
+    "raw_address_source": null,
+    "district": "Vellore",
+    "city": "Vellore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1529,
+    "college_name": "Oxford College of Engineering",
+    "address": "Venmani Village, Karaipoondi Post, Polur, Tiruvannamalai-606803.",
+    "raw_address_source": null,
+    "district": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 1605,
+    "college_name": "Idhaya Engineering College for Women",
+    "address": "Nainarpalayam Road,Chinna Salem, Villupuram District.-606201.",
+    "raw_address_source": null,
+    "district": "Viluppuram",
+    "city": "Villupuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2005,
+    "college_name": "Government College of Technology (Autonomous) Thadagam",
+    "address": "Road Coimbatore District 641013",
+    "raw_address_source": "Government College of Technology (Autonomous) Thadagam Road Coimbatore District 641013",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2006,
+    "college_name": "PSG College of Technology (Autonomous) Peelamedu",
+    "address": "Coimbatore District 641004",
+    "raw_address_source": "PSG College of Technology (Autonomous) Peelamedu Coimbatore District 641004",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2007,
+    "college_name": "Coimbatore Institute of Technology (Autonomous) Civil Aerodrome",
+    "address": "Post Coimbatore District 641014",
+    "raw_address_source": "Coimbatore Institute of Technology (Autonomous) Civil Aerodrome Post Coimbatore District 641014",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2025,
+    "college_name": "Anna University Regional Campus - Coimbatore",
+    "address": "Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam Coimbatore District 641046",
+    "raw_address_source": "Anna University Regional Campus - Coimbatore Maruthamalai Main Road Navavoor Bharathiyar University Post Somayampalayam Coimbatore District 641046",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Anna University Regional Campus",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2302,
+    "college_name": "Sri Shanmugha College of Engineering and Technology (Autonomous)",
+    "address": "Pullipalayam, Morur(PO), Sankari Taluk, Salem District-637304.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2327,
+    "college_name": "N.S.N. College of Engineering and Technology",
+    "address": "N.S.N, Kalvi Nagar, Karur - Madurai NH-7, Manalmedu, Karur-639003.",
+    "raw_address_source": null,
+    "district": "Karur",
+    "city": "Karur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2329,
+    "college_name": "Rathinam Technical Campus (Autonomous)",
+    "address": "Rathinam Techzone Campus, Pollachi Road, Eachanari, Coimbatore-641021.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2332,
+    "college_name": "Aishwarya College of Engineering and Technology",
+    "address": "Errattaikarad, Paruvachi (Post), Anthiyur, Bhavani (Taluk), Erode District- 638312.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2338,
+    "college_name": "Asian College of Engineering and Technology",
+    "address": "294/2,Asian College Road, Kondayampalayam, Near Saravanampatti, Coimbatore- 641110.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2341,
+    "college_name": "Ganesh College of Engineering",
+    "address": "Attur Main Road, Mettupatti, Salem-636111.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2342,
+    "college_name": "Sri Ranganathar Institute of Engineering and Technology (Autonomous)",
+    "address": "S.F No:162, Athipalayam village, Thudiyalur- kovilpalayam Road, Coimbatore-641110.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2343,
+    "college_name": "Indian Institute of Handloom Technology Foulke's",
+    "address": "Compound Thillai Nagar Salem District 636001",
+    "raw_address_source": "Indian Institute of Handloom Technology Foulke's Compound Thillai Nagar Salem District 636001",
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Central Govt. Institute",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2345,
+    "college_name": "Dhirajlal Gandhi College of Technology (Autonomous)",
+    "address": "Sikkanampatty, Opposite to Airport,Omalur Taluk, Salem District- 636309.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2346,
+    "college_name": "Shree Sathyam College of Engineering and Technology",
+    "address": "Manjakkal Patti, Kuppanur Post, Sankari Taluk, Salem District-637301.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2347,
+    "college_name": "A V S College of Technology",
+    "address": "Attur Main Road, Near AVS College of Arts & Science, Chinnagoundapuram, Salem-636106.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2349,
+    "college_name": "Dhaanish Ahmed Institute of Technology",
+    "address": "Pitchanur Village, Coimbatore-641018.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2350,
+    "college_name": "Jairupaa College of Engineering",
+    "address": "Thottiapalayam, Kathankanni-Po, Kangayam-Tk, Tiruppur-641604.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2354,
+    "college_name": "Pollachi Institute of Engineering and Technology",
+    "address": "107/1, Poosaripatti Village, Pollachi to Dharapuram road, Poosaripatti(post) Pollachi, Coimbatore-642205.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2356,
+    "college_name": "Arulmurugan College of Engineering",
+    "address": "Karvazhi Road, Thennilai, Aravakurichy Taluk, Karur-639206.",
+    "raw_address_source": null,
+    "district": "Karur",
+    "city": "Karur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2357,
+    "college_name": "V.S.B. College of Engineering Technical Campus (Autonomous)",
+    "address": "S.F. No.91/2A,91/2B,252, 253/1, Solavampalayam Village, Kinathukadavu, Pollachi Taluk, Coimbatore District-642109.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2360,
+    "college_name": "Suguna College of Engineering",
+    "address": "Nehru Nagar (West), Kalapatti Road, Civil Aerodrome (Post), Coimbatore-641014.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2361,
+    "college_name": "SASI CREATIVE SCHOOL OF ARCHITECTURE",
+    "address": "293/2B, ROJA RAJA GARDEN, POLLACHI MAIN ROAD, MYLERIPALAYAM, COIMBATORE 641032.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2367,
+    "college_name": "Arjun College of Technology",
+    "address": "310/1B, Chettiyakkapalayam, Kinathukadavu, Coimbatore-642120.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2368,
+    "college_name": "Vishnu Lakshmi College of Engineering and Technology",
+    "address": "10/1,Kambar Street, Kanjikonampalayam, Vellalore(PO), Coimbatore-641111.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2369,
+    "college_name": "Government College of Engineering Chettikkarai",
+    "address": "Post Dharmapuri District 635704",
+    "raw_address_source": "Government College of Engineering Chettikkarai Post Dharmapuri District 635704",
+    "district": "Dharmapuri",
+    "city": "Dharmapuri",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2377,
+    "college_name": "PSG Institute of Technology and Applied Research(Autonomous)",
+    "address": "Avinashi Road,Neelambur, Sulur,Coimbatore -641062.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2378,
+    "college_name": "Cheran College of Technology",
+    "address": "Cheran Nagar, Thittuparai, Kangeyam, Tiruppur-638701.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2601,
+    "college_name": "Adhiyamaan College of Engineering (Autonomous)",
+    "address": "Aeri Campus, Dr.M.G.R.Nagar, Hosur, Krishnagiri District-635109.",
+    "raw_address_source": null,
+    "district": "Krishnagiri",
+    "city": "Krishnagiri",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2602,
+    "college_name": "Annai Mathammal Sheela Engineering College",
+    "address": "Erumapatty Post, Namakkal-637013.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2603,
+    "college_name": "Government College of Engineering (Autonomous) Bargur",
+    "address": "Krishnagiri District 635104",
+    "raw_address_source": "Government College of Engineering (Autonomous) Bargur Krishnagiri District 635104",
+    "district": "Krishnagiri",
+    "city": "Krishnagiri",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2607,
+    "college_name": "K S Rangasamy College of Technology (Autonomous)",
+    "address": "K.S.R Kalvi Nagar, Thokkavadi, Tiruchengode Tk, Namakkal-637215.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2608,
+    "college_name": "M.Kumarasamy College of Engineering (Autonomous)",
+    "address": "Thalavapalayam Post,Punjai Thottakkurichi Village, Karur Tk, Karur-639113.",
+    "raw_address_source": null,
+    "district": "Karur",
+    "city": "Karur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2609,
+    "college_name": "Mahendra Engineering College (Autonomous)",
+    "address": "Mahendhirapuri, Mallasamudram West, Vadugapalayam Post,Tiruchengodu Taluk, Namakkal District-637503.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2610,
+    "college_name": "Muthayammal Engineering College (Autonomous)",
+    "address": "Kakkaveri, Rasipuram (Tk), Namakkal District-637408.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2611,
+    "college_name": "Paavai Engineering College (Autonomous)",
+    "address": "NH-7, Paavai Nagar, Pachal, Namakkal-637018.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2612,
+    "college_name": "PGP College of Engineering and Technology",
+    "address": "Namakkal-Paramathi NH 7 Road, Namakkal-637207.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2613,
+    "college_name": "K S R College of Engineering (Autonomous)",
+    "address": "K S R Kalvi Nagar, Thokkavadi, Tiruchengode, Namakkal Dist-637215.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2614,
+    "college_name": "SSM College of Engineering",
+    "address": "NH-47 Salem Main Road, Komarapalayam, Namakkal District-638183.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2615,
+    "college_name": "Government College of Engineering (Autonomous) Karuppur",
+    "address": "Salem District 636011",
+    "raw_address_source": "Government College of Engineering (Autonomous) Karuppur Salem District 636011",
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2616,
+    "college_name": "Sapthagiri College of Engineering",
+    "address": "NH-7, Krishnagiri Main Road,Palacode Taluk Periyanahalli Village & Post Dharmapuri District-635205.",
+    "raw_address_source": null,
+    "district": "Dharmapuri",
+    "city": "Dharmapuri",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2617,
+    "college_name": "Sengunthar Engineering College (Autonomous)",
+    "address": "Kosavampalayam, Kumaramangalam (Post),Tiruchengode (Taluk),Namakkal District- 637205.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2618,
+    "college_name": "Sona College of Technology (Autonomous)",
+    "address": "Sona Nagar, Thiagarajar Polytechnic College Road, Suramangalam (P.O),Salem District-636005.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2620,
+    "college_name": "Vivekanandha College of Engineering for Women (Autonomous)",
+    "address": "Sathiyanaickenpalayam Village, Elayampalayam, Tiruchengode, Namakkal District-637205.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2621,
+    "college_name": "Er. Perumal Manimekalai College of Engineering (Autonomous)",
+    "address": "17th Km Hosur - Krishnagiri NH7, Nallaganakothapalli, Near Koneripalli, Hosur Taluk, Krishnagiri District-635117.",
+    "raw_address_source": null,
+    "district": "Krishnagiri",
+    "city": "Krishnagiri",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2622,
+    "college_name": "V S B Engineering College (Autonomous)",
+    "address": "N.H.67, Covai Road, Karudayampalayam (Village & Post), Aravakurichi (TK), Karur- 639111.",
+    "raw_address_source": null,
+    "district": "Karur",
+    "city": "Karur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2623,
+    "college_name": "Mahendra College of Engineering",
+    "address": "12th KM Attur Main Road, Minnampalli, Salem-636106.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2624,
+    "college_name": "Gnanamani College of Technology (Autonomous)",
+    "address": "NH-7, A.K. Samuthiram, Pachal Post, Namakkal District-637018.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2625,
+    "college_name": "The Kavery Engineering College (Autonomous)",
+    "address": "M. Kalipatti, Mecheri (Post), Mettur Taluk, Salem District-636453.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2627,
+    "college_name": "Selvam College of Technology (Autonomous)",
+    "address": "Salem Road NH-7, Pappinaickenpatti (Post), Ponnusamy Nagar, Namakkal (Tk & Dt)- 637003.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2628,
+    "college_name": "Paavai College of Engineering",
+    "address": "Paavai Nagar, NH-7,Pachal, Namakkal-637018.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2630,
+    "college_name": "Chettinad College of Engineering and Technology",
+    "address": "NH-67, Karur to Trichy Highways, Puliyur CF, Karur-639114.",
+    "raw_address_source": null,
+    "district": "Karur",
+    "city": "Karur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2632,
+    "college_name": "Mahendra Institute of Technology (Autonomous)",
+    "address": "Mahendhirapuri, Mallasamudram West, Vadugapalayam Post, Tiruchengodu Taluk, Namakkal District-637503.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2633,
+    "college_name": "Vidyaa Vikas College of Engineering and Technology",
+    "address": "Varahoorampatti Village, Tiruchengode Taluk, Namakkal-637214.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2634,
+    "college_name": "Excel Engineering College (Autonomous)",
+    "address": "NH-47 Salem Main Road, Sankari West Post, Tiruchengode Taluk, Pallakapalayam, Namakkal District-637303.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2635,
+    "college_name": "CMS College of Engineering",
+    "address": "CMS Nagar, Eranapuram Post, Namakkal-637003.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2636,
+    "college_name": "AVS Engineering College",
+    "address": "Military Road, Ammapet, Salem-636003.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2638,
+    "college_name": "Mahendra Engineering College for Women",
+    "address": "Komaramanagalam Post,Tiruchengode Taluk,Namakkal District-637205.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2639,
+    "college_name": "R P Sarathy Institute of Technology (Autonomous)",
+    "address": "Poosaripatty(PO), Omalur Taluk, Salem-636305.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2640,
+    "college_name": "Jayalakshmi Institute of Technology",
+    "address": "Thoppur, Dharmapuri District 636352.",
+    "raw_address_source": null,
+    "district": "Dharmapuri",
+    "city": "Dharmapuri",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2641,
+    "college_name": "Varuvan Vadivelan Institute of Technology",
+    "address": "NH 7, Krishnagiri Main Road, Gundalapatty, Dharmapuri-636703.",
+    "raw_address_source": null,
+    "district": "Dharmapuri",
+    "city": "Dharmapuri",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2642,
+    "college_name": "P.S.V.College of Engineering and Technology",
+    "address": "Mittapalli, Balinayanapalli Post, Krishnagiri-635108.",
+    "raw_address_source": null,
+    "district": "Krishnagiri",
+    "city": "Krishnagiri",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2643,
+    "college_name": "Bharathiyar Institute of Engineering for Women",
+    "address": "43/3, Deviyakurichi, Attur Taluk,Salem District-636112.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2646,
+    "college_name": "Tagore Institute of Engineering and Technology",
+    "address": "Salem-Chennai Bye Pass Road, Deviyakurichi (Po), Attur (Tk), Salem (Dt)-636112.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2647,
+    "college_name": "J.K.K.Nataraja College of Engineering and Technology",
+    "address": "Sf No. 147/1,2,4 Komarapalayam Amani, Thattankuttai Panchayat, Tiruchengode, Namakkal-638183.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2648,
+    "college_name": "Annapoorana Engineering College (Autonomous)",
+    "address": "Sankari Main Road (NH-47), Periyaseeragapadi, Salem-636308.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2650,
+    "college_name": "Christ The King Engineering College",
+    "address": "Cecilia Gardens, Chikkarampalayam Village, Karamadai, Coimbatore-641104.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2651,
+    "college_name": "Jai Shriram Engineering College(Autonomous)",
+    "address": "Dharapuram Road, Tirupur-638660.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tirupur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2652,
+    "college_name": "AL-Ameen Engineering College (Autonomous)",
+    "address": "Karundevanpalayam, Nanjai Uthukkuli Post, Erode District- 638104.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2653,
+    "college_name": "Knowledge Institute of Technology (Autonomous)",
+    "address": "KIOT Campus, Kakapalayam (PO), Salem-637504.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2656,
+    "college_name": "Kangeyam Institute of Technology (Autonomous)",
+    "address": "(formerly Builders Engineering College), EBET Knowledge Park, Erode Road Nathakadaiyur, Kangeyam, Tiruppur-638108.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2658,
+    "college_name": "V S A Group of Institutions",
+    "address": "NH-47 Main Road, Uthamasolapuram Post, Salem-636010.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2659,
+    "college_name": "Salem College of Engineering and Technology",
+    "address": "NH-68 Salem-Attur Main Road, Mettupatty Perumapalayam, Salem-636111.",
+    "raw_address_source": null,
+    "district": "Salem",
+    "city": "Salem",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2673,
+    "college_name": "Sree Sakthi Engineering College (Autonomous)",
+    "address": "899/1 & 898/2, Bettathapuram, Bilichi Village, Karamadai, Coimbatore-641104.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2683,
+    "college_name": "Shreenivasa Engineering College",
+    "address": "B.Pallipatti, Bommidi, Pappireddipatti Taluk, Dharmapuri District-635301.",
+    "raw_address_source": null,
+    "district": "Dharmapuri",
+    "city": "Dharmapuri",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2702,
+    "college_name": "Bannari Amman Institute of Technology (Autonomous)",
+    "address": "Sathy- Bhavani Road, (State Highway), Alathukombai Post, Sathyamangalam (Taluk), Erode District-638401.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2704,
+    "college_name": "Coimbatore Institute of Engineering and Technology (Autonomous)",
+    "address": "Vellimalaipattinam, Narasipuram Post, Thondamuthur Via, Coimbatore-641109.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2705,
+    "college_name": "CSI College of Engineering",
+    "address": "Ketti Valley, The Nilgiris-643215.",
+    "raw_address_source": null,
+    "district": "Nilgiris",
+    "city": "Nilgiris",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2706,
+    "college_name": "Dr Mahalingam College of Engineering and Technology (Autonomous)",
+    "address": "Mackkinaickenpatti Post, Udumalai Road, Pollachi, Coimbatore-642003.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2707,
+    "college_name": "Erode Sengunthar Engineering College (Autonomous)",
+    "address": "Thudupathi, Perundurai (Tk), Erode District-638057.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2708,
+    "college_name": "Hindusthan College of Engineering and Technology(Autonomous)",
+    "address": "Othakkalmandapam Village, Coimbatore South Taluk, Coimbatore District-641032.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2709,
+    "college_name": "Government College of Engineering (Formerly Institute of",
+    "address": "Road and Transport Technology) Vasavi College Post Erode District 638316",
+    "raw_address_source": "Government College of Engineering (Formerly Institute of Road and Transport Technology) Vasavi College Post Erode District 638316",
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2710,
+    "college_name": "Karpagam College of Engineering (Autonomous)",
+    "address": "S.F.No.758,759,760 Othakkal Mandapam, Coimbatore -641032.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2711,
+    "college_name": "Kongu Engineering College (Autonomous)",
+    "address": "Perundurai Railway Station Road,Thoppupalayam,Perundurai, Erode-638052.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2712,
+    "college_name": "Kumaraguru College of Technology (Autonomous)",
+    "address": "Chinnavedampatti, Coimbatore-641049.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2713,
+    "college_name": "M.P.Nachimuthu M.Jaganathan Engineering College",
+    "address": "Chennimalai, Erode-638112.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2715,
+    "college_name": "Nandha Engineering College (Autonomous)",
+    "address": "28, Chennimalaipalayam Road, Pitchandampalayam Post, Erode- 638052.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2716,
+    "college_name": "Park College of Engineering and Technology (Autonomous)",
+    "address": "Avinashi Road (NH-47), Kaniyur,Coimbatore-641659.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2717,
+    "college_name": "Sasurie College of Engineering",
+    "address": "Vijayamangalam, Tirupur District- 638056.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tirupur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2718,
+    "college_name": "Sri Krishna College of Engineering and Technology (Autonomous)",
+    "address": "Sugunapuram, Kuniamuthur Post, Coimbatore-641008.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2719,
+    "college_name": "Sri Ramakrishna Engineering College (Autonomous)",
+    "address": "Vattamalaipalayam, NGGO Colony Post, Coimbatore-641022.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2721,
+    "college_name": "Tamilnadu College of Engineering",
+    "address": "Palanisame Ravi Nagar, Karumathampatti Post, Coimbatore-641659.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2723,
+    "college_name": "Velalar College of Engineering and Technology (Autonomous)",
+    "address": "Perundurai Road Thindal Post, Erode-638012.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2725,
+    "college_name": "Sri Ramakrishna Institute of Technology (Autonomous)",
+    "address": "Pachapalayam, Perur Chettipalayam, Coimbatore-641010.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2726,
+    "college_name": "SNS College of Technology (Autonomous)",
+    "address": "Sathy Main Road, Vazhiyampalayam, Saravanampatti Post, Coimbatore-641035.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2727,
+    "college_name": "Sri Shakthi Institute of Engineering and Technology (Autonomous)",
+    "address": "Sri Shakthi Nagar, L & T By-pass Road, Chinniyampalayam Post, Coimbatore-641062.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2729,
+    "college_name": "Nehru Institute of Engineering and Technology (Autonomous)",
+    "address": "Nehru Gardens, Thirumalayampalayam (Post), Coimbatore- 641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2731,
+    "college_name": "RVS College of Engineering and Technology (Autonomous)",
+    "address": "Kumaran Kottam Campus, Kannampalayam Post, Coimbatore- 641402.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2732,
+    "college_name": "Info Institute of Engineering",
+    "address": "S F No.194-200, N.H.209, Sathy Road, Sarakarsamakulam, Kovilpalayam, Coimbatore-641107.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2733,
+    "college_name": "Angel College of Engineering and Technology",
+    "address": "PK Palayam PO,Dharapuram Main Road, Ugayanur village, Tiruppur-641665.",
+    "raw_address_source": null,
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2735,
+    "college_name": "Karpagam Institute of Technology (Autonomous)",
+    "address": "S.F. NO. 247,248, L&T; Bypass Road, Seerapalayam Village, Bodipalayam Post, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2736,
+    "college_name": "Dr N.G.P. Institute of Technology (Autonomous)",
+    "address": "Dr. N.G.P. Nagar, Kalapatti Road, Coimbatore-641048.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2737,
+    "college_name": "Sri Sai Ranganathan Engineering College (Autonomous)",
+    "address": "Viraliyur Post, Thondamuthur(via), Coimbatore-641109.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2739,
+    "college_name": "Sri Eshwar College of Engineering (Autonomous)",
+    "address": "Kondampatti Post, Vadasithur Via, Coimbatore-641202.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2740,
+    "college_name": "Hindusthan Institute of Technology (Autonomous)",
+    "address": "Othakkalmandapam Post, Coimbatore-641032.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2741,
+    "college_name": "P A College of Engineering and Technology (Autonomous)",
+    "address": "Palladam Road, Pollachi, Coimbatore Dt.-642002.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2743,
+    "college_name": "Dhanalakshmi Srinivasan College of Engineering (CBE) (Autonomous)",
+    "address": "NH-47, Palakkad Main Road, Navakkarai Post, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2744,
+    "college_name": "Adithya Institute of Technology (Autonomous)",
+    "address": "S.F.No. 348/1,349/1, Kurumbapalayam, SS Kulam(PO), Coimbatore- 641107.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2745,
+    "college_name": "Kathir College of Engineering (Autonomous)",
+    "address": "WISDOM TREE, Avinashi Road, Neelambur, Coimbatore-641062.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2747,
+    "college_name": "Shree Venkateshwara Hi-Tech Engineering College (Autonomous)",
+    "address": "Erode-Sathy Main Road,Sri Kalaivani Nagar, Othakuthirai,K, Mettupalayam (Po), Gobichettipalayam (Tk), Erode (Dt)-638455.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2748,
+    "college_name": "Surya Engineering College",
+    "address": "Perundurai Road,Manalmedu, Mettukadai,Kathirampatti Post, Erode-638107.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2749,
+    "college_name": "Easa College of Engineering and Technology (Autonomous)",
+    "address": "NH- 47, Palakkad main Road, Navakkarai Post, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2750,
+    "college_name": "KIT - Kalaignarkarunanidhi Institute of Technology (Autonomous)",
+    "address": "S.F.No. 282,S.F.No. 283 Kannampalayam Post, Coimbatore- 641402.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2751,
+    "college_name": "KGISL Institute of Technology (Autonomous)",
+    "address": "365, KGISL Campus, Thudiyalur Road, Saravanampatti, Coimbatore-641035.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2752,
+    "college_name": "Nandha College of Technology",
+    "address": "235, Chennimalaipalayam Road, Pitchandampalayam Post, Veppampalayam Village, Erode- 638052.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2753,
+    "college_name": "PPG Institute of Technology",
+    "address": "Rathnagiri Road, Saravanampatti, Coimbatore-641035.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2755,
+    "college_name": "Nehru Institute of Technology (Autonomous)",
+    "address": "Jawahar Gardens, Kaliapuram, Thirumalayampalayam, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2758,
+    "college_name": "JKK Munirajah College of Technology (Autonomous)",
+    "address": "377/1A, Punjai Thurayampalayam, Thookkanickenpalayam (Post), Thookkanickenpalayam, Gobi (Tk), Erode-638506.",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2761,
+    "college_name": "United Institute of Technology (Autonomous)",
+    "address": "G.Koundampalayam, Periyanaickenpalayam, Coimbatore-641020.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2762,
+    "college_name": "Jansons Institute of Technology (Autonomous)",
+    "address": "SF.NO.443/1,2, 442/1A & 442/1B Karumathampatty, Coimbatore-641659.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2763,
+    "college_name": "Akshaya College of Engineering and Technology",
+    "address": "SF No.112/1CPT,114/1,115/1,116/2C, Bagavathipalayam Road,Kinathukadavu, Coimbatore-642109.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2764,
+    "college_name": "KPR Institute of Engineering and Technology (Autonomous)",
+    "address": "SF:204/2 & 204/4, Kollupalayam Village, Arasur Panchayat, Coimbatore-641407.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2767,
+    "college_name": "SRG Engineering College",
+    "address": "SH-95,Mohanur Road, Aniyapuram, Namakkal-637017.",
+    "raw_address_source": null,
+    "district": "Namakkal",
+    "city": "Namakkal",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2768,
+    "college_name": "Park College of Technology",
+    "address": "Prema Ravi Nagar, Karumathampatty, Coimbatore-641659.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2769,
+    "college_name": "JCT College of Engineering and Technology (Autonomous)",
+    "address": "Pichanur, Coimbatore South Taluk, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2770,
+    "college_name": "Studyworld College of Engineering",
+    "address": "Alagu Nachiamman Koil Road, Palathurai Post, Coimbatore-641105.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2772,
+    "college_name": "C M S College of Engineering and Technology",
+    "address": "Appachigoundapathy, Kumittipathy Post, Coimbatore-641032.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2776,
+    "college_name": "R V S Technical Campus Coimbatore (Autonomous)",
+    "address": "Kumaran Kottam Campus, Kannampalayam, Sulur, Coimbatore-641402.",
+    "raw_address_source": null,
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 2777,
+    "college_name": "HINDUSTHAN COLLEGE OF ENGINEERING",
+    "address": "CHENNIMALAI ROAD, INGUR, PERUNDURAI, ERODE - 638052",
+    "raw_address_source": null,
+    "district": "Erode",
+    "city": "Erode",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3011,
+    "college_name": "University College of Engineering Tiruchirappalli (Bharathidasan Institute of Technology)",
+    "address": "Tiruchirappalli District 620024",
+    "raw_address_source": "University College of Engineering Tiruchirappalli (Bharathidasan Institute of Technology) Tiruchirappalli District 620024",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3016,
+    "college_name": "University College of Engineering Ariyalur Kathankudikadu",
+    "address": "Village Thelur Post Ariyalur District 621704",
+    "raw_address_source": "University College of Engineering Ariyalur Kathankudikadu Village Thelur Post Ariyalur District 621704",
+    "district": "Ariyalur",
+    "city": "Ariyalur",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3018,
+    "college_name": "University College of Engineering Thirukkuvalai",
+    "address": "Nagappattinam District 610204",
+    "raw_address_source": "University College of Engineering Thirukkuvalai Nagappattinam District 610204",
+    "district": "Nagapattinam",
+    "city": "Nagappattinam",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3019,
+    "college_name": "University College of Engineering Panruti Chennai-Kumbakonam",
+    "address": "Highway Panikkankuppam Panruti Cuddalore District 607106",
+    "raw_address_source": "University College of Engineering Panruti Chennai-Kumbakonam Highway Panikkankuppam Panruti Cuddalore District 607106",
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3021,
+    "college_name": "University College of Engineering Pattukkottai ECR",
+    "address": "Road Rajamadam Pattukkottai Taluk Thanjavur District 614701",
+    "raw_address_source": "University College of Engineering Pattukkottai ECR Road Rajamadam Pattukkottai Taluk Thanjavur District 614701",
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3410,
+    "college_name": "Krishnasamy College of Engineering and Technology",
+    "address": "Nellikuppam Main Road, S.Kumarapuram, Cuddalore-607109.",
+    "raw_address_source": null,
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3425,
+    "college_name": "C.K. College of Engineering & Technology",
+    "address": "Jayaram Nagar, Chellangkuppam, Cuddalore-607003.",
+    "raw_address_source": null,
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3454,
+    "college_name": "Sri Ramakrishna College of Engineering",
+    "address": "Sri Saradha Nagar, NH - 45, Perambalur-621113.",
+    "raw_address_source": null,
+    "district": "Perambalur",
+    "city": "Perambalur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3456,
+    "college_name": "KSK College of Engineering and Technology",
+    "address": "Thanjavur Main Road, Ammapet (Village), Dharasuram Post, Kumbakonam Taluk, Thanjavur District-612702.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3461,
+    "college_name": "Arifa Institute of Technology",
+    "address": "Esanoor, Keelaiyur Post, Tirukkuvalai Taluk, Nagapattinam District-611103.",
+    "raw_address_source": null,
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3464,
+    "college_name": "Government College of Engineering Gandarvakottai",
+    "address": "Road Sengipatti Thanjavur District 613402",
+    "raw_address_source": "Government College of Engineering Gandarvakottai Road Sengipatti Thanjavur District 613402",
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3465,
+    "college_name": "Government College of Engineering Srirangam Sethurappatti",
+    "address": "Tiruchirappalli District 620012",
+    "raw_address_source": "Government College of Engineering Srirangam Sethurappatti Tiruchirappalli District 620012",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3466,
+    "college_name": "Nelliandavar Institute of Technology",
+    "address": "Nerunjikorai Village, Pudhupalayam, Ariyalur Taluk & District-621704.",
+    "raw_address_source": null,
+    "district": "Ariyalur",
+    "city": "Ariyalur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3477,
+    "college_name": "SRI VIGNESH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "TRICHY - CHENNAI TRUNK ROAD, KOOTHUR - POST, KOOTHUR, TIRUCHIRAPPALLI, TAMIL NADU, 621216",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3701,
+    "college_name": "K Ramakrishnan College of Technology (Autonomous)",
+    "address": "Kariyamanickam Road, Mannachanallur Taluk, Tiruchirappalli- 621112.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3760,
+    "college_name": "Sir Issac Newton College of Engineering and Technology",
+    "address": "Andhanapeetai Post, Pappakoil, Nagapattinam-611102.",
+    "raw_address_source": null,
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3766,
+    "college_name": "Star Lion College of Engineering and Technology",
+    "address": "Main Road, Manankorai, Thanjavur-614206.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3782,
+    "college_name": "OASYS Institute of Technology",
+    "address": "Tiruchirappalli-Thuraiyur Mani Road, Pulivalam P.O Musiri Taluk, Tiruchirappalli-621006.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3786,
+    "college_name": "M.A.M. School of Engineering (Autonomous)",
+    "address": "Trichy-Chennai Trunk Road, Siruganur, Tiruchirappalli-621105.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3795,
+    "college_name": "SRM TRP Engineering College Irungalur Manachanallur",
+    "address": "Taluk Tiruchirappalli District 621105",
+    "raw_address_source": "SRM TRP Engineering College Irungalur Manachanallur Taluk Tiruchirappalli District 621105",
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3801,
+    "college_name": "A.V.C. College of Engineering",
+    "address": "Mannampandal, Mayiladuthurai, Nagapattinam-609305.",
+    "raw_address_source": null,
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3803,
+    "college_name": "Anjalai Ammal Mahalingam Engineering College",
+    "address": "Kovilvenni, Thiruvarur-614403.",
+    "raw_address_source": null,
+    "district": "Tiruvarur",
+    "city": "Thiruvarur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3804,
+    "college_name": "Arasu Engineering College",
+    "address": "Chennai Main Road, Thiruvisanallur - Village, Thiruvidaimaruthur - Taluk, Kumbakonam,Thanjavur- 612501.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3805,
+    "college_name": "Dhanalakshmi Srinivasan Engineering College (Autonomous)",
+    "address": "Thuraiyur Road, Perambalur-621212.",
+    "raw_address_source": null,
+    "district": "Perambalur",
+    "city": "Perambalur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3806,
+    "college_name": "E.G.S. Pillay Engineering College (Autonomous)",
+    "address": "Old Nagore Road, Nagore Post, Nagapattinam District-611002.",
+    "raw_address_source": null,
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3807,
+    "college_name": "J.J. College of Engineering and Technology",
+    "address": "Ammapettai, Poolankulathupatti Post, Tiruchirappalli-620009.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3808,
+    "college_name": "Jayaram College of Engineering and Technology",
+    "address": "Karattampatty, Pagalavadi, Thuraiyur Taluk, Tiruchirappalli-621014.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3810,
+    "college_name": "MAM College of Engineering",
+    "address": "Trichy-Chennai Trunk Road, Siruganur, Tiruchirappalli-621105.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3811,
+    "college_name": "M.I.E.T. Engineering College (Autonomous)",
+    "address": "Trichy - Pudukkottai Road, Gundur, Tiruchirappalli-620007.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3812,
+    "college_name": "Mookambigai College of Engineering",
+    "address": "Srinivasa Nagar, Kalamavur (PO), Keeranur, Pudukkottai-622502.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3813,
+    "college_name": "Oxford Engineering College",
+    "address": "Pirattiyur, Tiruchirappalli-620009.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3815,
+    "college_name": "Pavendar Bharathidasan College of Engineering and Technology",
+    "address": "Thanjai Natarajan Nagar, Opp. to Bharathidasan University, Pudukkottai Main Raod, Mathur, Kulathur, Pudukkottai-622515.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3817,
+    "college_name": "Roever Engineering College",
+    "address": "Elambalur (Post), Perambalur- 621212.",
+    "raw_address_source": null,
+    "district": "Perambalur",
+    "city": "Perambalur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3819,
+    "college_name": "Saranathan College of Engineering (Autonomous)",
+    "address": "Venkateswara Nagar, Edamalaipattipudur Post, Panjappur Village, Srirangam Taluk, Tiruchirappalli-620012.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3820,
+    "college_name": "Trichy Engineering College",
+    "address": "somu Nagr,Konalai, Tiruchirappalli- 621132.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3821,
+    "college_name": "A.R.J College of Engineering and Technology",
+    "address": "Thirumakkottai Main Road, Edayarnatham Village, Sundarakkottai (PO), Mannargudi Taluk, Thiruvarur-614001.",
+    "raw_address_source": null,
+    "district": "Tiruvarur",
+    "city": "Thiruvarur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3822,
+    "college_name": "Tittagudi Sengunthar Engineering College (Formerly Dr.Navalar Nedunchezhiyan College of Engineering)",
+    "address": "Raja Nagar, Vaithiyanathapuram, Tholudur, Cuddalore-606303.",
+    "raw_address_source": null,
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3825,
+    "college_name": "St. Joseph's College of Engineering and Technology",
+    "address": "A.S.Nagar, Ellupatti, Rawasapatti Post, Inathukanpatti Village, Thanjavur- 613403.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3826,
+    "college_name": "Kongunadu College of Engineering and Technology (Autonomous)",
+    "address": "Tholurpatti, Thottiam, Tiruchirappalli-621215.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3829,
+    "college_name": "M.A.M. College of Engineering and Technology",
+    "address": "Trichy-Chennai Trunk Road, Siruganur, Manachanallur Taluk, Tiruchirappalli- 621105.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3830,
+    "college_name": "K. Ramakrishnan College of Engineering (Autonomous)",
+    "address": "Kariyamanickam Road, Samayapuram, Tiruchirappalli-621112.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3831,
+    "college_name": "Indra Ganesan College of Engineering (Autonomous)",
+    "address": "Madurai Main Road, Manikandam, Tiruchirappalli-620012.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3833,
+    "college_name": "Parisutham Institute of Technology and Science (Autonomous)",
+    "address": "NH 67 Ring Road, Nanjikottai, Thanjavur-613006.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3841,
+    "college_name": "CARE College of Engineering (Autonomous)",
+    "address": "No.27, Thayanoor village, Kuttapatti, Tiruchirappalli-620009.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3843,
+    "college_name": "MRK Institute of Technology",
+    "address": "Nattarmangalam Post, Kattumannarkoil, Cuddalore-608301.",
+    "raw_address_source": null,
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3844,
+    "college_name": "Shivani Engineering College",
+    "address": "Poolangulathupatti (Post), Srirangam (Taluk), Tiruchirappalli-620009.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3845,
+    "college_name": "Imayam College of Engineering",
+    "address": "Kannanur Post, Thuraiyur Taluk, Tiruchirappalli-621206.",
+    "raw_address_source": null,
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3846,
+    "college_name": "Mother Terasa College of Engineering and Technology",
+    "address": "Mettusalai, Illuppur (Post & Taluk), Pudukkottai District-622102.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3848,
+    "college_name": "Vandayar Engineering College",
+    "address": "Pulavarnatham (Post), Mariammankovil (via), Nagai Main Road, Thanjavur-613501.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3849,
+    "college_name": "Annai College of Engineering and Technology",
+    "address": "Anakudi Road, Kovilacheri, Kumbakonam, Thanjavur District-612503.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3852,
+    "college_name": "Sri Bharathi Engineering College for Women",
+    "address": "Aranthangi Road, Kaikurichi, Alangudi Taluk, Pudukkottai-622303.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3854,
+    "college_name": "Mahath Amma Institute of Engineering and Technology",
+    "address": "Ariyur, Mathiyanaloor-Post, Annavasal Road, Illupur Taluk, Pudukkottai- 622101.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3855,
+    "college_name": "As-Salam College of Engineering and Technology",
+    "address": "Thirumangalakudi-Aduthurai, Thiruvidaimaruthur, Thanjavur- 612102.",
+    "raw_address_source": null,
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3857,
+    "college_name": "Meenakshi Ramaswamy Engineering College",
+    "address": "M.R.Kalvi Nagar, Thathanur Post, Udayarpalayam Taluk, Ariyalur District-621804.",
+    "raw_address_source": null,
+    "district": "Ariyalur",
+    "city": "Ariyalur",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3860,
+    "college_name": "St.Anne's College of Engineering and Technology",
+    "address": "Anguchettypalayam, Siruvathur Post, Panruti Taluk, Cuddalore District-607110.",
+    "raw_address_source": null,
+    "district": "Cuddalore",
+    "city": "Cuddalore",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3905,
+    "college_name": "Kings College of Engineering (Autonomous)",
+    "address": "Punalkulam Village, Gandarvakkottai Taluk, Pudukkottai District-613303.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3908,
+    "college_name": "Mount Zion College of Engineering and Technology",
+    "address": "Lena vilakku, Pilivalam Post, Pudukkottai-622507.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3918,
+    "college_name": "Shanmuganathan Engineering College",
+    "address": "Arasampatti, Pilivalam Post, Thirumayam Taluk, Pudukkottai District-622507.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3920,
+    "college_name": "Sudharsan Engineering College",
+    "address": "Sathiyamangalam, Kulathur Taluk, Pudukkottai District-622501.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3923,
+    "college_name": "MNSK College of Engineering",
+    "address": "Dhakshinapuram Village, Vallathirakottai (Post), Alangudi Taluk, Pudukkottai-622305.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 3926,
+    "college_name": "Chendhuran College of Engineering and Technology",
+    "address": "Madurai Main Road, Lena Vilakku, Pilivalam Post, Thirumayam Taluk, Pudukkottai District-622507.",
+    "raw_address_source": null,
+    "district": "Pudukkottai",
+    "city": "Pudukkottai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4020,
+    "college_name": "Anna University Regional Campus - Tirunelveli",
+    "address": "Trivandrum Road Palayamkottai Tirunelveli District 627007",
+    "raw_address_source": "Anna University Regional Campus - Tirunelveli Trivandrum Road Palayamkottai Tirunelveli District 627007",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Anna University Regional Campus",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4023,
+    "college_name": "University College of Engineering Nagercoil Nagercoil Industrial",
+    "address": "Estate Konam Kanyakumari District 629004",
+    "raw_address_source": "University College of Engineering Nagercoil Nagercoil Industrial Estate Konam Kanyakumari District 629004",
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4024,
+    "college_name": "University V.O.C. College of Engineering Thoothukudi Near V.O.C. College Millerpuram",
+    "address": "Thoothukudi District 628008",
+    "raw_address_source": "University V.O.C. College of Engineering Thoothukudi Near V.O.C. College Millerpuram Thoothukudi District 628008",
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4669,
+    "college_name": "Thamirabharani Engineering College (Autonomous)",
+    "address": "Ward - 1, Thatchanallur, Chattiram Puthukullam Village, Vepakullam - Chidhabra Nagar Road, Tirunelveli-627358.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4670,
+    "college_name": "Rohini College of Engineering and Technology (Autonomous)",
+    "address": "Palkumlam, Variyoor Post, Kanyakumari-629401.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4672,
+    "college_name": "Stella Mary's College of Engineering (Autonomous)",
+    "address": "Arunthenkanvilai, Azhikal, Kanyakumari-629202.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4675,
+    "college_name": "Universal College of Engineering and Technology",
+    "address": "Anbagam Campus, Kadambankulam, Villakku, Radhapuram Road, Vallioor, Tirunelveli-627117.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4676,
+    "college_name": "Renganayagi Varatharaj College of Engineering",
+    "address": "Salvarpatti Village & Post, Thayilpatti Via, Sivakasi Taluk, Virudhunagar-626128.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4677,
+    "college_name": "Arunachala Hitech Engineering College (formerly Lourdes Mount College of Engineering and Technology)",
+    "address": "Marthandam-Karungal Road, Chundavilai Mullanganavilai, Nattalam Post, Nattalam, Kanyakumari -629195.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4678,
+    "college_name": "RAMCO Institute of Technology",
+    "address": "North Venganallur Village, Krishnapuram Panchayat, Rajapalayam, Virudhunagar-626117.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4680,
+    "college_name": "AAA College of Engineering and Technology",
+    "address": "Amathur Village, Sivakasi, Virudhunagar-626123.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4686,
+    "college_name": "Good Shepherd College of Engineering and Technology",
+    "address": "Maruthamparai, Kaliyal Village, Kaliyal, Kanyakumari-629151.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4864,
+    "college_name": "V V College of Engineering",
+    "address": "V.V. Nagar, Arasur Village, Idaichivilai Post, Sathankulam Taluk, Tuticorin District, Tirunelveli-628656.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4917,
+    "college_name": "Sethu Institute of Technology (Autonomous)",
+    "address": "Pulloor, Kariapatti, Virudhunagar-626115.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4925,
+    "college_name": "Sun College of Engineering and Technology",
+    "address": "Udaya Nagar, Ammandivilai & Post, Kadiyapattanam, Kanyakumari-629204.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4927,
+    "college_name": "Maria College of Engineering and Technology",
+    "address": "Attoor Puliyamoodu Junction, Thiruvattar P.O, Attoor, Kanyakumari- 629177.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4928,
+    "college_name": "Mar Ephraem College of Engineering and Technology",
+    "address": "Malankara Hills, Elavuvillai, Kanyakumari-629171.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4929,
+    "college_name": "M.E.T. Engineering College",
+    "address": "No.13/142A9/9,Mogals Garden, Chenbagaramanputhur, Thovalai Taluk, Kanyakumari district, Nagercoil-629304.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4931,
+    "college_name": "Grace College of Engineering",
+    "address": "Chandy Nagar, Mullakkadu, Thoothukudi -628005.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4932,
+    "college_name": "Immanuel Arasar JJ College of Engineering",
+    "address": "Edavilagam, Nattalam, Marthandam, Kanyakumari-629195.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4933,
+    "college_name": "St. Mother Theresa Engineering College",
+    "address": "Vagaikulam, Mudivaithanendal Post, Tuticorin District-628102.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Tuticorin",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4934,
+    "college_name": "Holy Cross Engineering College",
+    "address": "7/131, Vagaikulam Srivaikuntam Express Road, Sri Mulakarai, Thannoothu Village, Srivaikuntam Taluk, Thoothukudi-628851.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4938,
+    "college_name": "Sivaji College of Engineering and Technology",
+    "address": "Manivilai Post, Kanyakumari -629171.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4941,
+    "college_name": "Unnamalai Institute of Technology",
+    "address": "Suba Nagar, Ayyaneri Post, Kovilpatti, Thoothukudi District-628502.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4943,
+    "college_name": "Satyam College of Engineering and Technology",
+    "address": "Satyam Nagar, Kannappannalur, Aralvoimozhi, Kanyakumari District-629301.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4944,
+    "college_name": "Arunachala College of Engineering for Women",
+    "address": "Thanka Gardens, Manavilai, Vellichanthai, Nagercoil, Kanyakumari District-629203.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4946,
+    "college_name": "DMI Engineering College",
+    "address": "Kumarapuram Road, Aralvaimozhi, Kanyakumari District-629301.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4949,
+    "college_name": "PSN Institute of Technology and Science",
+    "address": "Melathediyoor, Palayamkottai Taluk, Tirunelveli-627152.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4952,
+    "college_name": "C.S.I. Institute of Technology",
+    "address": "Thovalai & PO, Kanyakumari District, Nagercoil-629302.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4953,
+    "college_name": "Cape Institute of Technology",
+    "address": "Rajakrishnapuram Post, Radhapuram Taluk, Levengipuram, Tirunelvei-627114.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelvei",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4954,
+    "college_name": "Dr Sivanthi Aditanar College of Engineering",
+    "address": "Tirunelveli Road, Tiruchendur, Thoothukudi-628215.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4955,
+    "college_name": "Francis Xavier Engineering College (Autonomous)",
+    "address": "103 G2, By Pass Road, Vannarpettai, Tirunelveli-627003.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4956,
+    "college_name": "Jayamatha Engineering College",
+    "address": "Thirurajapuram Muppandal, Aralvaimozhi, Kanyakumari-629301.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4957,
+    "college_name": "Jayaraj Annapackiam CSI College of Engineering",
+    "address": "Margoschis Nagar, Nazareth, Thoothukudi District-628617.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4959,
+    "college_name": "Kamaraj College of Engineering and Technology (Autonomous)",
+    "address": "S.P.G.C.Nagar Post Box12, K.Vellakulam, Virudhunagar-626001.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4960,
+    "college_name": "Mepco Schlenk Engineering College (Autonomous)",
+    "address": "Sivakasi,Mepco Engineering College Post,Virudhunagar District- 626005.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4961,
+    "college_name": "Nellai College of Engineering",
+    "address": "Maruthakulam P.O, Nanguneri Taluk, Tirunelveli-627151.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4962,
+    "college_name": "National Engineering College (Autonomous)",
+    "address": "K.R. Nagar, Nalattinputhur, Kovilpatti, Tuticorin District-628503.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Tuticorin",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4964,
+    "college_name": "PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152",
+    "address": "",
+    "raw_address_source": "PSN College of Engineering and Technology (Autonomous) Melathediyoor Tirunelveli-627 152",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4965,
+    "college_name": "P.S.R. Engineering College (Autonomous)",
+    "address": "Appayanaickenpatty, Sevalpatty, Sivakasi, Virudhunagar District -626140.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4966,
+    "college_name": "PET Engineering College",
+    "address": "Thiruchendur Road, Vallioor, Tirunelveli - 627117.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4967,
+    "college_name": "S. Veerasamy Chettiar College of Engineering and Technology",
+    "address": "S.V.Nagar, Puliangudi (Post), Sivagiri (Taluk), Tirunelveli District- 627855.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4968,
+    "college_name": "Sardar Raja College of Engineering",
+    "address": "Raja Nagar, Alangulam, Tirunelveli Distict-627808.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4969,
+    "college_name": "SCAD College of Engineering and Technology",
+    "address": "Scad Nagar, Cheranmahadevi, Tirunelveli-627414.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4970,
+    "college_name": "Sree Sowdambika College of Engineering",
+    "address": "Chettikurichi, Aruppukottai, Virudhunagar-626134.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4971,
+    "college_name": "St. Xavier's Catholic College of Engineering (Autonomous)",
+    "address": "Chunkankadai, Kanyakumari District, Nagercoil-629003.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4974,
+    "college_name": "Government College of Engineering",
+    "address": "Tirunelveli District 627007",
+    "raw_address_source": "Government College of Engineering Tirunelveli District 627007",
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4975,
+    "college_name": "Dr G.U. Pope College of Engineering",
+    "address": "Pope Nagar, Sawyerpuram, Thoothukudi-628251.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4976,
+    "college_name": "Infant Jesus College of Engineering",
+    "address": "Kamarajar Nagar, Tirunelveli- Thoothukudi Highway (NH-7A), Keelavallanadu Village, Ellanayakkan Patti Post, Srivaikundam Taluk, Thoothukudi District- 628851.",
+    "raw_address_source": null,
+    "district": "Thoothukudi",
+    "city": "Thoothukudi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4977,
+    "college_name": "Narayanaguru College of Engineering",
+    "address": "Chittadavu, Manjalumoodu, Vilavancode Taluk, Kuzhithurai, Kanyakumari District-629151.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4978,
+    "college_name": "Udaya School of Engineering",
+    "address": "Udaya Nagar, Vellamadi Junction,Ammandivilai Post, Kanyakumarai District, Nagercoil- 629204.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4979,
+    "college_name": "Arul Tharum VPMM College of Engineering and Technology",
+    "address": "V.P.M. Nagar, Krishnankovil, Srivilliputur, Virudhunagar-626190.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4980,
+    "college_name": "Einstein College of Engineering",
+    "address": "Sir.C.V.Raman Nagar, Seethaparpanallur, Tirunelveli-627012.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4981,
+    "college_name": "Ponjesly College of Engineering",
+    "address": "Near Parvathipuram, Alamparai, Veturnimadam Post, Nagercoil-629003.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4982,
+    "college_name": "Vins Christian College of Engineering",
+    "address": "Vins Nagar, Chunkankadai, Nagercoil, Kanyakumari-629807.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4983,
+    "college_name": "Lord Jegannath College of Engineering and Technology",
+    "address": "PSN Nagar, Ramanathichanputhur, Marungoor, Kanyakumari District, Nagercoil-629402.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4984,
+    "college_name": "MARTHANDAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "P.M.VILLAGE ROAD, KUTTAKUZHI, VEEYANNOOR POST, MARTHANDAM, KANYAKUMARI DISTRICT - 629177",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4986,
+    "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "address": "PUNKARAI, THIRUVITHANCODE (PO), KANYAKUMARI-629174.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4989,
+    "college_name": "PSN Engineering College",
+    "address": "Melathediyoor, Palayamkottai, Tirunelveli-627152.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4992,
+    "college_name": "Bethlahem Institute of Engineering",
+    "address": "Nadutheri, Karungal, Kanyakumari-629157.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4993,
+    "college_name": "Loyola Institute of Technology and Science",
+    "address": "P.Bo. No.2, Thovalai - Rajavoor Road, Loyola Nagar, Theroor Village, Thovalai, Kanyakumari District-629302.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4994,
+    "college_name": "J.P. College of Engineering",
+    "address": "College Road, Ayikudy, Tenkasi Taluk, Tirunelveli District-627852.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4996,
+    "college_name": "Sri Vidya College of Engineering and Technology",
+    "address": "Sivakasi Main Road, P.Kumaralingapuram, Virudhunagar-626005.",
+    "raw_address_source": null,
+    "district": "Virudhunagar",
+    "city": "Virudhunagar",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4998,
+    "college_name": "Mahakavi Bharathiyar College of Engineering and Technology",
+    "address": "Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District - 627758.",
+    "raw_address_source": null,
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 4999,
+    "college_name": "Annai Vailankanni College of Engineering",
+    "address": "AVK Nagar, Pothaiyadisalai Pottalkulam, Azhagappapuram PO, Kanyakumari District, Nagercoil-629401.",
+    "raw_address_source": null,
+    "district": "Kanyakumari",
+    "city": "Nagercoil",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5008,
+    "college_name": "Thiagarajar College of Engineering (Autonomous) Tirupparankundram",
+    "address": "Madurai District 625015",
+    "raw_address_source": "Thiagarajar College of Engineering (Autonomous) Tirupparankundram Madurai District 625015",
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5009,
+    "college_name": "Government College of Engineering Melachokkanathapuram Bodinayakkanur",
+    "address": "Theni District 625582",
+    "raw_address_source": "Government College of Engineering Melachokkanathapuram Bodinayakkanur Theni District 625582",
+    "district": "Theni",
+    "city": "Theni",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5010,
+    "college_name": "Anna University Regional Campus - Madurai",
+    "address": "Kanyakumari National Highway Keelakuilkudi Madurai District 625019",
+    "raw_address_source": "Anna University Regional Campus - Madurai Kanyakumari National Highway Keelakuilkudi Madurai District 625019",
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Anna University Regional Campus",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5012,
+    "college_name": "Central Electrochemical Research Institute CECRI) Karaikudi",
+    "address": "Sivagangai District 630006",
+    "raw_address_source": "Central Electrochemical Research Institute CECRI) Karaikudi Sivagangai District 630006",
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Central Govt. Institute",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5017,
+    "college_name": "University College of Engineering Ramanathapuram Pullangudi",
+    "address": "Ramanathapuram District 623513",
+    "raw_address_source": "University College of Engineering Ramanathapuram Pullangudi Ramanathapuram District 623513",
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5022,
+    "college_name": "University College of Engineering Dindigul Mangarai Pirivu Reddiyarchathiram",
+    "address": "Dindigul District 624622",
+    "raw_address_source": "University College of Engineering Dindigul Mangarai Pirivu Reddiyarchathiram Dindigul District 624622",
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Government (Anna University Constituent College)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5502,
+    "college_name": "Sri Raajaraajan College of Engineering and Technology",
+    "address": "No.146/4B1, Amaravathi Village, Amaravathypudhur(Post), Karaikudi Taluk, Sivagangai District-630301.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5530,
+    "college_name": "SSM Institute of Engineering and Technology (Autonomous)",
+    "address": "Kuttathupatti Village, Begambur Post, Dindigul Taluk & District- 624002.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5532,
+    "college_name": "Vaigai College of Engineering",
+    "address": "Therkutheru, Melur Taluk, Madurai- 625122.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5533,
+    "college_name": "Karaikudi Institute of Technology & Karaikudi Institute of Management",
+    "address": "Keeranipatti Village, Thalakkavur Panchayat, Karaikudi, Sivaganga-630307.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5536,
+    "college_name": "Mangayarkarasi College of Engineering",
+    "address": "7-1-139, 1st Street, Mangayarkarasi Nagar, Paravai, Madurai-625402.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5537,
+    "college_name": "Jainee College of Engineering and Technology",
+    "address": "Dindigul-Theni Main Road, (NHB Extn.), Aathupattiprivu, Veerakkal B.P.O.N. Panjampatti Post, Dindigul-624303.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5545,
+    "college_name": "G.T.N COLLEGE OF TECHNOLOGY",
+    "address": "OLD KARUR ROAD, DINDIGUL - 624005",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5546,
+    "college_name": "Jamal Mohamed College of Engineering",
+    "address": "NH-45, Trichy Road, Morepatty, Vadamadurai, Dindigul - 624802",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5703,
+    "college_name": "Christian College of Engineering and Technology",
+    "address": "Near Check Post, Oddanchatram, Dindigul-624619.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5832,
+    "college_name": "N.P.R College of Engineering and Technology (Autonomous)",
+    "address": "Punnappatti Village, Uluppakudi, Natham, Dindigul District- 624401.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5842,
+    "college_name": "SRM Madurai College for Engineering and Technology",
+    "address": "Pottapalayam Village, Manamadurai Taluk, Sivagangai District- 630611.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5851,
+    "college_name": "Veerammal Engineering College",
+    "address": "PVP Nagar, K.Singrakottai, Dindigul-624708.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5862,
+    "college_name": "RVS School of Engineering and Technology",
+    "address": "(Formerly R V S Educational Trust's Group of Institutions), RVS Nagar, N.Paraipatti Post, Dindigul-624005.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5865,
+    "college_name": "Nadar Saraswathi College of Engineering and Technology",
+    "address": "Vadapudupatti, Annanji Post, Theni -625531.",
+    "raw_address_source": null,
+    "district": "Theni",
+    "city": "Theni",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5901,
+    "college_name": "Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi",
+    "address": "Sivagangai District 630004",
+    "raw_address_source": "Alagappa Chettair Government College of Engineering and Technology (Autonomous) Karaikudi Sivagangai District 630004",
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Government",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5902,
+    "college_name": "Bharath Niketan Engineering College",
+    "address": "Shri Gowri Nagar, Thimmarasanaickanoor, Aundipatti, Theni District-625536.",
+    "raw_address_source": null,
+    "district": "Theni",
+    "city": "Theni",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5904,
+    "college_name": "K.L.N.College of Engineering (Autonomous)",
+    "address": "Madurai - Nedunkulam Road, Pottapalayam, Sivagangai District-630611.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5907,
+    "college_name": "Mohamed Sathak Engineering College (Autonomous)",
+    "address": "Sathak Nagar, East Coast Road, Pudhu Mayakulam, Kilakarai, Ramanathapuram District-623806.",
+    "raw_address_source": null,
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5910,
+    "college_name": "PSNA College of Engineering and Technology (Autonomous)",
+    "address": "Kothandaraman Nagar, Muthanampatti (PO), Dindigul-624622.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5911,
+    "college_name": "P.T.R. College of Engineering and Technology",
+    "address": "Thanapandiyan Nagar, Madurai - Tirumangalam Road, Madurai-625008.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5912,
+    "college_name": "Pandian Saraswathi Yadav Engineering College",
+    "address": "Arasanoor Village, Thirumansolai Post, Sivaganagi District-630561.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganagi",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5913,
+    "college_name": "R.V.S. College of Engineering",
+    "address": "RVS Nagar, Karur Road, N.Paraipatti Post, Dindigul-624005.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5914,
+    "college_name": "Solamalai College of Engineering (Autonomous)",
+    "address": "S.V Raja Nagar, Veerapanjan, Madurai-625020.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5915,
+    "college_name": "SACS M.A.V.M.M. Engineering College",
+    "address": "446, Melur - Alagarkoil Road, Kidaripatti (PO), Alagarkoil Via, Melur Taluk, Madurai- 625301.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5919,
+    "college_name": "St. Michael College of Engineering and Technology",
+    "address": "St. Santhiagaper Nagar, Kalayarkoil, Sivaganga District-630551.",
+    "raw_address_source": null,
+    "district": "Sivaganga",
+    "city": "Sivaganga",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5921,
+    "college_name": "Syed Ammal Engineering College (Autonomous)",
+    "address": "Dr. E.M.Abdullah Campus, Lanthai, Achunthanvayal Post, Ramanathapuram- 623502.",
+    "raw_address_source": null,
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5924,
+    "college_name": "Ganapathy Chettiar College of Engineering and Technology",
+    "address": "Melakavanur (PO), Paramakudi, Ramanathapuram District- 623706.",
+    "raw_address_source": null,
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5930,
+    "college_name": "SBM College of Engineering and Technology",
+    "address": "SBM Nagar, Thamaraipadi(PO), Trichy Road, Dindigul-624005.",
+    "raw_address_source": null,
+    "district": "Dindigul",
+    "city": "Dindigul",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5935,
+    "college_name": "Fatima Michael College of Engineering and Technology",
+    "address": "Senkottai Village, Kalimangalam Panchayat,Sivaganga Main Road, Madurai- 625020.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5942,
+    "college_name": "Ultra College of Engineering and Technology",
+    "address": "69/1, Ultra Nagar, Kodikulam I Bit, Madurai - Chennai Highway, Madurai-625104.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5986,
+    "college_name": "Velammal College of Engineering and Technology (Autonomous)",
+    "address": "Velammal Nagar, Viraganoor, Madurai -625009.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Autonomous)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5988,
+    "college_name": "Theni Kammavar Sangam College of Technology",
+    "address": "Theni Main road, Koduvilarpatti (PO), Veerapandi(Via), Theni District-625534.",
+    "raw_address_source": null,
+    "district": "Theni",
+    "city": "Theni",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  },
+  {
+    "tnea_code": 5990,
+    "college_name": "Latha Mathavan Engineering College",
+    "address": "Latha Mathavan Nagar, Kidaripatti, Melur Taluk, Madurai-625301.",
+    "raw_address_source": null,
+    "district": "Madurai",
+    "city": "Madurai",
+    "institution_type_inferred": "Self-Financing (Private)",
+    "source": "TNEA 2025 Master College Directory"
+  }
+]

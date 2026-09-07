@@ -1,0 +1,1 @@
+' in data.get('content', ''):\n            content = data['content']\n            # split by \"

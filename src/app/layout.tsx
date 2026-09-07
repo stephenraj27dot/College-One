@@ -64,6 +64,8 @@ export const metadata: Metadata = {
   },
 };
 
+import { ConditionalLayoutWrappers } from "@/components/layout/ConditionalLayoutWrappers";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -94,8 +96,7 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col bg-slate-50 text-slate-900 antialiased selection:bg-blue-600 selection:text-white overflow-x-hidden w-full">
         <Header />
         <main className="flex-1">{children}</main>
-        <FloatingContactWidget />
-        <Footer />
+        <ConditionalLayoutWrappers />
       </body>
     </html>
   );

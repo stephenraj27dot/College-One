@@ -198,21 +198,23 @@ export function Footer() {
             </div>
           </div>
 
-          <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-            <p>© {new Date().getFullYear()} College Guide. Dedicated exclusively to higher education in Tamil Nadu.</p>
-            <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-xs">
-              <Link href="/terms" className="hover:text-[#f29a38] transition-colors font-medium">
+          <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col items-center justify-center text-center gap-3 text-xs text-slate-400">
+            <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-xs">
+              <Link href="/terms" className="hover:text-[#f29a38] transition-colors font-semibold">
                 Terms & Conditions
               </Link>
-              <span className="text-slate-700 hidden sm:inline">•</span>
-              <Link href="/privacy" className="hover:text-[#f29a38] transition-colors font-medium">
+              <span className="text-slate-700">•</span>
+              <Link href="/privacy" className="hover:text-[#f29a38] transition-colors font-semibold">
                 Privacy Policy
               </Link>
-              <span className="text-slate-700 hidden sm:inline">•</span>
-              <Link href="/disclaimer" className="hover:text-[#f29a38] transition-colors font-medium">
+              <span className="text-slate-700">•</span>
+              <Link href="/disclaimer" className="hover:text-[#f29a38] transition-colors font-semibold">
                 Disclaimer
               </Link>
             </div>
+            <p className="text-slate-500 text-[11px]">
+              © {new Date().getFullYear()} College Guide. Dedicated exclusively to higher education in Tamil Nadu. All rights reserved.
+            </p>
           </div>
         </Container>
       </div>

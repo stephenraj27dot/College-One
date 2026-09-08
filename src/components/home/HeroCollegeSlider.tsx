@@ -20,7 +20,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "CEG Anna University",
     city: "Chennai",
     tnea_code: "1",
-    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1600&q=85",
     tagline: "NIRF #13 | Benchmark for Engineering Excellence"
   },
   {
@@ -29,7 +29,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "ACT Tech Anna Univ",
     city: "Chennai",
     tnea_code: "2",
-    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1600&q=85",
     tagline: "Premier Chemical, Bio & Polymer Tech Campus"
   },
   {
@@ -38,7 +38,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "MIT Chromepet",
     city: "Chengalpattu",
     tnea_code: "4",
-    imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=85",
     tagline: "Alma Mater of Dr. APJ Abdul Kalam | Aeronautical & Auto Hub"
   },
   {
@@ -47,7 +47,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "PSG Tech",
     city: "Coimbatore",
     tnea_code: "2006",
-    imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1600&q=85",
     tagline: "Top Private Engineering Benchmark in South India"
   },
   {
@@ -56,7 +56,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "GCT Coimbatore",
     city: "Coimbatore",
     tnea_code: "2005",
-    imageUrl: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1600&q=85",
     tagline: "Historic Pioneer in Government Technical Education"
   },
   {
@@ -65,7 +65,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "CIT Coimbatore",
     city: "Coimbatore",
     tnea_code: "2007",
-    imageUrl: "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&w=1600&q=85",
     tagline: "NAAC A Grade | Autonomous Premier Research Hub"
   },
   {
@@ -74,7 +74,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "SSN Kalavakkam",
     city: "Kanchipuram",
     tnea_code: "1315",
-    imageUrl: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1600&q=85",
     tagline: "Top NIRF Ranked Elite Research & Industry Placements"
   },
   {
@@ -83,7 +83,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "REC Thandalam",
     city: "Chennai",
     tnea_code: "1211",
-    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1600&q=85",
     tagline: "NAAC A++ Grade | Tier-1 Placements & AI Centres"
   },
   {
@@ -92,7 +92,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "KEC Perundurai",
     city: "Erode",
     tnea_code: "2711",
-    imageUrl: "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&w=1600&q=85",
     tagline: "NAAC A++ Grade | Kongu Region Technical Beacon"
   },
   {
@@ -101,7 +101,7 @@ export const top10TamilNaduColleges: TopCollegeSlide[] = [
     short_name: "KCT Coimbatore",
     city: "Coimbatore",
     tnea_code: "2712",
-    imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?auto=format&fit=crop&w=1600&q=85",
     tagline: "World-Class Forge Innovation Labs & Campus Ecosystem"
   }
 ];
@@ -137,7 +137,7 @@ export function HeroCollegeSlider() {
             key={college.id}
             className={`absolute inset-0 transition-all duration-1000 ease-in-out ${
               isActive
-                ? "opacity-90 scale-105 z-10"
+                ? "opacity-100 scale-105 z-10"
                 : "opacity-0 scale-100 z-0 pointer-events-none"
             }`}
             style={{
@@ -148,20 +148,20 @@ export function HeroCollegeSlider() {
               src={college.imageUrl}
               alt={college.name}
               loading={idx === 0 ? "eager" : "lazy"}
-              className="w-full h-full object-cover object-center brightness-110 contrast-105 saturate-120"
+              className="w-full h-full object-cover object-center brightness-105 contrast-105 saturate-110"
             />
           </div>
         );
       })}
 
-      {/* Multi-layered cinematic glass gradient overlays for high text readability */}
-      <div className="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-slate-950/80 to-slate-900/60 z-10" />
-      <div className="absolute inset-0 bg-radial-[at_20%_20%] from-blue-900/30 via-transparent to-slate-950/90 z-10" />
-      <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-slate-950/60 z-10" />
+      {/* Balanced, vivid gradient overlays: Keep campus images vibrant & bright while ensuring sharp text contrast */}
+      <div className="absolute inset-0 bg-slate-950/40 z-10" />
+      <div className="absolute inset-0 bg-gradient-to-t from-[#0e1220] via-transparent to-[#0e1220]/60 z-10" />
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_30%,rgba(14,18,32,0.55)_100%)] z-10" />
 
       {/* Real-time Dynamic Active College Caption Badge in Bottom Right */}
       {activeCollege && (
-        <div className="absolute bottom-6 right-6 z-20 hidden md:flex items-center gap-3 bg-slate-950/80 backdrop-blur-md px-4 py-2.5 rounded-2xl border border-white/15 shadow-2xl transition-all duration-500 animate-in fade-in slide-in-from-bottom-2">
+        <div className="absolute bottom-6 right-6 z-20 hidden md:flex items-center gap-3 bg-slate-950/85 backdrop-blur-md px-4 py-2.5 rounded-2xl border border-white/20 shadow-2xl transition-all duration-500 animate-in fade-in slide-in-from-bottom-2">
           <div className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
           <div className="flex flex-col text-left">
             <span className="text-[11px] font-black text-amber-400 tracking-wide flex items-center gap-1.5">

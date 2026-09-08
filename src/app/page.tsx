@@ -128,25 +128,25 @@ export default function HomePage() {
 
         <Container size="xl" className="relative z-10 flex flex-col items-center text-center">
           {/* Top Badge */}
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-amber-400/10 px-4 py-1.5 text-[10px] sm:text-xs font-bold tracking-widest text-amber-300 uppercase backdrop-blur-md shadow-sm">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-slate-950/70 px-4 py-1.5 text-[10px] sm:text-xs font-bold tracking-widest text-amber-300 uppercase backdrop-blur-md shadow-lg">
              <div className="h-2 w-2 rounded-full bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
              TAMIL NADU'S OFFICIAL HIGHER EDUCATION & TNEA PORTAL
           </div>
 
           {/* Heading */}
-          <h1 className="mb-4 text-4xl sm:text-5xl md:text-6xl lg:text-[4rem] font-black tracking-tight drop-shadow-lg text-white">
-            Find Your Dream College with <span className="text-[#f29a38] animate-brand-glow">College Guide</span>
+          <h1 className="mb-4 text-4xl sm:text-5xl md:text-6xl lg:text-[4rem] font-black tracking-tight drop-shadow-[0_4px_20px_rgba(0,0,0,0.9)] text-white">
+            Find Your Dream College with <span className="text-[#f29a38] animate-brand-glow drop-shadow-[0_4px_24px_rgba(242,154,56,0.5)]">College Guide</span>
           </h1>
 
           {/* Subheading */}
-          <p className="mb-8 max-w-2xl text-sm sm:text-base md:text-lg text-slate-200 font-medium leading-relaxed drop-shadow-md">
+          <p className="mb-8 max-w-2xl text-sm sm:text-base md:text-lg text-slate-100 font-semibold leading-relaxed drop-shadow-[0_2px_12px_rgba(0,0,0,0.95)]">
             Explore authentic engineering, medical & arts colleges across Tamil Nadu with verified TNEA cutoffs and direct admission counselling.<br className="hidden sm:inline" />
-            <span className="text-[#f29a38] font-bold">Your Path • Our Guide</span>
+            <span className="text-[#f29a38] font-black">Your Path • Our Guide</span>
           </p>
 
           {/* Search Bar */}
           <form onSubmit={handleHeroSearch} className="w-full max-w-[800px] mb-8">
-            <div className="relative flex items-center w-full rounded-[2.5rem] bg-white p-2 shadow-[0_20px_60px_rgba(0,0,0,0.5)] border-2 border-white/80 focus-within:border-[#f29a38] focus-within:ring-4 focus-within:ring-[#f29a38]/30 transition-all duration-300">
+            <div className="relative flex items-center w-full rounded-[2.5rem] bg-white p-2 shadow-[0_25px_60px_rgba(0,0,0,0.6)] border-2 border-white/90 focus-within:border-[#f29a38] focus-within:ring-4 focus-within:ring-[#f29a38]/30 transition-all duration-300">
               <div className="pl-4 text-slate-400">
                 <Search className="h-5 w-5 text-[#f29a38]" />
               </div>
@@ -165,19 +165,19 @@ export default function HomePage() {
 
           {/* Trending Below Search */}
           <div className="flex flex-wrap items-center justify-center gap-2.5 text-[11px] md:text-xs font-bold">
-            <span className="text-amber-400 mr-1 uppercase tracking-wide flex items-center gap-1">
+            <span className="text-amber-400 mr-1 uppercase tracking-wide flex items-center gap-1 drop-shadow-md">
               <Flame className="h-3.5 w-3.5 text-amber-400" /> POPULAR:
             </span>
-            <Link href="/college-predictor" className="px-4 py-1.5 rounded-full border border-amber-400/50 bg-amber-400/20 hover:bg-amber-400/30 text-amber-200 transition-all hover:scale-105">
+            <Link href="/college-predictor" className="px-4 py-1.5 rounded-full border border-amber-400/50 bg-slate-950/60 hover:bg-amber-400/20 text-amber-300 backdrop-blur-md transition-all hover:scale-105 shadow-md">
               TNEA PREDICTOR 2026
             </Link>
-            <Link href="/colleges?district=Chennai" className="px-4 py-1.5 rounded-full border border-white/20 bg-white/10 hover:bg-white/20 text-slate-200 transition-all hover:scale-105">
+            <Link href="/colleges?district=Chennai" className="px-4 py-1.5 rounded-full border border-white/20 bg-slate-950/60 hover:bg-white/20 text-slate-200 backdrop-blur-md transition-all hover:scale-105 shadow-md">
               COLLEGES IN CHENNAI
             </Link>
-            <Link href="/colleges?district=Coimbatore" className="px-4 py-1.5 rounded-full border border-white/20 bg-white/10 hover:bg-white/20 text-slate-200 transition-all hover:scale-105">
+            <Link href="/colleges?district=Coimbatore" className="px-4 py-1.5 rounded-full border border-white/20 bg-slate-950/60 hover:bg-white/20 text-slate-200 backdrop-blur-md transition-all hover:scale-105 shadow-md">
               COLLEGES IN COIMBATORE
             </Link>
-            <Link href="/register" className="px-4 py-1.5 rounded-full border border-emerald-400/50 bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-300 transition-all hover:scale-105">
+            <Link href="/register" className="px-4 py-1.5 rounded-full border border-emerald-400/50 bg-slate-950/60 hover:bg-emerald-500/30 text-emerald-300 backdrop-blur-md transition-all hover:scale-105 shadow-md">
               FREE COUNSELLING
             </Link>
           </div>

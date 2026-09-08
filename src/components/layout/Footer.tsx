@@ -114,6 +114,11 @@ export function Footer() {
                     Tamil Nadu Universities
                   </Link>
                 </li>
+                <li>
+                  <Link href="/guidance" className="hover:text-white transition-colors text-emerald-400 font-semibold">
+                    Free Counselling Support
+                  </Link>
+                </li>
               </ul>
             </div>
 
@@ -193,10 +198,20 @@ export function Footer() {
             </div>
           </div>
 
-          <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
+          <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
             <p>© {new Date().getFullYear()} College Guide. Dedicated exclusively to higher education in Tamil Nadu.</p>
-            <div className="flex items-center gap-4">
-              <span>Data Integrity Policy: Verified Records Only</span>
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-xs">
+              <Link href="/terms" className="hover:text-[#f29a38] transition-colors font-medium">
+                Terms & Conditions
+              </Link>
+              <span className="text-slate-700 hidden sm:inline">•</span>
+              <Link href="/privacy" className="hover:text-[#f29a38] transition-colors font-medium">
+                Privacy Policy
+              </Link>
+              <span className="text-slate-700 hidden sm:inline">•</span>
+              <Link href="/disclaimer" className="hover:text-[#f29a38] transition-colors font-medium">
+                Disclaimer
+              </Link>
             </div>
           </div>
         </Container>

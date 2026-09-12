@@ -10,6 +10,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { WhatsAppButton } from "@/components/guidance/WhatsAppButton";
+import { CollegeCoursesList } from "@/components/college/CollegeCoursesList";
 import {
   MapPin,
   Award,
@@ -256,50 +257,8 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
               </div>
             </Card>
 
-            {/* Courses & Fees Matrix */}
-            <Card className="p-6 sm:p-8 space-y-5">
-              <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-                <h2 className="text-xl font-extrabold text-slate-900">
-                  Offered Courses & Seat Intake
-                </h2>
-                <Badge variant="default" className="text-xs">
-                  {college.courses?.length || 0} Programs
-                </Badge>
-              </div>
-
-              <div className="space-y-3">
-                {college.courses?.map((course) => (
-                  <div
-                    key={course.id}
-                    className="p-4 rounded-2xl border border-slate-200 bg-white hover:border-blue-300 transition-all flex flex-col sm:flex-row sm:items-center justify-between gap-4"
-                  >
-                    <div className="space-y-1">
-                      <div className="flex items-center gap-2">
-                        <Badge variant="secondary" className="text-[10px]">
-                          {course.degree_level} • {course.duration_years} Years
-                        </Badge>
-                        <span className="text-xs text-emerald-600 font-semibold">
-                          {course.study_mode}
-                        </span>
-                      </div>
-                      <h4 className="font-bold text-sm text-slate-900">
-                        {course.course_name}
-                      </h4>
-                      <p className="text-xs text-slate-500">
-                        Intake: <strong className="text-slate-800">{course.intake_capacity || "Available"} Seats</strong> | Eligibility: {course.eligibility || "12th Standard"}
-                      </p>
-                    </div>
-
-                    <div className="flex sm:flex-col items-end justify-between sm:justify-center border-t sm:border-t-0 pt-2 sm:pt-0 border-slate-100 shrink-0 text-right">
-                      <span className="text-[11px] text-slate-500">Govt / Standard Tuition</span>
-                      <span className="text-sm font-extrabold text-blue-600">
-                        {formatCurrency(course.tuition_fee_per_year)} / yr
-                      </span>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </Card>
+            {/* Courses & Fees Matrix with Instant Guidance Modal Apply */}
+            <CollegeCoursesList college={college} />
 
             {/* Verified TNEA Historical Cutoffs */}
             <Card className="p-6 sm:p-8 space-y-5">

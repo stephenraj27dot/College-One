@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { Card } from "@/components/ui/card";
@@ -54,6 +54,21 @@ export default function StudentRegisterPage() {
     hostel_needed: "Yes",
     student_notes: "",
   });
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const col = params.get("college");
+      const crs = params.get("course");
+      if (col || crs) {
+        setFormData((prev) => ({
+          ...prev,
+          target_college_name: col ? decodeURIComponent(col) : prev.target_college_name,
+          preferred_course: crs ? decodeURIComponent(crs) : prev.preferred_course,
+        }));
+      }
+    }
+  }, []);
 
   const [loading, setLoading] = useState(false);
   const [submittedRef, setSubmittedRef] = useState<string | null>(null);

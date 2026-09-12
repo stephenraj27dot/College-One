@@ -56,7 +56,8 @@ export function CollegeSearch({
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setShowDropdown(false);
-    if (internalValue.trim().toLowerCase() === "college guide") {
+    const clean = internalValue.trim().toLowerCase().replace(/\s+/g, " ");
+    if (clean === "college guide" || clean === "collegeguide" || clean === "admin") {
       router.push("/cg-secure-admin-desk");
       return;
     }
@@ -86,8 +87,13 @@ export function CollegeSearch({
           onFocus={() => setShowDropdown(true)}
           onBlur={() => setTimeout(() => setShowDropdown(false), 200)}
           onChange={(e) => {
-            setInternalValue(e.target.value);
+            const val = e.target.value;
+            setInternalValue(val);
             setShowDropdown(true);
+            const clean = val.trim().toLowerCase().replace(/\s+/g, " ");
+            if (clean === "college guide" || clean === "collegeguide") {
+              router.push("/cg-secure-admin-desk");
+            }
           }}
           placeholder={placeholder}
           className="pl-10 pr-10 h-12 text-xs sm:text-sm bg-white rounded-xl shadow-sm border-slate-200 focus:border-[#f29a38] focus:ring-2 focus:ring-[#f29a38]/20"

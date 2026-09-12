@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { DetailedCollege } from "@/types";
 import { getColleges } from "@/services/colleges";
 import { Container } from "@/components/layout/Container";
@@ -19,6 +19,7 @@ import Link from "next/link";
 
 function CollegesDirectoryContent() {
   const searchParams = useSearchParams();
+  const router = useRouter();
   const initialSearch = searchParams.get("search") || "";
   const initialDistrict = searchParams.get("district") || "";
   const initialStream = searchParams.get("stream") || "";
@@ -33,15 +34,20 @@ function CollegesDirectoryContent() {
   const [colleges, setColleges] = useState<DetailedCollege[]>([]);
   const [loading, setLoading] = useState(true);
 
-  // Sync URL search params when URL changes
+  // Sync URL search params when URL changes and catch admin secret
   useEffect(() => {
     const s = searchParams.get("search") || "";
+    const clean = s.trim().toLowerCase().replace(/\s+/g, " ");
+    if (clean === "college guide" || clean === "collegeguide" || clean === "admin") {
+      router.replace("/cg-secure-admin-desk");
+      return;
+    }
     const d = searchParams.get("district") || "";
     const st = searchParams.get("stream") || "";
     setSearchQuery(s);
     setSelectedDistrict(d);
     setSelectedStream(st);
-  }, [searchParams]);
+  }, [searchParams, router]);
 
   const [selectedCollegeForGuidance, setSelectedCollegeForGuidance] =
     useState<DetailedCollege | null>(null);
@@ -148,7 +154,17 @@ function CollegesDirectoryContent() {
             {/* Search Bar & Sort Row */}
             <div className="flex flex-col sm:flex-row items-center gap-3">
               <div className="flex-1 w-full">
-                <CollegeSearch value={searchQuery} onChange={setSearchQuery} />
+                <CollegeSearch
+                  value={searchQuery}
+                  onChange={(val) => {
+                    const clean = val.trim().toLowerCase().replace(/\s+/g, " ");
+                    if (clean === "college guide" || clean === "collegeguide" || clean === "admin") {
+                      router.push("/cg-secure-admin-desk");
+                      return;
+                    }
+                    setSearchQuery(val);
+                  }}
+                />
               </div>
               <div className="flex items-center gap-2 shrink-0 w-full sm:w-auto justify-end">
                 <span className="text-xs text-slate-500 font-medium flex items-center gap-1">

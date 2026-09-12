@@ -447,44 +447,49 @@ export default function AdminDashboardPage() {
   /* ---------------- LUXURY REDESIGNED GATEWAY LOGIN UI ---------------- */
   if (!isAuthenticated) {
     return (
-      <div className="relative min-h-[90vh] flex items-center justify-center px-4 py-16 bg-[#0c1021] overflow-hidden">
+      <div className="relative min-h-[90vh] flex items-center justify-center px-3 sm:px-4 py-8 sm:py-16 bg-[#0c1021] overflow-hidden">
         {/* Ambient Glows */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[350px] bg-gradient-to-tr from-amber-500/15 via-blue-600/15 to-purple-600/10 blur-[130px] pointer-events-none rounded-full" />
         <div className="absolute bottom-10 left-10 w-72 h-72 bg-blue-500/10 blur-[100px] pointer-events-none rounded-full" />
 
-        <Container size="sm" className="relative z-10 w-full max-w-lg space-y-6">
-          {/* Header Badge & Title with Logo */}
-          <div className="text-center space-y-3">
-            <div className="relative inline-flex items-center justify-center">
-              <div className="absolute -inset-2 rounded-full bg-gradient-to-r from-amber-500 via-amber-300 to-orange-500 opacity-70 blur-xl animate-pulse" />
-              <div className="relative h-24 w-24 rounded-full bg-[#161a2e] border-2 border-amber-400 p-1.5 shadow-2xl overflow-hidden flex items-center justify-center">
-                <img
-                  src="/logo.jpg"
-                  alt="College Guide"
-                  className="h-full w-full object-cover rounded-full shadow-inner"
-                />
+        <Container size="sm" className="relative z-10 w-full max-w-lg px-0 sm:px-4">
+          {/* Luxury Frosted Card containing all login elements */}
+          <Card className="relative p-5 sm:p-9 bg-[#161a2e]/95 rounded-2xl sm:rounded-[32px] border border-white/15 shadow-[0_30px_90px_rgba(0,0,0,0.8)] space-y-5 sm:space-y-7 backdrop-blur-2xl">
+            {/* Top Amber Accent Glow */}
+            <div className="absolute -top-[1px] left-8 sm:left-12 right-8 sm:right-12 h-[2px] bg-gradient-to-r from-transparent via-[#f29a38] to-transparent" />
+
+            {/* Header: Centered Logo, Badge, Title, Subtitle */}
+            <div className="flex flex-col items-center text-center space-y-3">
+              {/* Glowing Logo */}
+              <div className="relative inline-flex items-center justify-center mb-1">
+                <div className="absolute -inset-2 rounded-full bg-gradient-to-r from-amber-500 via-amber-300 to-orange-500 opacity-70 blur-xl animate-pulse" />
+                <div className="relative h-20 w-20 sm:h-24 sm:w-24 rounded-full bg-[#161a2e] border-2 border-amber-400 p-1.5 shadow-2xl overflow-hidden flex items-center justify-center">
+                  <img
+                    src="/logo.jpg"
+                    alt="College Guide"
+                    className="h-full w-full object-cover rounded-full shadow-inner"
+                  />
+                </div>
+              </div>
+
+              {/* Centered Secure Admin Access Badge */}
+              <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-400/10 text-amber-400 border border-amber-400/30 text-xs font-black uppercase tracking-wider">
+                <ShieldCheck className="h-3.5 w-3.5" />
+                <span>Secure Admin Access</span>
+              </div>
+
+              {/* Title & Subtitle */}
+              <div className="space-y-1">
+                <h1 className="text-2xl sm:text-4xl font-black text-white tracking-tight">
+                  Admin Login
+                </h1>
+                <p className="text-xs sm:text-sm text-slate-300 max-w-xs sm:max-w-sm mx-auto leading-relaxed">
+                  This area is protected for College Guide administrators only.
+                </p>
               </div>
             </div>
 
-            <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-400/10 text-amber-400 border border-amber-400/30 text-xs font-black uppercase tracking-wider">
-              <ShieldCheck className="h-3.5 w-3.5" />
-              <span>Official Staff & CRM Gateway</span>
-            </div>
-
-            <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
-              Staff & Counsellor Gateway
-            </h1>
-            <p className="text-xs sm:text-sm text-slate-300 max-w-sm mx-auto leading-relaxed">
-              This area contains confidential student admission inquiries and is protected for College Guide staff only.
-            </p>
-          </div>
-
-          {/* Luxury Frosted Card */}
-          <Card className="relative p-7 sm:p-9 bg-[#161a2e]/95 rounded-[32px] border border-white/15 shadow-[0_30px_90px_rgba(0,0,0,0.8)] space-y-6 backdrop-blur-2xl">
-            {/* Top Amber Accent Glow */}
-            <div className="absolute -top-[1px] left-12 right-12 h-[2px] bg-gradient-to-r from-transparent via-[#f29a38] to-transparent" />
-
-            <form onSubmit={handleAdminLogin} className="space-y-5">
+            <form onSubmit={handleAdminLogin} className="space-y-4 sm:space-y-5 pt-1">
               {authError && (
                 <div className="p-3.5 rounded-2xl bg-rose-500/15 border border-rose-500/30 text-rose-300 text-xs font-bold flex items-center gap-2.5 animate-shake">
                   <AlertCircle className="h-4 w-4 shrink-0 text-rose-400" />
@@ -505,7 +510,7 @@ export default function AdminDashboardPage() {
                     placeholder="••••••••  (Enter 5-digit PIN)"
                     value={passcode}
                     onChange={(e) => setPasscode(e.target.value)}
-                    className="h-14 rounded-2xl bg-[#0b0e1b] border-slate-700 text-white font-mono text-center text-xl placeholder:text-slate-500 placeholder:text-sm placeholder:font-sans tracking-widest pl-4 pr-12 focus:border-amber-400 focus:ring-4 focus:ring-amber-500/20 shadow-inner transition-all"
+                    className="h-12 sm:h-14 rounded-xl sm:rounded-2xl bg-[#0b0e1b] border-slate-700 text-white font-mono text-center text-lg sm:text-xl placeholder:text-slate-500 placeholder:text-xs sm:placeholder:text-sm placeholder:font-sans tracking-widest pl-4 pr-12 focus:border-amber-400 focus:ring-4 focus:ring-amber-500/20 shadow-inner transition-all"
                   />
                   <button
                     type="button"
@@ -531,7 +536,7 @@ export default function AdminDashboardPage() {
 
               <Button
                 type="submit"
-                className="w-full h-13 bg-gradient-to-r from-[#f29a38] via-[#e28c29] to-[#d98528] hover:from-[#e28c29] hover:to-[#b76e1f] text-white font-black text-sm rounded-2xl shadow-[0_4px_25px_rgba(242,154,56,0.4)] hover:shadow-[0_6px_30px_rgba(242,154,56,0.6)] gap-2 transition-all hover:scale-[1.02] border-0"
+                className="w-full h-12 sm:h-13 bg-gradient-to-r from-[#f29a38] via-[#e28c29] to-[#d98528] hover:from-[#e28c29] hover:to-[#b76e1f] text-white font-black text-xs sm:text-sm rounded-xl sm:rounded-2xl shadow-[0_4px_25px_rgba(242,154,56,0.4)] hover:shadow-[0_6px_30px_rgba(242,154,56,0.6)] gap-2 transition-all hover:scale-[1.02] border-0"
               >
                 <Key className="h-4 w-4" />
                 <span>Unlock CRM & Leads Portal</span>
@@ -539,32 +544,7 @@ export default function AdminDashboardPage() {
               </Button>
             </form>
 
-            {/* Portal Features Feature Pills */}
-            <div className="pt-4 border-t border-white/10 space-y-3">
-              <span className="text-[11px] uppercase font-black tracking-wider text-slate-400 block text-center">
-                Authorized Workspace Includes:
-              </span>
-              <div className="grid grid-cols-2 gap-2 text-[11px]">
-                <div className="p-2 rounded-xl bg-white/5 border border-white/5 flex items-center gap-2 text-slate-300">
-                  <Database className="h-3.5 w-3.5 text-blue-400 shrink-0" />
-                  <span>Live 2,128 Database</span>
-                </div>
-                <div className="p-2 rounded-xl bg-white/5 border border-white/5 flex items-center gap-2 text-slate-300">
-                  <FileText className="h-3.5 w-3.5 text-emerald-400 shrink-0" />
-                  <span>Export PDF Reports</span>
-                </div>
-                <div className="p-2 rounded-xl bg-white/5 border border-white/5 flex items-center gap-2 text-slate-300">
-                  <PlusCircle className="h-3.5 w-3.5 text-amber-400 shrink-0" />
-                  <span>Manual College Add</span>
-                </div>
-                <div className="p-2 rounded-xl bg-white/5 border border-white/5 flex items-center gap-2 text-slate-300">
-                  <MessageCircle className="h-3.5 w-3.5 text-rose-400 shrink-0" />
-                  <span>Direct Lead WhatsApp</span>
-                </div>
-              </div>
-            </div>
-
-            <div className="text-center pt-1">
+            <div className="text-center pt-2">
               <span className="text-[11px] text-slate-400 flex items-center justify-center gap-1.5">
                 <ShieldCheck className="h-3.5 w-3.5 text-emerald-400" />
                 <span>100% Confidential • End-to-End Encrypted</span>

@@ -32,6 +32,7 @@ import {
   ArrowRight,
   CheckCircle2,
   SlidersHorizontal,
+  ShieldCheck,
 } from "lucide-react";
 import { siteConfig } from "@/config/site";
 
@@ -102,7 +103,8 @@ export function Header() {
 
   const handleHeaderSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    if (headerSearch.trim().toLowerCase() === "college guide") {
+    const cleanTerm = headerSearch.trim().toLowerCase().replace(/\s+/g, " ");
+    if (cleanTerm === "college guide" || cleanTerm === "collegeguide" || cleanTerm === "admin") {
       router.push("/cg-secure-admin-desk");
       setActiveDropdown(null);
       setMobileMenuOpen(false);
@@ -524,10 +526,26 @@ export function Header() {
                 <input
                   type="text"
                   value={headerSearch}
-                  onChange={(e) => setHeaderSearch(e.target.value)}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    setHeaderSearch(val);
+                    const clean = val.trim().toLowerCase().replace(/\s+/g, " ");
+                    if (clean === "college guide" || clean === "collegeguide" || clean === "admin") {
+                      router.push("/cg-secure-admin-desk");
+                      setActiveDropdown(null);
+                      setMobileMenuOpen(false);
+                    }
+                  }}
                   placeholder="Search colleges, codes, cities..."
-                  className="w-full h-11 rounded-xl pl-10 pr-3 bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-xs focus:outline-none focus:bg-white/15 focus:ring-2 focus:ring-[#f29a38]"
+                  className="w-full h-11 rounded-xl pl-10 pr-10 bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-xs focus:outline-none focus:bg-white/15 focus:ring-2 focus:ring-[#f29a38]"
                 />
+                <button
+                  type="submit"
+                  aria-label="Search"
+                  className="absolute right-2 top-1/2 -translate-y-1/2 p-2 text-slate-400 hover:text-white"
+                >
+                  <ArrowRight className="h-4 w-4 text-amber-400" />
+                </button>
               </form>
 
               {/* Navigation Links with Accordion Animations */}
@@ -688,6 +706,16 @@ export function Header() {
                   </Button>
                 </Link>
               </div>
+
+              {/* Admin Portal Quick Access Button on Mobile */}
+              <Link
+                href="/cg-secure-admin-desk"
+                onClick={() => setMobileMenuOpen(false)}
+                className="w-full flex items-center justify-center gap-2 p-2.5 rounded-xl bg-white/5 hover:bg-white/10 text-slate-400 hover:text-amber-400 text-[11px] font-bold border border-white/10 transition-colors"
+              >
+                <ShieldCheck className="h-3.5 w-3.5 text-amber-400" />
+                <span>Admin & Staff Portal</span>
+              </Link>
             </div>
           </aside>
         </div>

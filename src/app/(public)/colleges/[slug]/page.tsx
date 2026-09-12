@@ -423,22 +423,12 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
                 </p>
               </div>
 
-              <div className="space-y-2.5 pt-2">
+              <div className="pt-2">
                 <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="block w-full">
                   <Button variant="whatsapp" size="lg" className="w-full font-bold shadow-lg">
                     Chat on WhatsApp
                   </Button>
                 </a>
-
-                <Link href={`/compare`} className="block w-full">
-                  <Button
-                    variant="outline"
-                    size="md"
-                    className="w-full text-white bg-white/10 hover:bg-white/20 border-2 border-white/30 hover:border-amber-400 font-bold rounded-2xl text-xs shadow-md transition-all"
-                  >
-                    Compare with Other TN Colleges
-                  </Button>
-                </Link>
               </div>
             </Card>
 

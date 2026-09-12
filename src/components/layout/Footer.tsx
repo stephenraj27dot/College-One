@@ -211,11 +211,6 @@ export function Footer() {
               <Link href="/disclaimer" className="hover:text-[#f29a38] transition-colors font-semibold">
                 Disclaimer
               </Link>
-              <span className="text-slate-700">•</span>
-              <Link href="/cg-secure-admin-desk" className="hover:text-amber-400 transition-colors font-semibold flex items-center gap-1 text-slate-400">
-                <ShieldCheck className="h-3 w-3 text-amber-400" />
-                <span>Admin Portal</span>
-              </Link>
             </div>
             <p className="text-slate-500 text-[11px]">
               © {new Date().getFullYear()} College Guide. Dedicated exclusively to higher education in Tamil Nadu. All rights reserved.

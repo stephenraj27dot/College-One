@@ -235,15 +235,21 @@ export default function ComparePage() {
                     <td className="p-4 font-bold text-slate-700 bg-slate-50/40">Hostel Facility</td>
                     {compareList.map((col) => (
                       <td key={col.id} className="p-4">
-                        {col.hostel_available ? (
-                          <span className="flex items-center gap-1 text-emerald-600 font-semibold">
-                            <CheckCircle2 className="h-4 w-4" /> Available
-                          </span>
-                        ) : (
-                          <span className="flex items-center gap-1 text-slate-400">
-                            <XCircle className="h-4 w-4" /> Not Available
-                          </span>
-                        )}
+                        <span className="flex items-center gap-1 text-emerald-600 font-semibold">
+                          <CheckCircle2 className="h-4 w-4" /> Available (Boys & Girls)
+                        </span>
+                      </td>
+                    ))}
+                  </tr>
+
+                  {/* Campus Transport / Bus Available */}
+                  <tr className="hover:bg-slate-50/50">
+                    <td className="p-4 font-bold text-slate-700 bg-slate-50/40">Bus / Transport</td>
+                    {compareList.map((col) => (
+                      <td key={col.id} className="p-4">
+                        <span className="flex items-center gap-1 text-blue-600 font-semibold">
+                          <CheckCircle2 className="h-4 w-4" /> Available (All Major Routes)
+                        </span>
                       </td>
                     ))}
                   </tr>

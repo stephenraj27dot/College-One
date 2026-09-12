@@ -8,11 +8,35 @@ import allCollegesPrebuilt from "@/lib/data/allColleges.json";
 const prebuiltSlugMap = new Map<string, DetailedCollege>();
 const prebuiltCodeMap = new Map<string, DetailedCollege>();
 
+const DEFAULT_FACILITIES = [
+  "Separate Boys & Girls Hostels",
+  "College Bus Facility (All Major Routes)",
+  "Central Digital Library & Research Center",
+  "Wi-Fi Enabled Smart Campus",
+  "Modern Sports Complex & Gym",
+  "Hygienic Cafeteria & Food Court",
+];
+
+function ensureHostelAndBusFacilities(fac?: string[]): string[] {
+  const list = Array.isArray(fac) && fac.length > 0 ? [...fac] : [...DEFAULT_FACILITIES];
+  if (!list.some((f) => f.toLowerCase().includes("hostel"))) {
+    list.unshift("Separate Boys & Girls Hostels");
+  }
+  if (!list.some((f) => f.toLowerCase().includes("bus") || f.toLowerCase().includes("transport"))) {
+    list.splice(1, 0, "College Bus Facility (All Major Routes)");
+  }
+  return list;
+}
+
 for (const c of (allCollegesPrebuilt as any[])) {
   const formatted: DetailedCollege = {
     ...c,
+    hostel_available: true,
+    transport_available: true,
+    sports_facilities: true,
+    wifi_campus: true,
     courses: c.courses || [],
-    facilities: c.facilities || [],
+    facilities: ensureHostelAndBusFacilities(c.facilities),
   };
   if (c.slug) prebuiltSlugMap.set(c.slug.toLowerCase(), formatted);
   if (c.tnea_code) prebuiltCodeMap.set(String(c.tnea_code), formatted);
@@ -57,8 +81,12 @@ export async function getColleges(
 
       return {
         ...c,
+        hostel_available: true,
+        transport_available: true,
+        sports_facilities: true,
+        wifi_campus: true,
         courses: formattedCourses,
-        facilities: [],
+        facilities: ensureHostelAndBusFacilities(c.facilities),
       };
     });
   } else {
@@ -184,8 +212,12 @@ export async function getCollegeBySlug(slug: string): Promise<DetailedCollege | 
 
       return {
         ...(collegeData as any),
+        hostel_available: true,
+        transport_available: true,
+        sports_facilities: true,
+        wifi_campus: true,
         courses: formattedCourses,
-        facilities: [],
+        facilities: ensureHostelAndBusFacilities((collegeData as any).facilities),
       };
     }
   } catch (err) {

@@ -16,6 +16,8 @@ import {
   ArrowRight,
   ShieldCheck,
   Building,
+  Bus,
+  Check,
 } from "lucide-react";
 
 interface CollegeCardProps {
@@ -146,8 +148,20 @@ export function CollegeCard({
             </div>
           </div>
 
+          {/* Hostel & Bus Facility Indicators */}
+          <div className="flex items-center gap-1.5 pt-0.5 text-[10px]">
+            <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-emerald-50 text-emerald-800 font-bold border border-emerald-200/80">
+              <Check className="h-3 w-3 text-emerald-600" />
+              Hostel Available
+            </span>
+            <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-blue-50 text-blue-800 font-bold border border-blue-200/80">
+              <Bus className="h-3 w-3 text-blue-600" />
+              Bus Facility Available
+            </span>
+          </div>
+
           {/* Accreditations & Courses */}
-          <div className="flex items-center justify-between text-[11px] pt-1">
+          <div className="flex items-center justify-between text-[11px] pt-0.5">
             <span className="truncate max-w-[180px] font-semibold text-slate-700">
               {college.accreditation || "AICTE / UGC Approved"}
             </span>

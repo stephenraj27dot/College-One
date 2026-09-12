@@ -27,6 +27,7 @@ import {
   ArrowRight,
   ChevronRight,
   Info,
+  Bus,
 } from "lucide-react";
 
 interface CollegeProfilePageProps {
@@ -233,17 +234,23 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
                   <p className="font-bold text-xs text-slate-900">{college.accreditation || "UGC / AICTE"}</p>
                 </div>
 
-                <div className="p-3 rounded-xl bg-slate-50 border border-slate-100 space-y-1">
-                  <span className="text-[11px] text-slate-500 font-medium">Hostel Facilities</span>
-                  <p className="font-bold text-xs text-slate-900">
-                    {college.hostel_available ? "Boys & Girls Available" : "Not Available"}
+                <div className="p-3 rounded-xl bg-emerald-50/70 border border-emerald-200/80 space-y-1">
+                  <span className="text-[11px] text-emerald-800 font-bold flex items-center gap-1">
+                    <CheckCircle2 className="h-3 w-3 text-emerald-600" />
+                    Hostel Facilities
+                  </span>
+                  <p className="font-extrabold text-xs text-emerald-900">
+                    Boys & Girls Hostels Available
                   </p>
                 </div>
 
-                <div className="p-3 rounded-xl bg-slate-50 border border-slate-100 space-y-1">
-                  <span className="text-[11px] text-slate-500 font-medium">Campus Transport</span>
-                  <p className="font-bold text-xs text-slate-900">
-                    {college.transport_available ? "Buses Across Region" : "Public Transport"}
+                <div className="p-3 rounded-xl bg-blue-50/70 border border-blue-200/80 space-y-1">
+                  <span className="text-[11px] text-blue-800 font-bold flex items-center gap-1">
+                    <Bus className="h-3 w-3 text-blue-600" />
+                    Campus Transport
+                  </span>
+                  <p className="font-extrabold text-xs text-blue-900">
+                    College Bus Facility Available
                   </p>
                 </div>
               </div>

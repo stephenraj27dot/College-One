@@ -13,6 +13,10 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
+        hostname: "thumb.wikimedia.org",
+      },
+      {
+        protocol: "https",
         hostname: "*.supabase.co",
       },
     ],

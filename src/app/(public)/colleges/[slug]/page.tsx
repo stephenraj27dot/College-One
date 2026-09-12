@@ -126,20 +126,23 @@ export default async function CollegeProfilePage({ params }: CollegeProfilePageP
       </div>
 
       {/* 2. Hero Banner & College Header */}
-      <div className="relative bg-slate-900 text-white overflow-hidden">
-        <div className="relative h-64 sm:h-80 w-full">
+      <div className="relative bg-slate-900 text-white overflow-hidden min-h-[50vh] sm:min-h-[56vh] lg:min-h-[60vh] flex flex-col justify-end">
+        {/* Full-width Campus Background Image */}
+        <div className="absolute inset-0 w-full h-full">
           <img
             src={
               college.banner_url ||
               getCampusImageForCollege(college.tnea_code, college.slug, college.name)
             }
             alt={college.name}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-center"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/60 to-transparent" />
+          {/* Gradient overlays for crisp text contrast & cinematic atmosphere */}
+          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/30" />
+          <div className="absolute inset-0 bg-slate-950/20 backdrop-blur-[0.5px]" />
         </div>
 
-        <Container size="xl" className="relative -mt-24 sm:-mt-28 pb-8 z-10">
+        <Container size="xl" className="relative pb-8 sm:pb-10 pt-20 sm:pt-24 z-10">
           <div className="flex flex-col md:flex-row items-start md:items-end justify-between gap-6">
             {/* Logo & Identity */}
             <div className="flex flex-col sm:flex-row items-start sm:items-end gap-5">

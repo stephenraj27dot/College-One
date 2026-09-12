@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { siteConfig } from "@/config/site";
-import { tn38DistrictsColleges as verifiedColleges } from "@/lib/data/tn38DistrictsColleges";
+import { verifiedColleges } from "@/lib/data/verifiedTamilNaduData";
 import { Container } from "@/components/layout/Container";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
